@@ -1,0 +1,38 @@
+{
+  "schema": "byd-v4-layer-comp-recapture-r17/v1",
+  "prepared_at": "2026-09-20",
+  "status": "PREPARED_COLD_NOT_EXECUTED",
+  "script": "WORK/05_SCRIPTS/recapture_templates_r17.jsx",
+  "script_sha256": "54b404cbf99ce5845f9eb1ad74e40f7e1d4fd0d997b272ba92be3471425b0521",
+  "static_check": "OK",
+  "root_cause": {
+    "bad_call": "LayerComps.add(name, comment, true, false, false)",
+    "argument_order": "appearance, position, visibility",
+    "effect": "appearance was recorded and visibility was not recorded",
+    "correct_call": "LayerComps.add(name, comment, false, false, true)"
+  },
+  "scope": {
+    "outputs": "WORK/01_TEMPLATES/2026-09-20-r17/",
+    "templates": 7,
+    "layer_comps_per_template": 20,
+    "png_exports": 0,
+    "approved_pngs_mutated": false,
+    "geometry_or_text_mutation": false
+  },
+  "sources": [
+    {"format": "1920x276", "revision": "r14_exception_strip", "path": "WORK/01_TEMPLATES/2026-09-20-r14/BYD_TPL_1920x276.psd"},
+    {"format": "1920x1080", "revision": "r16", "path": "WORK/01_TEMPLATES/2026-09-20-r16/BYD_TPL_1920x1080.psd"},
+    {"format": "1920x1125", "revision": "r16", "path": "WORK/01_TEMPLATES/2026-09-20-r16/BYD_TPL_1920x1125.psd"},
+    {"format": "1080x1080", "revision": "r10", "path": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"},
+    {"format": "1080x1920", "revision": "r16", "path": "WORK/01_TEMPLATES/2026-09-20-r16/BYD_TPL_1080x1920.psd"},
+    {"format": "1109x1973", "revision": "r16", "path": "WORK/01_TEMPLATES/2026-09-20-r16/BYD_TPL_1109x1973.psd"},
+    {"format": "360x80", "revision": "r10", "path": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_360x80.psd"}
+  ],
+  "runtime_proof": {
+    "method": "For every comp, activate the next offer as a decoy, apply the target comp, and verify the exact visible direct child in OFERTA, CONDICIONAIS, LEGAL, VEICULO, and BG.",
+    "before_save_tests": 140,
+    "after_reopen_tests": 140,
+    "total_apply_tests": 280,
+    "saved_resting_state": "atto-2"
+  }
+}

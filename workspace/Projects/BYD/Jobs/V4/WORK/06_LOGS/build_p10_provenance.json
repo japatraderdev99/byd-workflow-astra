@@ -1,0 +1,9 @@
+{
+  "created_at": "2026-09-19T13:15:15.486585-03:00",
+  "source": "build_p09.jsx",
+  "script_sha256": "f2f88fe29cc3b7b5c23b51d8e807a98d89d35a3b13919a2866e7c853a6539d5b",
+  "input_spec": "WORK/00_MATRIZ/pilot_spec_p10.json",
+  "output_templates": "WORK/01_TEMPLATES/2026-09-19-p10/",
+  "output_pilots": "WORK/02_PILOTOS/2026-09-19-p10/",
+  "status": "DRAFT_3_STATES_NOT_CANONICAL"
+}

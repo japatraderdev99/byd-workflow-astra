@@ -1,0 +1,2 @@
+2026-09-19T12:13:49-03:00 | INICIO|extrair_tipografia_psd|modelo_solicitado=gpt-5.6-terra|esforco_solicitado=high|modelo_observado=gpt-6-astra|esforco_observado=herdado-padrao
+2026-09-19T12:14:22-03:00 | OK|extrair_tipografia_psd|duracao_s=32.797|text_layers=151|fonts='ArialMT','SourceSansPro-Black','SourceSansPro-BoldIt','SourceSansPro-Regular','SourceSansPro-Semibold'|input_opened_read_only=true|render=false

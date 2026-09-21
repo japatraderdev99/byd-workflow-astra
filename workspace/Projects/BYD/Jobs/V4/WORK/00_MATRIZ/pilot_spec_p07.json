@@ -1,0 +1,129 @@
+{
+  "source": "INPUT/02_PSD_oficial todas as artes em feed/26.08.07 VAREJO BYD FEED 1080x1350.psd",
+  "logo": "WORK/00_MATRIZ/logo_oficial_branco.pdf",
+  "revision": "p07",
+  "formats": [
+    {
+      "w": 1920,
+      "h": 276,
+      "id": "1920x276",
+      "zones": {
+        "logo": [
+          50,
+          48,
+          310,
+          50
+        ],
+        "tagline": [
+          50,
+          120,
+          310,
+          27
+        ],
+        "footer": [
+          50,
+          185,
+          310,
+          30
+        ],
+        "title": [
+          450,
+          24,
+          690,
+          33
+        ],
+        "price": [
+          450,
+          76,
+          480,
+          86
+        ],
+        "benefit": [
+          450,
+          179,
+          690,
+          24
+        ],
+        "headline": [
+          450,
+          213,
+          690,
+          18
+        ],
+        "car": [
+          1290,
+          10,
+          465,
+          218
+        ],
+        "legal": [
+          50,
+          240,
+          1820,
+          30
+        ],
+        "badges": [
+          1765,
+          30,
+          105,
+          170
+        ]
+      },
+      "legal_font": 11
+    }
+  ],
+  "offers": [
+    {
+      "id": "yuan-plus-awd-26-27",
+      "title": 220,
+      "price": 224,
+      "legal": 227,
+      "car": 233,
+      "car_bounds": [
+        186,
+        462,
+        895,
+        842
+      ],
+      "benefit": 1167,
+      "headline": 229,
+      "extra": []
+    },
+    {
+      "id": "dolphin-mini-5l-gs",
+      "title": 56,
+      "price": 59,
+      "legal": 63,
+      "car": 21,
+      "car_bounds": [
+        185,
+        492,
+        873,
+        840
+      ],
+      "benefit": 1166,
+      "headline": 2940,
+      "extra": [
+        61,
+        67,
+        32
+      ]
+    },
+    {
+      "id": "vd-atto-2",
+      "title": 2956,
+      "price": 2960,
+      "legal": 2963,
+      "car": 2954,
+      "car_bounds": [
+        154,
+        482,
+        902,
+        863
+      ],
+      "benefit": 2966,
+      "headline": 2965,
+      "extra": []
+    }
+  ]
+}

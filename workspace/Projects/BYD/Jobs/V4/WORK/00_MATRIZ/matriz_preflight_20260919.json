@@ -1,0 +1,259 @@
+{
+  "schema": "byd-v4-preflight-matrix/v1",
+  "created_at": "2026-09-19T12:52:43-03:00",
+  "audit_started_at": "2026-09-19T12:52:13-03:00",
+  "audit_finished_at": "2026-09-19T12:52:43-03:00",
+  "write_guard": "REFUSE_OVERWRITE: create a new dated revision; do not rewrite this audit record.",
+  "derivation": {
+    "source_matrix": "WORK/00_MATRIZ/matriz_candidatos_estrutural.json",
+    "source_matrix_sha256": "f3358926f8ccf1dfb65ed28df7e3f46fd77b0013f9cef741e8c6a1254e0e55f4",
+    "structural_tree": "WORK/00_MATRIZ/inventario_psd_estrutural_v2.json",
+    "structural_tree_sha256": "94a2f67786da6aab7f1dc59c2ff67c22bad7f4f36fab579faa0a475bfb63b836",
+    "method": "Cold structural derivation only. No PSD was opened and no visual association is asserted except the documented vd-shark handoff."
+  },
+  "rules": {
+    "reference_feed_is_content_authority": true,
+    "candidate_id_is_not_activation_authority": true,
+    "all_offer_roots_are_effectively_hidden_in_source": true,
+    "scale_requires_human_approved_21_png_pilot": true
+  },
+  "standard_pending": [
+    "compare visible content against the named approved feed reference",
+    "select one vehicle scene and required shadow/contact layers",
+    "confirm each conditional and its per-format treatment",
+    "verify Photoshop font availability without substitution",
+    "render and visually review all seven formats before human gate"
+  ],
+  "offers": [
+    {
+      "offer_id": "atto-2",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Atto 2.png",
+      "source_group_candidates": [{"layer_id": 1071, "name": "ATTO 2"}],
+      "title_candidates": [{"layer_id": 1061, "text": "ATTO 2 GS 26/27"}],
+      "price_candidates": [{"layer_id": 1063, "text": "169.990"}, {"layer_id": 1064, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1378, "text": "new"}, {"layer_id": 1081, "text": "CARREGADOR PORTÁTIL GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [1059], "layer_ids": [1057, 1078, 1073, 1076]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["confirm New ID 1378 from reference", "select vehicle scene from IDs 1057,1078,1073,1076"]
+    },
+    {
+      "offer_id": "atto-8",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Atto 8.png",
+      "source_group_candidates": [{"layer_id": 515, "name": "ATTO 8"}],
+      "title_candidates": [{"layer_id": 504, "text": "ATTO 8 26/27"}],
+      "price_candidates": [{"layer_id": 506, "text": "399.990"}, {"layer_id": 507, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1101, "text": "CARREGADOR PORTÁTIL GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [518], "layer_ids": [517, 516]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["select vehicle scene from IDs 517,516"]
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Dolphin GS.png",
+      "source_group_candidates": [{"layer_id": 138, "name": "DOLPHIN GS"}],
+      "title_candidates": [{"layer_id": 131, "text": "Dolphin GS 26/27"}, {"layer_id": 139, "text": "De R$149.990"}],
+      "price_candidates": [{"layer_id": 128, "text": "149.990"}, {"layer_id": 129, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1045, "text": "CARREGADOR WALLBOX GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [143], "layer_ids": [142, 141]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["classify ID 139 as title, price condition, or conditional", "select vehicle scene from IDs 142,141"]
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Dolphin Mini 5L GS.png",
+      "source_group_candidates": [{"layer_id": 73, "name": "DOLPHIN MINI 5L GS"}],
+      "title_candidates": [{"layer_id": 56, "text": "Dolphin Mini 5L GS 26/27"}, {"layer_id": 61, "text": "Parcelas a partir de R$999,00"}],
+      "price_candidates": [{"layer_id": 57, "text": "119.990"}, {"layer_id": 58, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1166, "text": "CARREGADOR WALLBOX GRÁTIS"}, {"layer_id": 67, "text": "SELOS group"}, {"layer_id": 32, "text": "DETALHE group"}],
+      "vehicle_candidates": {"group_ids": [40, 21], "layer_ids": [7, 9, 11, 12, 13, 15, 18, 19, 22]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["confirm activation of IDs 61 and 67", "approve or reject omission of DETALHE group ID 32", "select vehicle scene/shadow from listed IDs"]
+    },
+    {
+      "offer_id": "dolphin-se",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Dolphin SE.png",
+      "source_group_candidates": [{"layer_id": 188, "name": "DOLPHIN SE"}],
+      "title_candidates": [{"layer_id": 178, "text": "Dolphin SE 26/27"}],
+      "price_candidates": [{"layer_id": 180, "text": "169.990"}, {"layer_id": 181, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1046, "text": "CARREGADOR WALLBOX GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [176], "layer_ids": [174, 175]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["select vehicle scene from IDs 174,175"]
+    },
+    {
+      "offer_id": "king-gs",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/King GS.png",
+      "source_group_candidates": [{"layer_id": 323, "name": "KING GS 2627"}],
+      "title_candidates": [{"layer_id": 313, "text": "King GS 26/27"}],
+      "price_candidates": [{"layer_id": 315, "text": "166.990"}, {"layer_id": 316, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1054, "text": "CARREGADOR PORTÁTIL GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [326], "layer_ids": [325, 324]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["select vehicle scene from IDs 325,324"]
+    },
+    {
+      "offer_id": "seal-26-27",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Seal 26-27.png",
+      "source_group_candidates": [{"layer_id": 252, "name": "SEAL"}],
+      "title_candidates": [{"layer_id": 242, "text": "Seal 26/27"}],
+      "price_candidates": [{"layer_id": 244, "text": "299.990"}, {"layer_id": 245, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1049, "text": "CARREGADOR WALLBOX GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [255], "layer_ids": [254, 253]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["select vehicle scene from IDs 254,253"]
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Sealion 26-27.png",
+      "source_group_candidates": [{"layer_id": 536, "name": "SEALION"}],
+      "title_candidates": [{"layer_id": 526, "text": "Sealion 26/27"}],
+      "price_candidates": [{"layer_id": 528, "text": "339.990"}, {"layer_id": 529, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1365, "text": "new"}, {"layer_id": 1051, "text": "CARREGADOR WALLBOX GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [539], "layer_ids": [538, 537]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["confirm New ID 1365 from reference", "select vehicle scene from IDs 538,537"]
+    },
+    {
+      "offer_id": "song-plus",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Song Plus.png",
+      "source_group_candidates": [{"layer_id": 448, "name": "SONG PLUS 1.5"}],
+      "title_candidates": [{"layer_id": 431, "text": "Song Plus 1.5 T 26/27"}],
+      "price_candidates": [{"layer_id": 433, "text": "249.990"}, {"layer_id": 434, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1094, "text": "CARREGADOR PORTÁTIL GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [452], "layer_ids": [451, 450]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["select vehicle scene from IDs 451,450"]
+    },
+    {
+      "offer_id": "song-premium",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Song Premium.png",
+      "source_group_candidates": [{"layer_id": 471, "name": "SONG PREMIUM"}],
+      "title_candidates": [{"layer_id": 460, "text": "Song Plus Premium 25/26"}],
+      "price_candidates": [{"layer_id": 462, "text": "269.800"}, {"layer_id": 463, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1097, "text": "CARREGADOR PORTÁTIL GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [474], "layer_ids": [473, 472]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["select vehicle scene from IDs 473,472"]
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Song Pro Flex.png",
+      "source_group_candidates": [{"layer_id": 385, "name": "SONG PRO GS FLEX 2627"}],
+      "title_candidates": [{"layer_id": 375, "text": "Song Pro GS Flex 26/27"}],
+      "price_candidates": [{"layer_id": 377, "text": "199.990"}, {"layer_id": 378, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 3210, "text": "new"}, {"layer_id": 1093, "text": "CARREGADOR PORTÁTIL GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [389], "layer_ids": [3207, 3208]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["confirm New ID 3210 from reference", "select vehicle scene from IDs 3207,3208"]
+    },
+    {
+      "offer_id": "song-pro",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Song Pro.png",
+      "source_group_candidates": [{"layer_id": 350, "name": "SONG PRO GS 2627"}],
+      "title_candidates": [{"layer_id": 340, "text": "Song Pro GS 26/27"}, {"layer_id": 1088, "text": "ÚLTIMAS UNIDADES"}],
+      "price_candidates": [{"layer_id": 342, "text": "199.990"}, {"layer_id": 343, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 4596, "text": "últimas"}, {"layer_id": 4599, "text": "unidades"}, {"layer_id": 1092, "text": "CARREGADOR PORTÁTIL GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [353], "layer_ids": [352, 351]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["model Últimas Unidades as one declared conditional", "select vehicle scene from IDs 352,351"]
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - Atto 2.png",
+      "source_group_candidates": [{"layer_id": 2967, "name": "VD - ATTO 2"}],
+      "title_candidates": [{"layer_id": 2956, "text": "ATTO 2 Gl 26/27"}],
+      "price_candidates": [{"layer_id": 2958, "text": "149.990"}, {"layer_id": 2959, "text": "R$"}, {"layer_id": 3651, "text": "De R$166.660"}, {"layer_id": 3652, "text": "POR"}],
+      "conditional_candidates": [{"layer_id": 2951, "text": "new"}, {"layer_id": 2965, "text": "Exclusivo para Venda Direta CPF"}, {"layer_id": 2966, "text": "CARREGADOR PORTÁTIL GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [2954], "layer_ids": [2948, 2949, 2952, 2953]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["confirm whether New ID 2951 is visible in VD reference", "select vehicle scene from IDs 2948,2949,2952,2953"]
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - Dolphin Mini.png",
+      "source_group_candidates": [{"layer_id": 574, "name": "VD - DOLPHIN"}],
+      "title_candidates": [{"layer_id": 564, "text": "Dolphin Mini GL 26/27"}],
+      "price_candidates": [{"layer_id": 566, "text": "109.990"}, {"layer_id": 567, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 573, "text": "Exclusivo para Venda Direta CPF"}, {"layer_id": 1170, "text": "CARREGADOR WALLBOX GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [593], "layer_ids": [592, 591]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["select vehicle scene from IDs 592,591"]
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - King GL.png",
+      "source_group_candidates": [{"layer_id": 637, "name": "VD - KING"}],
+      "title_candidates": [{"layer_id": 627, "text": "King GL 25/26"}],
+      "price_candidates": [{"layer_id": 629, "text": "147.990"}, {"layer_id": 630, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 636, "text": "Exclusivo para Venda Direta CPF"}, {"layer_id": 1172, "text": "CARREGADOR PORTÁTIL GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [640], "layer_ids": [639, 638]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["select vehicle scene from IDs 639,638"]
+    },
+    {
+      "offer_id": "vd-shark",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - Shark.png",
+      "source_group_candidates": [{"layer_id": 2986, "name": "PR - SHARK"}, {"layer_id": 493, "name": "SHARK"}],
+      "selected_source_group": {"layer_id": 2986, "basis": "operator handoff: approved feed shows R$299.990 / Produtor Rural"},
+      "title_candidates": [{"layer_id": 2974, "text": "Shark 25/26", "source_group_id": 2986}, {"layer_id": 482, "text": "Shark 25/26", "source_group_id": 493}],
+      "price_candidates": [{"layer_id": 3654, "text": "299.990", "source_group_id": 2986}, {"layer_id": 3655, "text": "R$", "source_group_id": 2986}, {"layer_id": 484, "text": "344.990", "source_group_id": 493}, {"layer_id": 485, "text": "R$", "source_group_id": 493}],
+      "conditional_candidates": [{"layer_id": 2983, "text": "Exclusivo para Produtor Rural", "source_group_id": 2986}, {"layer_id": 2985, "text": "CARREGADOR PORTÁTIL GRÁTIS", "source_group_id": 2986}, {"layer_id": 1100, "text": "CARREGADOR PORTÁTIL GRÁTIS", "source_group_id": 493}],
+      "vehicle_candidates": {"selected_group_id": 2972, "selected_layer_ids": [2970, 2971], "unselected_group_id": 496, "unselected_layer_ids": [495, 494]},
+      "visual_status": "SOURCE_GROUP_RESOLVED_BY_OPERATOR_HANDOFF_ONLY",
+      "pending": ["select one scene/shadow within resolved PR-SHARK group", "validate all other visible elements and all formats"]
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - Song Pro Flex.png",
+      "source_group_candidates": [{"layer_id": 611, "name": "VD - SONG PRO FLEX"}],
+      "title_candidates": [{"layer_id": 601, "text": "Song Pro Flex GL 26/27"}],
+      "price_candidates": [{"layer_id": 603, "text": "176.990"}, {"layer_id": 604, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 610, "text": "Exclusivo para Venda Direta CPF"}, {"layer_id": 1171, "text": "CARREGADOR PORTÁTIL GRÁTIS"}],
+      "vehicle_candidates": {
+        "group_ids": [616],
+        "matrix_layer_ids": [],
+        "structural_tree_additional_candidates": [
+          {"layer_id": 4129, "kind": "smartobject", "path": "Artboard 1 / VD - SONG PRO FLEX / Camada 11"},
+          {"layer_id": 4131, "kind": "smartobject", "path": "Artboard 1 / VD - SONG PRO FLEX / Harmonized layer 19"}
+        ]
+      },
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["determine whether IDs 4129 and/or 4131 are the approved vehicle scene", "do not treat CARRO group 616 as proof of a selectable cutout"]
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - Song Pro.png",
+      "source_group_candidates": [{"layer_id": 4128, "name": "VD - SONG PRO"}],
+      "title_candidates": [{"layer_id": 4117, "text": "Song Pro GL 25/26"}],
+      "price_candidates": [{"layer_id": 4119, "text": "161.490"}, {"layer_id": 4120, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 4126, "text": "Exclusivo para Venda Direta CPF"}, {"layer_id": 4127, "text": "CARREGADOR PORTÁTIL GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [4115], "layer_ids": [4113, 4114]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["select vehicle scene from IDs 4113,4114"]
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Yuan PLUS AWD 26-27.png",
+      "source_group_candidates": [{"layer_id": 230, "name": "YUAN PLUS AWD"}],
+      "title_candidates": [{"layer_id": 220, "text": "Yuan Plus AWD 26/27"}],
+      "price_candidates": [{"layer_id": 222, "text": "269.990"}, {"layer_id": 223, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1167, "text": "CARREGADOR WALLBOX GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [233], "layer_ids": [232, 231]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["select vehicle scene from IDs 232,231"]
+    },
+    {
+      "offer_id": "yuan-pro",
+      "reference_feed": "INPUT/03_REFERENCIAS_FEED_1080x1350/Yuan PRO.png",
+      "source_group_candidates": [{"layer_id": 165, "name": "YUAN PRO"}],
+      "title_candidates": [{"layer_id": 153, "text": "Yuan Pro 26/27"}],
+      "price_candidates": [{"layer_id": 156, "text": "182.990"}, {"layer_id": 157, "text": "R$"}],
+      "conditional_candidates": [{"layer_id": 1047, "text": "CARREGADOR WALLBOX GRÁTIS"}],
+      "vehicle_candidates": {"group_ids": [191], "layer_ids": [190, 189]},
+      "visual_status": "UNVALIDATED_REFERENCE_REQUIRED",
+      "pending": ["select vehicle scene from IDs 190,189"]
+    }
+  ],
+  "offer_count": 20,
+  "status": "PREFLIGHT_CANDIDATES_ONLY_NOT_AUTHORIZATION_FOR_PILOT_OR_SCALE"
+}

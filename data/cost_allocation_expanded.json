@@ -1,0 +1,28 @@
+{
+  "source": "expanded_audit.json + user declaration",
+  "plan_amount_brl": 550,
+  "billing_period_confirmed": null,
+  "exclusive_usage_confirmed": true,
+  "weekly_limit_delta_percentage_points": 45,
+  "actual_billed_job_brl": null,
+  "scenarios": [
+    {
+      "basis": "monthly_52_over_12_weeks",
+      "formula": "550*12/52*0.45",
+      "brl": 57.11538461538461,
+      "per_png_brl": 0.40796703296703296
+    },
+    {
+      "basis": "monthly_four_weeks",
+      "formula": "550/4*0.45",
+      "brl": 61.875,
+      "per_png_brl": 0.4419642857142857
+    },
+    {
+      "basis": "weekly",
+      "formula": "550*0.45",
+      "brl": 247.5,
+      "per_png_brl": 1.7678571428571428
+    }
+  ]
+}

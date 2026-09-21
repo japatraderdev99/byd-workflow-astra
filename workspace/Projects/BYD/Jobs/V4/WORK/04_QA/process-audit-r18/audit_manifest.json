@@ -1,0 +1,37 @@
+{
+  "created_at": "2026-09-20T04:29:00.789125-03:00",
+  "scope": "Post-production process audit; production artifacts unchanged",
+  "validation": "PASS: unique responses, cumulative reconciliation per thread, phase totals, wall durations with microsecond tolerance, local links, unchanged source document hashes",
+  "files": [
+    {
+      "file": "RELATORIO_PROCESSO_E_KPIS_R18.md",
+      "bytes": 30385,
+      "sha256": "3cb160bc11b3fd6854ba3107e4f70df64855e22ac293bdafaa00aa59c07a6b79"
+    },
+    {
+      "file": "WORK/04_QA/process-audit-r18/metrics.json",
+      "bytes": 10813,
+      "sha256": "6a202ae966bfe8e1da64d45bedba4448bc32280102bc34f05cf9dc3d5b081e3a"
+    },
+    {
+      "file": "WORK/04_QA/process-audit-r18/usage_records_sanitized.json",
+      "bytes": 498666,
+      "sha256": "8e95d1e1d74fc1fd0b1591c445accd7396cd527bff5d16242bc2edafa4e65d1d"
+    },
+    {
+      "file": "WORK/04_QA/process-audit-r18/account_usage_snapshot.json",
+      "bytes": 620,
+      "sha256": "b837f59b553d0ed3efea07c8b6bb2cfd7b6694b14a8c344d4908d3e25baceb98"
+    },
+    {
+      "file": "WORK/05_SCRIPTS/audit_process_metrics_r18.py",
+      "bytes": 7535,
+      "sha256": "6b322e1b4a3bc99412261e51a9ba8e95aaf2cb83f9d72e97811c7e645b23b4d2"
+    },
+    {
+      "file": "WORK/05_SCRIPTS/write_process_report_r18.py",
+      "bytes": 28979,
+      "sha256": "06b3109a3add00671255d99cb387bcd34fc93de7515043c9c222c9e5f21c3860"
+    }
+  ]
+}

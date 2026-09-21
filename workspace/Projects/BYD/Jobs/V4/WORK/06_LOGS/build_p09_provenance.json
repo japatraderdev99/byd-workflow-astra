@@ -1,0 +1,8 @@
+{
+  "created_at": "2026-09-19T13:11:33.062426-03:00",
+  "script_sha256": "f90d095cf11321bbaa3323e4e6417080ec3e745fe0d08eebecbd987c3ecb6b1b",
+  "source": "build_p08.jsx",
+  "purpose": "editable mask outside car bounds; opaque sRGB PNG export",
+  "input": "pilot_spec_p09.json",
+  "outputs": "P09_TRIAL PSD and p09 pilot PNGs"
+}

@@ -1,0 +1,809 @@
+{
+  "geometry_rows": [
+    {
+      "format": "1920x276",
+      "offer_id": "atto-2",
+      "role": "title",
+      "bounds": [
+        450.0,
+        24.0,
+        738.0,
+        57.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-2",
+      "role": "price",
+      "bounds": [
+        450.0,
+        76.0,
+        930.0,
+        150.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-2",
+      "role": "benefit",
+      "bounds": [
+        450.0,
+        179.0,
+        925.0,
+        203.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-2",
+      "role": "headline",
+      "bounds": [
+        450.0,
+        213.0,
+        706.0,
+        232.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-2",
+      "role": "car_anchor",
+      "bounds": [
+        1309.0,
+        9.0,
+        1738.0,
+        227.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-2",
+      "role": "car_tag",
+      "bounds": [
+        1150.0,
+        27.0,
+        1275.0,
+        56.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-2",
+      "role": "legal",
+      "bounds": [
+        50.0,
+        238.0,
+        1862.0,
+        264.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-8",
+      "role": "title",
+      "bounds": [
+        450.0,
+        24.0,
+        680.0,
+        57.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-8",
+      "role": "price",
+      "bounds": [
+        450.0,
+        76.0,
+        930.0,
+        150.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-8",
+      "role": "benefit",
+      "bounds": [
+        450.0,
+        179.0,
+        928.0,
+        203.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-8",
+      "role": "headline",
+      "bounds": [
+        450.0,
+        213.0,
+        968.0,
+        231.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-8",
+      "role": "car_anchor",
+      "bounds": [
+        1290.0,
+        16.0,
+        1755.0,
+        222.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "atto-8",
+      "role": "legal",
+      "bounds": [
+        50.0,
+        238.0,
+        1852.0,
+        264.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-gs",
+      "role": "title",
+      "bounds": [
+        450.0,
+        24.0,
+        776.0,
+        57.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-gs",
+      "role": "price",
+      "bounds": [
+        450.0,
+        76.0,
+        930.0,
+        148.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-gs",
+      "role": "benefit",
+      "bounds": [
+        450.0,
+        179.0,
+        931.0,
+        203.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-gs",
+      "role": "headline",
+      "bounds": [
+        450.0,
+        213.0,
+        891.0,
+        231.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-gs",
+      "role": "car_anchor",
+      "bounds": [
+        1295.0,
+        10.0,
+        1751.0,
+        228.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-gs",
+      "role": "legal",
+      "bounds": [
+        50.0,
+        238.0,
+        1866.0,
+        261.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-mini-5l-gs",
+      "role": "title",
+      "bounds": [
+        450.0,
+        24.0,
+        920.0,
+        57.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-mini-5l-gs",
+      "role": "price",
+      "bounds": [
+        450.0,
+        76.0,
+        930.0,
+        141.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-mini-5l-gs",
+      "role": "benefit",
+      "bounds": [
+        450.0,
+        179.0,
+        921.0,
+        203.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-mini-5l-gs",
+      "role": "headline",
+      "bounds": [
+        450.0,
+        213.0,
+        1007.0,
+        231.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-mini-5l-gs",
+      "role": "car_anchor",
+      "bounds": [
+        1307.0,
+        10.0,
+        1738.0,
+        228.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-mini-5l-gs",
+      "role": "legal",
+      "bounds": [
+        50.0,
+        238.0,
+        1869.0,
+        264.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-mini-5l-gs",
+      "role": "extra:instal",
+      "bounds": [
+        969.0,
+        84.0,
+        1190.0,
+        98.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-mini-5l-gs",
+      "role": "extra:badges",
+      "bounds": [
+        1765.0,
+        30.0,
+        1870.0,
+        80.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-se",
+      "role": "title",
+      "bounds": [
+        450.0,
+        24.0,
+        774.0,
+        57.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-se",
+      "role": "price",
+      "bounds": [
+        450.0,
+        76.0,
+        930.0,
+        150.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-se",
+      "role": "benefit",
+      "bounds": [
+        450.0,
+        179.0,
+        929.0,
+        203.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-se",
+      "role": "headline",
+      "bounds": [
+        450.0,
+        213.0,
+        792.0,
+        231.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-se",
+      "role": "car_anchor",
+      "bounds": [
+        1302.0,
+        10.0,
+        1742.0,
+        228.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "dolphin-se",
+      "role": "legal",
+      "bounds": [
+        50.0,
+        239.0,
+        1870.0,
+        261.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "king-gs",
+      "role": "title",
+      "bounds": [
+        450.0,
+        24.0,
+        702.0,
+        57.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "king-gs",
+      "role": "price",
+      "bounds": [
+        450.0,
+        76.0,
+        930.0,
+        152.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "king-gs",
+      "role": "benefit",
+      "bounds": [
+        450.0,
+        179.0,
+        925.0,
+        203.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "king-gs",
+      "role": "car_anchor",
+      "bounds": [
+        1290.0,
+        15.0,
+        1755.0,
+        224.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "king-gs",
+      "role": "legal",
+      "bounds": [
+        50.0,
+        238.0,
+        1869.0,
+        261.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "king-gs",
+      "role": "extra:badges",
+      "bounds": [
+        1765.0,
+        28.0,
+        1870.0,
+        40.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "king-gs",
+      "role": "extra:award",
+      "bounds": [
+        1775.0,
+        108.0,
+        1865.0,
+        198.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "seal-26-27",
+      "role": "title",
+      "bounds": [
+        450.0,
+        24.0,
+        645.0,
+        57.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "seal-26-27",
+      "role": "price",
+      "bounds": [
+        450.0,
+        76.0,
+        930.0,
+        150.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "seal-26-27",
+      "role": "benefit",
+      "bounds": [
+        450.0,
+        179.0,
+        922.0,
+        203.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "seal-26-27",
+      "role": "headline",
+      "bounds": [
+        450.0,
+        213.0,
+        949.0,
+        233.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "seal-26-27",
+      "role": "car_anchor",
+      "bounds": [
+        1290.0,
+        21.0,
+        1755.0,
+        216.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "seal-26-27",
+      "role": "legal",
+      "bounds": [
+        50.0,
+        238.0,
+        1867.0,
+        263.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "sealion-26-27",
+      "role": "title",
+      "bounds": [
+        450.0,
+        24.0,
+        712.0,
+        57.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "sealion-26-27",
+      "role": "price",
+      "bounds": [
+        450.0,
+        76.0,
+        930.0,
+        150.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "sealion-26-27",
+      "role": "benefit",
+      "bounds": [
+        450.0,
+        179.0,
+        930.0,
+        203.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "sealion-26-27",
+      "role": "headline",
+      "bounds": [
+        450.0,
+        213.0,
+        778.0,
+        231.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "sealion-26-27",
+      "role": "car_anchor",
+      "bounds": [
+        1295.0,
+        10.0,
+        1751.0,
+        228.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "sealion-26-27",
+      "role": "car_tag",
+      "bounds": [
+        1150.0,
+        27.0,
+        1275.0,
+        56.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "sealion-26-27",
+      "role": "legal",
+      "bounds": [
+        50.0,
+        238.0,
+        1871.0,
+        263.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-plus",
+      "role": "title",
+      "bounds": [
+        450.0,
+        24.0,
+        857.0,
+        57.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-plus",
+      "role": "price",
+      "bounds": [
+        450.0,
+        76.0,
+        930.0,
+        150.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-plus",
+      "role": "benefit",
+      "bounds": [
+        450.0,
+        179.0,
+        929.0,
+        203.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-plus",
+      "role": "headline",
+      "bounds": [
+        450.0,
+        213.0,
+        787.0,
+        231.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-plus",
+      "role": "car_anchor",
+      "bounds": [
+        1305.0,
+        10.0,
+        1739.0,
+        228.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-plus",
+      "role": "legal",
+      "bounds": [
+        50.0,
+        238.0,
+        1869.0,
+        264.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-plus",
+      "role": "extra:badges",
+      "bounds": [
+        1765.0,
+        28.0,
+        1870.0,
+        51.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-premium",
+      "role": "title",
+      "bounds": [
+        450.0,
+        24.0,
+        941.0,
+        57.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-premium",
+      "role": "price",
+      "bounds": [
+        450.0,
+        76.0,
+        930.0,
+        150.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-premium",
+      "role": "benefit",
+      "bounds": [
+        450.0,
+        179.0,
+        930.0,
+        203.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-premium",
+      "role": "headline",
+      "bounds": [
+        450.0,
+        213.0,
+        607.0,
+        231.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-premium",
+      "role": "car_anchor",
+      "bounds": [
+        1305.0,
+        10.0,
+        1738.0,
+        228.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-premium",
+      "role": "legal",
+      "bounds": [
+        50.0,
+        238.0,
+        1867.0,
+        264.0
+      ],
+      "visible": true
+    },
+    {
+      "format": "1920x276",
+      "offer_id": "song-premium",
+      "role": "extra:badges",
+      "bounds": [
+        1765.0,
+        28.0,
+        1870.0,
+        51.0
+      ],
+      "visible": true
+    }
+  ],
+  "collisions": []
+}

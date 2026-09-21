@@ -1,0 +1,407 @@
+{
+  "rows": [
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_atto-2_1080x1080.png",
+      "offer_id": "atto-2",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 952554,
+      "sha256": "0ca9a3d0d792271fa0785dfc3f601f98e7a6ebc13c1dcd6ff059bd7817f66c31",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_atto-8_1080x1080.png",
+      "offer_id": "atto-8",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 955605,
+      "sha256": "b92afdbb7d72bdf2b893fb97450076dbdb4363b12049460ff0d66caae3d3cadc",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-gs_1080x1080.png",
+      "offer_id": "dolphin-gs",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 933550,
+      "sha256": "5d71c9431f0a24a476105291cd6d0bdb17f92eea51cfca88c993398dda0cfdd3",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-mini-5l-gs_1080x1080.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 992134,
+      "sha256": "83a9fc5951771fc0ef2bbb2b3249b0e115b5d746a8e31283caf69228a03b6634",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-se_1080x1080.png",
+      "offer_id": "dolphin-se",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 922573,
+      "sha256": "74407b0baae433fb3949fff15eee91b787fc013f879ddc2166c3d0bcfad0111c",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_king-gs_1080x1080.png",
+      "offer_id": "king-gs",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 952053,
+      "sha256": "bf595736c79a6cf0aefe02214c697f265711c5b624564e83f42fd7b2d6a81f76",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_seal-26-27_1080x1080.png",
+      "offer_id": "seal-26-27",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 949932,
+      "sha256": "85c96d33aedfeafd6cd89bc23b365459b78b206941b760d88c315a62c5de4ebe",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_sealion-26-27_1080x1080.png",
+      "offer_id": "sealion-26-27",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 963240,
+      "sha256": "e9bc53553ca9d6d01832f9cf85acd778e345b8315849c36ee9d89e0045634903",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-plus_1080x1080.png",
+      "offer_id": "song-plus",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 952860,
+      "sha256": "7cc25445ce24923c8ce3a11880f856b4053d47e3d88961d0eb8680b166f8cd93",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-premium_1080x1080.png",
+      "offer_id": "song-premium",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 951840,
+      "sha256": "efbdb96cdb354c1e9b45e03d5679c2d8d6273391fb5a1a97a5f15fe21dca37ba",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-pro-flex_1080x1080.png",
+      "offer_id": "song-pro-flex",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 926240,
+      "sha256": "c75dac7fd1504e4fc6609adbd978250be44d2ce42dee8eb7e849aeeff3856503",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-pro_1080x1080.png",
+      "offer_id": "song-pro",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 956010,
+      "sha256": "069def105ffd322da08f5b009b33b86f84271f28ebcb8f038a8127af4a427b98",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-atto-2_1080x1080.png",
+      "offer_id": "vd-atto-2",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 965936,
+      "sha256": "36b369319feb28a20591b2f80efe02a276b736930f4959120782552fd11871f2",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-dolphin-mini_1080x1080.png",
+      "offer_id": "vd-dolphin-mini",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 917852,
+      "sha256": "ca617dd53f07b98a766863b259cc87580144af9821b30ceb382339f820fae47f",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-king-gl_1080x1080.png",
+      "offer_id": "vd-king-gl",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 960021,
+      "sha256": "a5500b5568aeda377b4d32d3a5e7646bac5400b8b9edd0a572598012ec8ead32",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-shark_1080x1080.png",
+      "offer_id": "vd-shark",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 960973,
+      "sha256": "7d72d1219ff7bf41e2b0e344dff14468daae0cdbbfec3c5f90e3cc2ea6238852",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro-flex_1080x1080.png",
+      "offer_id": "vd-song-pro-flex",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 914958,
+      "sha256": "c04dae09660ebef859b0c9789fe07f24a9b491d68253157dea96c47c0b6979b9",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro_1080x1080.png",
+      "offer_id": "vd-song-pro",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 950311,
+      "sha256": "9771bfe4aa8db225b537432704d794fe515b535eb34c931cca3547e4e7e74516",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-plus-awd-26-27_1080x1080.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 916878,
+      "sha256": "c975d829fa79d59720697072d6d48d1a05bfafe5bca949bf14352fbb21701c54",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-pro_1080x1080.png",
+      "offer_id": "yuan-pro",
+      "format": "1080x1080",
+      "width": 1080,
+      "height": 1080,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 918237,
+      "sha256": "e946447c8b4014f2a4fbfa7dffa42383ee64e36a779008a9c7be66cb8798d723",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PENDING_HEAD_REVIEW",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1080.psd"
+    }
+  ],
+  "png_count": 20,
+  "pass": 20,
+  "seconds": 1.059695666997868
+}

@@ -1,0 +1,8 @@
+{
+  "created_at": "2026-09-19T13:02:48.626338-03:00",
+  "script_sha256": "a5e78de25623f017fa534710591c038eb77d40ead9f656d371bb5e6fd1fc96fd",
+  "source": "build_p06.jsx",
+  "purpose": "normalize post-duplicate geometry and reset paragraph width via point text",
+  "input": "pilot_spec_p07.json",
+  "outputs": "P07_TRIAL PSD and p07 pilot PNGs"
+}

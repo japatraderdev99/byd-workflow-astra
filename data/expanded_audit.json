@@ -1,0 +1,485 @@
+{
+  "schema": "byd-expanded-audit/v1",
+  "status": "Additional retrospective audit; original report unchanged",
+  "scope": "Two BYD head threads plus their four directly linked child threads; usage through final user-facing handoff; includes initial planning; excludes later report and platform",
+  "start": "2026-09-19T15:03:44.693000+00:00",
+  "cutoff": "2026-09-20T05:22:56.047000+00:00",
+  "production_files_closed_at": "2026-09-20T02:22:25.837061-03:00",
+  "final_handoff_at": "2026-09-20T05:22:56.047000+00:00",
+  "calendar_seconds": 51551.354,
+  "original_documented_calendar_seconds": 51423.733393,
+  "additional_initial_planning_seconds": 97.410668,
+  "threads": [
+    {
+      "thread_id": "01a0ba5f-e5f4-7d03-becb-bfebf04358a5",
+      "parent_thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "role": "/root/diagnose_move",
+      "source_file": "rollout-2026-09-19T12-54-02-01a0ba5f-e5f4-7d03-becb-bfebf04358a5.jsonl",
+      "models": {
+        "gpt-5.6-sol/high": 17
+      },
+      "responses": 237,
+      "cumulative_reconciles": true,
+      "usage": {
+        "input_tokens": 31099276,
+        "cached_input_tokens": 30551168,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 152386,
+        "reasoning_output_tokens": 43002,
+        "total_tokens": 31251662
+      },
+      "bad_request_count": 0
+    },
+    {
+      "thread_id": "01a0ba32-d227-76a3-a3fc-c3749f79dbbd",
+      "parent_thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "role": "/root/intake",
+      "source_file": "rollout-2026-09-19T12-04-47-01a0ba32-d227-76a3-a3fc-c3749f79dbbd.jsonl",
+      "models": {
+        "gpt-5.6-terra/high": 2
+      },
+      "responses": 38,
+      "cumulative_reconciles": true,
+      "usage": {
+        "input_tokens": 2871296,
+        "cached_input_tokens": 2738688,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 26703,
+        "reasoning_output_tokens": 8636,
+        "total_tokens": 2897999
+      },
+      "bad_request_count": 0
+    },
+    {
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "parent_thread_id": null,
+      "role": "head_main",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "models": {
+        "gpt-6-astra/medium": 12
+      },
+      "responses": 682,
+      "cumulative_reconciles": true,
+      "usage": {
+        "input_tokens": 91203084,
+        "cached_input_tokens": 89783552,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 235593,
+        "reasoning_output_tokens": 71838,
+        "total_tokens": 91438677
+      },
+      "bad_request_count": 4
+    },
+    {
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "parent_thread_id": null,
+      "role": "head_initial",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "models": {
+        "gpt-6-astra/low": 7
+      },
+      "responses": 61,
+      "cumulative_reconciles": true,
+      "usage": {
+        "input_tokens": 6332354,
+        "cached_input_tokens": 6117632,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 15489,
+        "reasoning_output_tokens": 2390,
+        "total_tokens": 6347843
+      },
+      "bad_request_count": 7
+    },
+    {
+      "thread_id": "01a0ba5a-3a17-7d80-9428-39bd9fb9266a",
+      "parent_thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "role": "/root/audit_matrix",
+      "source_file": "rollout-2026-09-19T12-47-50-01a0ba5a-3a17-7d80-9428-39bd9fb9266a.jsonl",
+      "models": {
+        "gpt-5.6-terra/high": 27
+      },
+      "responses": 241,
+      "cumulative_reconciles": true,
+      "usage": {
+        "input_tokens": 30101799,
+        "cached_input_tokens": 28647680,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 215280,
+        "reasoning_output_tokens": 58086,
+        "total_tokens": 30317079
+      },
+      "bad_request_count": 0
+    },
+    {
+      "thread_id": "01a0ba37-e7f7-7a60-84ef-44f241e822af",
+      "parent_thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "role": "/root/processo",
+      "source_file": "rollout-2026-09-19T12-10-21-01a0ba37-e7f7-7a60-84ef-44f241e822af.jsonl",
+      "models": {
+        "gpt-5.6-luna/max": 1
+      },
+      "responses": 16,
+      "cumulative_reconciles": true,
+      "usage": {
+        "input_tokens": 784992,
+        "cached_input_tokens": 737280,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 11472,
+        "reasoning_output_tokens": 6287,
+        "total_tokens": 796464
+      },
+      "bad_request_count": 0
+    }
+  ],
+  "tokens": {
+    "input_tokens": 162392801,
+    "cached_input_tokens": 158576000,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 656923,
+    "reasoning_output_tokens": 190239,
+    "total_tokens": 163049724
+  },
+  "response_count": 1275,
+  "original_three_thread_totals_reconcile": true,
+  "bad_request_head_count": 11,
+  "head_events": [
+    {
+      "timestamp": "2026-09-19T15:03:44.693Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 2
+    },
+    {
+      "timestamp": "2026-09-19T15:13:34.321Z",
+      "event": "task_complete",
+      "error": "Bad Request",
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 377
+    },
+    {
+      "timestamp": "2026-09-19T15:14:26.314Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 379
+    },
+    {
+      "timestamp": "2026-09-19T15:14:28.094Z",
+      "event": "task_complete",
+      "error": "Bad Request",
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 383
+    },
+    {
+      "timestamp": "2026-09-19T15:14:37.377Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 385
+    },
+    {
+      "timestamp": "2026-09-19T15:14:45.008Z",
+      "event": "task_complete",
+      "error": "Bad Request",
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 394
+    },
+    {
+      "timestamp": "2026-09-19T15:15:10.958Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 396
+    },
+    {
+      "timestamp": "2026-09-19T15:15:12.632Z",
+      "event": "task_complete",
+      "error": "Bad Request",
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 400
+    },
+    {
+      "timestamp": "2026-09-19T15:22:50.841Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 404
+    },
+    {
+      "timestamp": "2026-09-19T15:23:23.387Z",
+      "event": "task_complete",
+      "error": "Bad Request",
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 426
+    },
+    {
+      "timestamp": "2026-09-19T15:24:00.496Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 428
+    },
+    {
+      "timestamp": "2026-09-19T15:26:52.243Z",
+      "event": "task_complete",
+      "error": "Bad Request",
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 480
+    },
+    {
+      "timestamp": "2026-09-19T15:30:22.975Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 483
+    },
+    {
+      "timestamp": "2026-09-19T15:31:21.761Z",
+      "event": "task_complete",
+      "error": "Bad Request",
+      "thread_id": "01a0ba2f-f298-7f90-8451-bbd56fa44fe9",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 513
+    },
+    {
+      "timestamp": "2026-09-19T15:46:47.568Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 2
+    },
+    {
+      "timestamp": "2026-09-19T15:57:05.951Z",
+      "event": "task_complete",
+      "error": "Bad Request",
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 360
+    },
+    {
+      "timestamp": "2026-09-19T16:01:39.877Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 362
+    },
+    {
+      "timestamp": "2026-09-19T16:17:20.687Z",
+      "event": "task_complete",
+      "error": "Bad Request",
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 601
+    },
+    {
+      "timestamp": "2026-09-19T18:14:57.544Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 604
+    },
+    {
+      "timestamp": "2026-09-19T18:18:33.062Z",
+      "event": "task_complete",
+      "error": "Bad Request",
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 670
+    },
+    {
+      "timestamp": "2026-09-20T00:36:20.013Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 672
+    },
+    {
+      "timestamp": "2026-09-20T01:13:19.164Z",
+      "event": "task_complete",
+      "error": null,
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 1414
+    },
+    {
+      "timestamp": "2026-09-20T01:20:38.882Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 1416
+    },
+    {
+      "timestamp": "2026-09-20T02:15:15.521Z",
+      "event": "task_complete",
+      "error": null,
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 2567
+    },
+    {
+      "timestamp": "2026-09-20T03:19:09.418Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 2569
+    },
+    {
+      "timestamp": "2026-09-20T04:21:24.317Z",
+      "event": "task_complete",
+      "error": "Bad Request",
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 3989
+    },
+    {
+      "timestamp": "2026-09-20T04:28:33.847Z",
+      "event": "task_started",
+      "error": null,
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 3993
+    },
+    {
+      "timestamp": "2026-09-20T05:22:56.047Z",
+      "event": "task_complete",
+      "error": null,
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 5242
+    }
+  ],
+  "head_gaps": [
+    {
+      "ended_at": "2026-09-19T15:13:34.321Z",
+      "resumed_at": "2026-09-19T15:14:26.314Z",
+      "seconds": 51.993,
+      "error": "Bad Request",
+      "cross_thread_handoff": false
+    },
+    {
+      "ended_at": "2026-09-19T15:14:28.094Z",
+      "resumed_at": "2026-09-19T15:14:37.377Z",
+      "seconds": 9.283,
+      "error": "Bad Request",
+      "cross_thread_handoff": false
+    },
+    {
+      "ended_at": "2026-09-19T15:14:45.008Z",
+      "resumed_at": "2026-09-19T15:15:10.958Z",
+      "seconds": 25.95,
+      "error": "Bad Request",
+      "cross_thread_handoff": false
+    },
+    {
+      "ended_at": "2026-09-19T15:15:12.632Z",
+      "resumed_at": "2026-09-19T15:22:50.841Z",
+      "seconds": 458.209,
+      "error": "Bad Request",
+      "cross_thread_handoff": false
+    },
+    {
+      "ended_at": "2026-09-19T15:23:23.387Z",
+      "resumed_at": "2026-09-19T15:24:00.496Z",
+      "seconds": 37.109,
+      "error": "Bad Request",
+      "cross_thread_handoff": false
+    },
+    {
+      "ended_at": "2026-09-19T15:26:52.243Z",
+      "resumed_at": "2026-09-19T15:30:22.975Z",
+      "seconds": 210.732,
+      "error": "Bad Request",
+      "cross_thread_handoff": false
+    },
+    {
+      "ended_at": "2026-09-19T15:31:21.761Z",
+      "resumed_at": "2026-09-19T15:46:47.568Z",
+      "seconds": 925.807,
+      "error": "Bad Request",
+      "cross_thread_handoff": true
+    },
+    {
+      "ended_at": "2026-09-19T15:57:05.951Z",
+      "resumed_at": "2026-09-19T16:01:39.877Z",
+      "seconds": 273.926,
+      "error": "Bad Request",
+      "cross_thread_handoff": false
+    },
+    {
+      "ended_at": "2026-09-19T16:17:20.687Z",
+      "resumed_at": "2026-09-19T18:14:57.544Z",
+      "seconds": 7056.857,
+      "error": "Bad Request",
+      "cross_thread_handoff": false
+    },
+    {
+      "ended_at": "2026-09-19T18:18:33.062Z",
+      "resumed_at": "2026-09-20T00:36:20.013Z",
+      "seconds": 22666.951,
+      "error": "Bad Request",
+      "cross_thread_handoff": false
+    },
+    {
+      "ended_at": "2026-09-20T01:13:19.164Z",
+      "resumed_at": "2026-09-20T01:20:38.882Z",
+      "seconds": 439.718,
+      "error": null,
+      "cross_thread_handoff": false
+    },
+    {
+      "ended_at": "2026-09-20T02:15:15.521Z",
+      "resumed_at": "2026-09-20T03:19:09.418Z",
+      "seconds": 3833.897,
+      "error": null,
+      "cross_thread_handoff": false
+    },
+    {
+      "ended_at": "2026-09-20T04:21:24.317Z",
+      "resumed_at": "2026-09-20T04:28:33.847Z",
+      "seconds": 429.53,
+      "error": "Bad Request",
+      "cross_thread_handoff": false
+    }
+  ],
+  "error_to_next_turn_seconds": 32146.347,
+  "all_between_head_turn_seconds": 36419.962,
+  "first_limit_snapshot": {
+    "timestamp": "2026-09-19T15:04:04.185Z",
+    "used_percent": 0.0,
+    "window_minutes": 10080,
+    "resets_at": 1790435026
+  },
+  "last_limit_snapshot": {
+    "timestamp": "2026-09-20T05:22:56.043Z",
+    "used_percent": 45.0,
+    "window_minutes": 10080,
+    "resets_at": 1790435032
+  },
+  "cost_actual_brl": null,
+  "limitations": [
+    "Two head threads are operationally consecutive; cross-thread gap includes handoff.",
+    "Usage records are processing counts, not billing.",
+    "Quota percent is rounded account telemetry, not a monetary credit balance.",
+    "No causal outage duration or active work time is inferred from gaps."
+  ]
+}

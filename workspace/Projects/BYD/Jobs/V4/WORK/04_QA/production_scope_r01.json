@@ -1,0 +1,708 @@
+{
+  "scope": [
+    {
+      "offer_id": "atto-2",
+      "format": "1920x276",
+      "file": "byd_atto-2_1920x276.png"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "1920x276",
+      "file": "byd_atto-8_1920x276.png"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "1920x276",
+      "file": "byd_dolphin-gs_1920x276.png"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1920x276",
+      "file": "byd_dolphin-mini-5l-gs_1920x276.png"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "1920x276",
+      "file": "byd_dolphin-se_1920x276.png"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "1920x276",
+      "file": "byd_king-gs_1920x276.png"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "1920x276",
+      "file": "byd_seal-26-27_1920x276.png"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "1920x276",
+      "file": "byd_sealion-26-27_1920x276.png"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "1920x276",
+      "file": "byd_song-plus_1920x276.png"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "1920x276",
+      "file": "byd_song-premium_1920x276.png"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "1920x276",
+      "file": "byd_song-pro-flex_1920x276.png"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "1920x276",
+      "file": "byd_song-pro_1920x276.png"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "1920x276",
+      "file": "byd_vd-atto-2_1920x276.png"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "1920x276",
+      "file": "byd_vd-dolphin-mini_1920x276.png"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "1920x276",
+      "file": "byd_vd-king-gl_1920x276.png"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "1920x276",
+      "file": "byd_vd-shark_1920x276.png"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "1920x276",
+      "file": "byd_vd-song-pro-flex_1920x276.png"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "1920x276",
+      "file": "byd_vd-song-pro_1920x276.png"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1920x276",
+      "file": "byd_yuan-plus-awd-26-27_1920x276.png"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1920x276",
+      "file": "byd_yuan-pro_1920x276.png"
+    },
+    {
+      "offer_id": "atto-2",
+      "format": "1920x1080",
+      "file": "byd_atto-2_1920x1080.png"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "1920x1080",
+      "file": "byd_atto-8_1920x1080.png"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "1920x1080",
+      "file": "byd_dolphin-gs_1920x1080.png"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1920x1080",
+      "file": "byd_dolphin-mini-5l-gs_1920x1080.png"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "1920x1080",
+      "file": "byd_dolphin-se_1920x1080.png"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "1920x1080",
+      "file": "byd_king-gs_1920x1080.png"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "1920x1080",
+      "file": "byd_seal-26-27_1920x1080.png"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "1920x1080",
+      "file": "byd_sealion-26-27_1920x1080.png"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "1920x1080",
+      "file": "byd_song-plus_1920x1080.png"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "1920x1080",
+      "file": "byd_song-premium_1920x1080.png"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "1920x1080",
+      "file": "byd_song-pro-flex_1920x1080.png"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "1920x1080",
+      "file": "byd_song-pro_1920x1080.png"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "1920x1080",
+      "file": "byd_vd-atto-2_1920x1080.png"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "1920x1080",
+      "file": "byd_vd-dolphin-mini_1920x1080.png"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "1920x1080",
+      "file": "byd_vd-king-gl_1920x1080.png"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "1920x1080",
+      "file": "byd_vd-shark_1920x1080.png"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "1920x1080",
+      "file": "byd_vd-song-pro-flex_1920x1080.png"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "1920x1080",
+      "file": "byd_vd-song-pro_1920x1080.png"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1920x1080",
+      "file": "byd_yuan-plus-awd-26-27_1920x1080.png"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1920x1080",
+      "file": "byd_yuan-pro_1920x1080.png"
+    },
+    {
+      "offer_id": "atto-2",
+      "format": "1920x1125",
+      "file": "byd_atto-2_1920x1125.png"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "1920x1125",
+      "file": "byd_atto-8_1920x1125.png"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "1920x1125",
+      "file": "byd_dolphin-gs_1920x1125.png"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1920x1125",
+      "file": "byd_dolphin-mini-5l-gs_1920x1125.png"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "1920x1125",
+      "file": "byd_dolphin-se_1920x1125.png"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "1920x1125",
+      "file": "byd_king-gs_1920x1125.png"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "1920x1125",
+      "file": "byd_seal-26-27_1920x1125.png"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "1920x1125",
+      "file": "byd_sealion-26-27_1920x1125.png"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "1920x1125",
+      "file": "byd_song-plus_1920x1125.png"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "1920x1125",
+      "file": "byd_song-premium_1920x1125.png"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "1920x1125",
+      "file": "byd_song-pro-flex_1920x1125.png"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "1920x1125",
+      "file": "byd_song-pro_1920x1125.png"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "1920x1125",
+      "file": "byd_vd-atto-2_1920x1125.png"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "1920x1125",
+      "file": "byd_vd-dolphin-mini_1920x1125.png"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "1920x1125",
+      "file": "byd_vd-king-gl_1920x1125.png"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "1920x1125",
+      "file": "byd_vd-shark_1920x1125.png"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "1920x1125",
+      "file": "byd_vd-song-pro-flex_1920x1125.png"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "1920x1125",
+      "file": "byd_vd-song-pro_1920x1125.png"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1920x1125",
+      "file": "byd_yuan-plus-awd-26-27_1920x1125.png"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1920x1125",
+      "file": "byd_yuan-pro_1920x1125.png"
+    },
+    {
+      "offer_id": "atto-2",
+      "format": "1080x1080",
+      "file": "byd_atto-2_1080x1080.png"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "1080x1080",
+      "file": "byd_atto-8_1080x1080.png"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "1080x1080",
+      "file": "byd_dolphin-gs_1080x1080.png"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1080x1080",
+      "file": "byd_dolphin-mini-5l-gs_1080x1080.png"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "1080x1080",
+      "file": "byd_dolphin-se_1080x1080.png"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "1080x1080",
+      "file": "byd_king-gs_1080x1080.png"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "1080x1080",
+      "file": "byd_seal-26-27_1080x1080.png"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "1080x1080",
+      "file": "byd_sealion-26-27_1080x1080.png"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "1080x1080",
+      "file": "byd_song-plus_1080x1080.png"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "1080x1080",
+      "file": "byd_song-premium_1080x1080.png"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "1080x1080",
+      "file": "byd_song-pro-flex_1080x1080.png"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "1080x1080",
+      "file": "byd_song-pro_1080x1080.png"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "1080x1080",
+      "file": "byd_vd-atto-2_1080x1080.png"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "1080x1080",
+      "file": "byd_vd-dolphin-mini_1080x1080.png"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "1080x1080",
+      "file": "byd_vd-king-gl_1080x1080.png"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "1080x1080",
+      "file": "byd_vd-shark_1080x1080.png"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "1080x1080",
+      "file": "byd_vd-song-pro-flex_1080x1080.png"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "1080x1080",
+      "file": "byd_vd-song-pro_1080x1080.png"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1080x1080",
+      "file": "byd_yuan-plus-awd-26-27_1080x1080.png"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1080x1080",
+      "file": "byd_yuan-pro_1080x1080.png"
+    },
+    {
+      "offer_id": "atto-2",
+      "format": "1080x1920",
+      "file": "byd_atto-2_1080x1920.png"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "1080x1920",
+      "file": "byd_atto-8_1080x1920.png"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "1080x1920",
+      "file": "byd_dolphin-gs_1080x1920.png"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1080x1920",
+      "file": "byd_dolphin-mini-5l-gs_1080x1920.png"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "1080x1920",
+      "file": "byd_dolphin-se_1080x1920.png"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "1080x1920",
+      "file": "byd_king-gs_1080x1920.png"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "1080x1920",
+      "file": "byd_seal-26-27_1080x1920.png"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "1080x1920",
+      "file": "byd_sealion-26-27_1080x1920.png"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "1080x1920",
+      "file": "byd_song-plus_1080x1920.png"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "1080x1920",
+      "file": "byd_song-premium_1080x1920.png"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "1080x1920",
+      "file": "byd_song-pro-flex_1080x1920.png"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "1080x1920",
+      "file": "byd_song-pro_1080x1920.png"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "1080x1920",
+      "file": "byd_vd-atto-2_1080x1920.png"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "1080x1920",
+      "file": "byd_vd-dolphin-mini_1080x1920.png"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "1080x1920",
+      "file": "byd_vd-king-gl_1080x1920.png"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "1080x1920",
+      "file": "byd_vd-shark_1080x1920.png"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "1080x1920",
+      "file": "byd_vd-song-pro-flex_1080x1920.png"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "1080x1920",
+      "file": "byd_vd-song-pro_1080x1920.png"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1080x1920",
+      "file": "byd_yuan-plus-awd-26-27_1080x1920.png"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1080x1920",
+      "file": "byd_yuan-pro_1080x1920.png"
+    },
+    {
+      "offer_id": "atto-2",
+      "format": "1109x1973",
+      "file": "byd_atto-2_1109x1973.png"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "1109x1973",
+      "file": "byd_atto-8_1109x1973.png"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "1109x1973",
+      "file": "byd_dolphin-gs_1109x1973.png"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1109x1973",
+      "file": "byd_dolphin-mini-5l-gs_1109x1973.png"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "1109x1973",
+      "file": "byd_dolphin-se_1109x1973.png"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "1109x1973",
+      "file": "byd_king-gs_1109x1973.png"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "1109x1973",
+      "file": "byd_seal-26-27_1109x1973.png"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "1109x1973",
+      "file": "byd_sealion-26-27_1109x1973.png"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "1109x1973",
+      "file": "byd_song-plus_1109x1973.png"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "1109x1973",
+      "file": "byd_song-premium_1109x1973.png"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "1109x1973",
+      "file": "byd_song-pro-flex_1109x1973.png"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "1109x1973",
+      "file": "byd_song-pro_1109x1973.png"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "1109x1973",
+      "file": "byd_vd-atto-2_1109x1973.png"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "1109x1973",
+      "file": "byd_vd-dolphin-mini_1109x1973.png"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "1109x1973",
+      "file": "byd_vd-king-gl_1109x1973.png"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "1109x1973",
+      "file": "byd_vd-shark_1109x1973.png"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "1109x1973",
+      "file": "byd_vd-song-pro-flex_1109x1973.png"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "1109x1973",
+      "file": "byd_vd-song-pro_1109x1973.png"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1109x1973",
+      "file": "byd_yuan-plus-awd-26-27_1109x1973.png"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1109x1973",
+      "file": "byd_yuan-pro_1109x1973.png"
+    },
+    {
+      "offer_id": "atto-2",
+      "format": "360x80",
+      "file": "byd_atto-2_360x80.png"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "360x80",
+      "file": "byd_atto-8_360x80.png"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "360x80",
+      "file": "byd_dolphin-gs_360x80.png"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "360x80",
+      "file": "byd_dolphin-mini-5l-gs_360x80.png"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "360x80",
+      "file": "byd_dolphin-se_360x80.png"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "360x80",
+      "file": "byd_king-gs_360x80.png"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "360x80",
+      "file": "byd_seal-26-27_360x80.png"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "360x80",
+      "file": "byd_sealion-26-27_360x80.png"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "360x80",
+      "file": "byd_song-plus_360x80.png"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "360x80",
+      "file": "byd_song-premium_360x80.png"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "360x80",
+      "file": "byd_song-pro-flex_360x80.png"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "360x80",
+      "file": "byd_song-pro_360x80.png"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "360x80",
+      "file": "byd_vd-atto-2_360x80.png"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "360x80",
+      "file": "byd_vd-dolphin-mini_360x80.png"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "360x80",
+      "file": "byd_vd-king-gl_360x80.png"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "360x80",
+      "file": "byd_vd-shark_360x80.png"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "360x80",
+      "file": "byd_vd-song-pro-flex_360x80.png"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "360x80",
+      "file": "byd_vd-song-pro_360x80.png"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "360x80",
+      "file": "byd_yuan-plus-awd-26-27_360x80.png"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "360x80",
+      "file": "byd_yuan-pro_360x80.png"
+    }
+  ],
+  "count": 140,
+  "spec_sha256": "d14b83712ad38cef5df14ac96a23ddf6480334fc81a34dc349cfff51c543f452",
+  "approval": "USER_AUTHORIZED_SCALE_WITH_CAREFUL_HEAD_REVIEW",
+  "output_status": "NOT_YET_PRODUCED"
+}

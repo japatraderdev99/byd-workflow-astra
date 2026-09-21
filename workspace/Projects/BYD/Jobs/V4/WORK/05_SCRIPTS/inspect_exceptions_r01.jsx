@@ -1,0 +1,7 @@
+#target photoshop
+#include "../../../../../../operacao/lib/mkroot.jsxinc"
+(function(){var ROOT=MK.root(),BASE=ROOT+'/Projects/BYD/Jobs/V4/',REFUSE_OVERWRITE=true,doc=null,old=app.displayDialogs;var log=new File(BASE+'WORK/06_LOGS/inspect_exceptions_r01.log');if(log.exists)throw Error('REFUSE_OVERWRITE');log.open('w');
+function msg(s){log.writeln(new Date().toUTCString()+'|'+s);log.close();log.open('a');}
+function find(g,id){for(var i=0;i<g.layers.length;i++){var l=g.layers[i];if(l.id===id)return l;if(l.typename==='LayerSet'){var r=find(l,id);if(r)return r;}}return null;}
+function box(l){var b=l.bounds;return [b[0].as('px'),b[1].as('px'),b[2].as('px'),b[3].as('px')];}
+try{if(app.documents.length)throw Error('PREFLIGHT_DOCS_ABERTOS');app.displayDialogs=DialogModes.NO;doc=app.open(new File(BASE+'INPUT/02_PSD_oficial todas as artes em feed/26.08.07 VAREJO BYD FEED 1080x1350.psd'));var board=find(doc,3),ids=[323,611];for(var i=0;i<ids.length;i++){for(var j=0;j<board.layers.length;j++)board.layers[j].visible=(board.layers[j].id===99||board.layers[j].id===ids[i]);var f=new File(BASE+'WORK/04_QA/source_exception_'+ids[i]+'.png');if(f.exists)throw Error('REFUSE_OVERWRITE');var eo=new ExportOptionsSaveForWeb();eo.format=SaveDocumentType.PNG;eo.PNG8=false;eo.transparency=false;eo.includeProfile=true;doc.exportDocument(f,ExportType.SAVEFORWEB,eo);msg('OK|'+ids[i]);}msg('OK|completed');}catch(e){msg('ERRO|'+e.message+'|line='+e.line);}finally{if(doc)doc.close(SaveOptions.DONOTSAVECHANGES);app.displayDialogs=old;log.close();}})();

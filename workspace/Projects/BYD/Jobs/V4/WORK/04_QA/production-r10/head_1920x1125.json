@@ -1,0 +1,425 @@
+{
+  "reviewer": "Astra head",
+  "rows": [
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_atto-2_1920x1125.png",
+      "offer_id": "atto-2",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1479170,
+      "sha256": "eed7c4fd607d9d0030a88a6c2fabfde3a4f5dc82b48a8ae97d6e0e1c0e2a49e9",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_atto-8_1920x1125.png",
+      "offer_id": "atto-8",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1437471,
+      "sha256": "3a3114e3ee88e2c33553d80701857884c359eef8175c81fa6157d698f53529af",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-gs_1920x1125.png",
+      "offer_id": "dolphin-gs",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1404780,
+      "sha256": "35a6c7e6e0111fc9cd79e65d9c2294a1ecb2ac8c5823988ff33dce7ebfc73820",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-mini-5l-gs_1920x1125.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1447684,
+      "sha256": "1f63c6164de41585d4d48f952c29cc16cb0225086c50a7f806e0d84d5c098277",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "REVISE",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Espacamento entre linhas do detalhe requer ajuste."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-se_1920x1125.png",
+      "offer_id": "dolphin-se",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1361964,
+      "sha256": "112e935007b8e2965589224ca01b358ab993176126554782db6ab74f6ddf8861",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_king-gs_1920x1125.png",
+      "offer_id": "king-gs",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1404038,
+      "sha256": "3405ca76fd0fb6fd63a68d71e27787c9abc8852dab61c15e0729026f4d26ef79",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_seal-26-27_1920x1125.png",
+      "offer_id": "seal-26-27",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1432619,
+      "sha256": "6d2507f14b649829ea822508fb67a1fac966799fad3f124c53718f791f87bf5a",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_sealion-26-27_1920x1125.png",
+      "offer_id": "sealion-26-27",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1459601,
+      "sha256": "d9c5739c1973eb83d696ed33b91e0d25dad7a7ecfc785dfab86d20da23a6c29f",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-plus_1920x1125.png",
+      "offer_id": "song-plus",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1432997,
+      "sha256": "7d94cb1d533de3fe6b40dc1853f25f042c34760521847ed1752874a3819fb128",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-premium_1920x1125.png",
+      "offer_id": "song-premium",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1419223,
+      "sha256": "5dec1e558d26dc6fedee9af6b35f842edfa9d3c902d47240a1df222e5fa8ac98",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-pro-flex_1920x1125.png",
+      "offer_id": "song-pro-flex",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1362938,
+      "sha256": "7ab383f5cbe7485e4d5a6bc2393b27a57a9d44e1f60117a140c8a58e2fcf6ab7",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-pro_1920x1125.png",
+      "offer_id": "song-pro",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1412501,
+      "sha256": "271fea77ceff885eee472517d3d05c4c2961572dc2885674bb3579d7741b4241",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-atto-2_1920x1125.png",
+      "offer_id": "vd-atto-2",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1494511,
+      "sha256": "0f179d6c459030408f74adc7a5f6759afa4efe03e23e75397fbf2a42bc4b79c8",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-dolphin-mini_1920x1125.png",
+      "offer_id": "vd-dolphin-mini",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1370793,
+      "sha256": "33d74f3889cec4c3eaa92d88614f195f656fa40c4ddf577f25c18de5c3672b39",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-king-gl_1920x1125.png",
+      "offer_id": "vd-king-gl",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1437180,
+      "sha256": "899bf6fe16c7c9166ba9e8a0150b0e2fccf46ad31eb5b72138abc8e687e1782d",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-shark_1920x1125.png",
+      "offer_id": "vd-shark",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1416778,
+      "sha256": "0c6cf15905b5483efdf7cd26b7c002c27e411a5a3f15410972d71c715bfebf87",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro-flex_1920x1125.png",
+      "offer_id": "vd-song-pro-flex",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1359007,
+      "sha256": "05a8ca49240bea1248fd8a0d8dcea931735a6e5e41cbdfe446f43829cedbc36c",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "REVISE",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Dois fragmentos amarelos abaixo do carro, mascara requer ajuste."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro_1920x1125.png",
+      "offer_id": "vd-song-pro",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1399056,
+      "sha256": "eff710dfdd263b61811698c3f40c100a993fd33e0fd139eb36fbd5d24148a52a",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-plus-awd-26-27_1920x1125.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1408135,
+      "sha256": "f9a07afe4aec0ac0a63e2c3704e421e02eb38cfc725cee71653d5bbcd72d7f6b",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-pro_1920x1125.png",
+      "offer_id": "yuan-pro",
+      "format": "1920x1125",
+      "width": 1920,
+      "height": 1125,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1367237,
+      "sha256": "a536a99d99bfa9802bc26188d053fbe238ec29a280a5af48b13ecc263d8f227b",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1920x1125.psd",
+      "head_note": "Revisto visualmente: composicao equilibrada, conteudo comercial e selos sem sobreposicao."
+    }
+  ]
+}

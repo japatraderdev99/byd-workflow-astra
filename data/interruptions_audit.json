@@ -1,0 +1,208 @@
+{
+  "schema": "byd-interruptions-audit/v1",
+  "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+  "production_start": "2026-09-19T12:05:22.103668-03:00",
+  "production_cutoff": "2026-09-20T02:22:25.837061-03:00",
+  "wall_seconds": 51423.733393,
+  "scope": "head lifecycle metadata only; no raw conversation; source line anchors",
+  "events": [
+    {
+      "line": 2,
+      "timestamp": "2026-09-19T15:46:47.568000+00:00",
+      "event": "task_started",
+      "error_type": null,
+      "duration_ms": null
+    },
+    {
+      "line": 360,
+      "timestamp": "2026-09-19T15:57:05.951000+00:00",
+      "event": "task_complete",
+      "error_type": "Bad Request",
+      "duration_ms": 618453
+    },
+    {
+      "line": 362,
+      "timestamp": "2026-09-19T16:01:39.877000+00:00",
+      "event": "task_started",
+      "error_type": null,
+      "duration_ms": null
+    },
+    {
+      "line": 601,
+      "timestamp": "2026-09-19T16:17:20.687000+00:00",
+      "event": "task_complete",
+      "error_type": "Bad Request",
+      "duration_ms": 940809
+    },
+    {
+      "line": 604,
+      "timestamp": "2026-09-19T18:14:57.544000+00:00",
+      "event": "task_started",
+      "error_type": null,
+      "duration_ms": null
+    },
+    {
+      "line": 670,
+      "timestamp": "2026-09-19T18:18:33.062000+00:00",
+      "event": "task_complete",
+      "error_type": "Bad Request",
+      "duration_ms": 215514
+    },
+    {
+      "line": 672,
+      "timestamp": "2026-09-20T00:36:20.013000+00:00",
+      "event": "task_started",
+      "error_type": null,
+      "duration_ms": null
+    },
+    {
+      "line": 1414,
+      "timestamp": "2026-09-20T01:13:19.164000+00:00",
+      "event": "task_complete",
+      "error_type": null,
+      "duration_ms": 2219147
+    },
+    {
+      "line": 1416,
+      "timestamp": "2026-09-20T01:20:38.882000+00:00",
+      "event": "task_started",
+      "error_type": null,
+      "duration_ms": null
+    },
+    {
+      "line": 2567,
+      "timestamp": "2026-09-20T02:15:15.521000+00:00",
+      "event": "task_complete",
+      "error_type": null,
+      "duration_ms": 3276632
+    },
+    {
+      "line": 2569,
+      "timestamp": "2026-09-20T03:19:09.418000+00:00",
+      "event": "task_started",
+      "error_type": null,
+      "duration_ms": null
+    },
+    {
+      "line": 3989,
+      "timestamp": "2026-09-20T04:21:24.317000+00:00",
+      "event": "task_complete",
+      "error_type": "Bad Request",
+      "duration_ms": 3734910
+    },
+    {
+      "line": 3993,
+      "timestamp": "2026-09-20T04:28:33.847000+00:00",
+      "event": "task_started",
+      "error_type": null,
+      "duration_ms": null
+    }
+  ],
+  "gaps": [
+    {
+      "ended_at": "2026-09-19T15:57:05.951000+00:00",
+      "resumed_at": "2026-09-19T16:01:39.877000+00:00",
+      "seconds": 273.926,
+      "preceding_error": "Bad Request",
+      "resume_command": "siga",
+      "source_lines": [
+        360,
+        362
+      ]
+    },
+    {
+      "ended_at": "2026-09-19T16:17:20.687000+00:00",
+      "resumed_at": "2026-09-19T18:14:57.544000+00:00",
+      "seconds": 7056.857,
+      "preceding_error": "Bad Request",
+      "resume_command": "siga",
+      "source_lines": [
+        601,
+        604
+      ]
+    },
+    {
+      "ended_at": "2026-09-19T18:18:33.062000+00:00",
+      "resumed_at": "2026-09-20T00:36:20.013000+00:00",
+      "seconds": 22666.951,
+      "preceding_error": "Bad Request",
+      "resume_command": "Siga",
+      "source_lines": [
+        670,
+        672
+      ]
+    },
+    {
+      "ended_at": "2026-09-20T01:13:19.164000+00:00",
+      "resumed_at": "2026-09-20T01:20:38.882000+00:00",
+      "seconds": 439.718,
+      "preceding_error": null,
+      "resume_command": "other_user_input",
+      "source_lines": [
+        1414,
+        1416
+      ]
+    },
+    {
+      "ended_at": "2026-09-20T02:15:15.521000+00:00",
+      "resumed_at": "2026-09-20T03:19:09.418000+00:00",
+      "seconds": 3833.897,
+      "preceding_error": null,
+      "resume_command": "siga",
+      "source_lines": [
+        2567,
+        2569
+      ]
+    },
+    {
+      "ended_at": "2026-09-20T04:21:24.317000+00:00",
+      "resumed_at": "2026-09-20T04:28:33.847000+00:00",
+      "seconds": 429.53,
+      "preceding_error": "Bad Request",
+      "resume_command": "como estamos?",
+      "source_lines": [
+        3989,
+        3993
+      ]
+    }
+  ],
+  "short_user_commands": [
+    {
+      "line": 366,
+      "timestamp": "2026-09-19T16:01:39.927000+00:00",
+      "command": "siga"
+    },
+    {
+      "line": 606,
+      "timestamp": "2026-09-19T18:14:57.606000+00:00",
+      "command": "siga"
+    },
+    {
+      "line": 674,
+      "timestamp": "2026-09-20T00:36:20.108000+00:00",
+      "command": "Siga"
+    },
+    {
+      "line": 2573,
+      "timestamp": "2026-09-20T03:19:09.527000+00:00",
+      "command": "siga"
+    },
+    {
+      "line": 3997,
+      "timestamp": "2026-09-20T04:28:33.894000+00:00",
+      "command": "como estamos?"
+    }
+  ],
+  "confirmed_bad_request_count": 4,
+  "error_to_next_turn_seconds": 30427.264,
+  "all_between_turn_seconds": 34700.879,
+  "head_turn_window_seconds": 14237.390061,
+  "uncovered_initial_seconds": 2485.464332,
+  "causal_downtime_seconds": null,
+  "limits": [
+    "Error-to-next-turn delay is not server outage duration or pure lost production time.",
+    "Photoshop or child agents may keep working while the head turn is closed.",
+    "No error field does not prove the UI had no error.",
+    "Do not subtract gaps from calendar time and label the rest human/agent active time."
+  ]
+}

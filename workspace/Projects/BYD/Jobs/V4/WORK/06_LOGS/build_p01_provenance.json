@@ -1,0 +1,18 @@
+{
+  "observed_at": "2026-09-19T12:30:52.763422-03:00",
+  "status": "RUNNING_UNREVIEWED",
+  "files": [
+    {
+      "path": "WORK/05_SCRIPTS/build_p01.jsx",
+      "sha256": "d87502801485136903059d72499d9c88f2045e5291209a9d0004bf7048534ea1"
+    },
+    {
+      "path": "WORK/00_MATRIZ/pilot_spec_p01.json",
+      "sha256": "65667355c5a87737505b305cb7b945bdbebf21d63f1c073a220408466209c783"
+    },
+    {
+      "path": "WORK/00_MATRIZ/logo_oficial_branco.pdf",
+      "sha256": "1d73575adc62eb1aa311eac2df8cd6abdae7ac06c87eb307196296d589997f84"
+    }
+  ]
+}

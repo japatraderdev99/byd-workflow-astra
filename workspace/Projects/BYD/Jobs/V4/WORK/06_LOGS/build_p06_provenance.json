@@ -1,0 +1,8 @@
+{
+  "created_at": "2026-09-19T12:56:01.013780-03:00",
+  "script_sha256": "9719894f1a16941af3d75aafe9cb21a3d7c2bdc340e4a2db4884e1505afaf250",
+  "source": "build_p05.jsx",
+  "purpose": "insert before temporary child layer workaround",
+  "input": "pilot_spec_p06.json",
+  "outputs": "P06_TRIAL PSD and p06 pilot PNGs"
+}

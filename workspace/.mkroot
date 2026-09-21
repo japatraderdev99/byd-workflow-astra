@@ -1,0 +1,7 @@
+Marcador da raiz do workspace MK PSD Flow.
+
+Os resolvedores em operacao/lib/ sobem a árvore de diretórios a partir do
+próprio script até encontrar este arquivo. Enquanto ele existir na raiz,
+o workspace pode ser movido para qualquer disco sem quebrar nenhum script.
+
+Não remova. Não copie para subpastas.

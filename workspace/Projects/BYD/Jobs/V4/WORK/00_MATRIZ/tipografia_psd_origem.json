@@ -1,0 +1,6226 @@
+{
+  "schema": "byd-v4-psd-text-engine/v1",
+  "created_at": "2026-09-19T12:14:22-03:00",
+  "method_limit": "psd-tools structural text-engine descriptors only; no render; ResourceDict FontSet can list unused fallback fonts.",
+  "psd_tools_version": "1.19.0",
+  "text_layer_count": 151,
+  "fonts_referenced_by_style_runs": [
+    "'ArialMT'",
+    "'SourceSansPro-Black'",
+    "'SourceSansPro-BoldIt'",
+    "'SourceSansPro-Regular'",
+    "'SourceSansPro-Semibold'"
+  ],
+  "layers": [
+    {
+      "layer_id": 82,
+      "path": "Artboard 1 / FIXO / assinatura / BYD. UMA REVOLUÇÃO GLOBAL",
+      "visible_raw_psd": true,
+      "text": "BYD. UMA REVOLUÇÃO GLOBAL",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "37.89919"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "120"
+        ],
+        "Leading": [
+          "52.98185"
+        ]
+      }
+    },
+    {
+      "layer_id": 87,
+      "path": "Artboard 1 / FIXO / RODAPE / IBAMA / Desacelere. Seu bem maior é a vida.",
+      "visible_raw_psd": true,
+      "text": "Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'ArialMT'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0,
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'ArialMT'",
+        "'ArialMT'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "32.76655",
+          "32.76655"
+        ],
+        "FauxBold": [
+          "False",
+          "False"
+        ],
+        "FauxItalic": [
+          "False",
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0",
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0",
+          "1.0"
+        ],
+        "Tracking": [
+          "-20",
+          "-20"
+        ],
+        "Leading": [
+          "16.8",
+          "16.8"
+        ]
+      }
+    },
+    {
+      "layer_id": 2974,
+      "path": "Artboard 1 / PR - SHARK / OFERTA / Shark 25/26",
+      "visible_raw_psd": true,
+      "text": "Shark 25/26",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 3654,
+      "path": "Artboard 1 / PR - SHARK / OFERTA / PREÇO copiar / 299.990",
+      "visible_raw_psd": true,
+      "text": "299.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 3655,
+      "path": "Artboard 1 / PR - SHARK / OFERTA / PREÇO copiar / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 2981,
+      "path": "Artboard 1 / PR - SHARK / TEXTO LEGAL / Potência, conforto e inovação em um só modelo. A BYD Shark 25/2",
+      "visible_raw_psd": true,
+      "text": "Potência, conforto e inovação em um só modelo. A BYD Shark 25/26 é a primeira picape super híbrida do mercado, unindo performance de sobra à tecnologia BYD. É a escolha ideal para quem quer força sem abrir mão de eficiência. Preço público sugerido de R$344.990, exclusivo para Produtor Rural Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 2983,
+      "path": "Artboard 1 / PR - SHARK / Exclusivo para Produtor Rural ",
+      "visible_raw_psd": true,
+      "text": "Exclusivo para Produtor Rural\r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 2985,
+      "path": "Artboard 1 / PR - SHARK / CARREGADOR WALLBOX GRÁTIS copiar 11",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 2951,
+      "path": "Artboard 1 / VD - ATTO 2 / CARRO / New",
+      "visible_raw_psd": false,
+      "text": "new",
+      "resource_dict_font_set": [
+        "'SourceSansPro-BoldIt'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-BoldIt'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 2956,
+      "path": "Artboard 1 / VD - ATTO 2 / OFERTA / ATTO 2 Gl 26/27",
+      "visible_raw_psd": true,
+      "text": "ATTO 2 Gl 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 2958,
+      "path": "Artboard 1 / VD - ATTO 2 / OFERTA / PREÇO / 149.990",
+      "visible_raw_psd": true,
+      "text": "149.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 2959,
+      "path": "Artboard 1 / VD - ATTO 2 / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 3651,
+      "path": "Artboard 1 / VD - ATTO 2 / OFERTA / PREÇO / De R$166.660 ",
+      "visible_raw_psd": true,
+      "text": "De R$166.660\r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 3652,
+      "path": "Artboard 1 / VD - ATTO 2 / OFERTA / PREÇO / POR",
+      "visible_raw_psd": true,
+      "text": "POR",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 2963,
+      "path": "Artboard 1 / VD - ATTO 2 / TEXTO LEGAL / O Novo BYD ATTO 2 GL 26/27, híbrido plug-in flex. Tecnologia qu",
+      "visible_raw_psd": true,
+      "text": "O Novo BYD ATTO 2 GL 26/27, híbrido plug-in flex. Tecnologia que move, design que atrai e liberdade em cada trajeto. A exclusiva tecnologia BYD Super DM-i Flex permite rodar no modo elétrico para o dia a dia e contar com gasolina ou etanol para viagens mais longas. Preço público sugerido de R$ 166.660, exclusivo para venda direta CPF. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 2965,
+      "path": "Artboard 1 / VD - ATTO 2 / Exclusivo para Venda Direta CPF",
+      "visible_raw_psd": true,
+      "text": "Exclusivo para Venda Direta CPF",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "39.19583"
+        ]
+      }
+    },
+    {
+      "layer_id": 2966,
+      "path": "Artboard 1 / VD - ATTO 2 / CARREGADOR WALLBOX GRÁTIS copiar 6",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 601,
+      "path": "Artboard 1 / VD - SONG PRO FLEX / OFERTA / Song Pro Flex GL 26/27 ",
+      "visible_raw_psd": true,
+      "text": "Song Pro Flex GL 26/27 ",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 603,
+      "path": "Artboard 1 / VD - SONG PRO FLEX / OFERTA / PREÇO / 176.990",
+      "visible_raw_psd": true,
+      "text": "176.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 604,
+      "path": "Artboard 1 / VD - SONG PRO FLEX / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 608,
+      "path": "Artboard 1 / VD - SONG PRO FLEX / TEXTO LEGAL / Através do seu CPF na venda direta você pode adquirir o BYD Son",
+      "visible_raw_psd": true,
+      "text": "Através do seu CPF na venda direta você pode adquirir o BYD Song Pro Flex GL 26/27 de R$196.990 por R$176.990. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 610,
+      "path": "Artboard 1 / VD - SONG PRO FLEX / Exclusivo para Venda Direta CPF ",
+      "visible_raw_psd": true,
+      "text": "Exclusivo para Venda Direta CPF\r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "42.60416"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "39.19583"
+        ]
+      }
+    },
+    {
+      "layer_id": 1171,
+      "path": "Artboard 1 / VD - SONG PRO FLEX / CARREGADOR WALLBOX GRÁTIS copiar 16",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 4117,
+      "path": "Artboard 1 / VD - SONG PRO / OFERTA / Song Pro GL 25/26",
+      "visible_raw_psd": true,
+      "text": "Song Pro GL 25/26",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 4119,
+      "path": "Artboard 1 / VD - SONG PRO / OFERTA / PREÇO / 161.490",
+      "visible_raw_psd": true,
+      "text": "161.490",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 4120,
+      "path": "Artboard 1 / VD - SONG PRO / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 4124,
+      "path": "Artboard 1 / VD - SONG PRO / TEXTO LEGAL / Através do seu CPF na venda direta você pode adquirir o BYD Son",
+      "visible_raw_psd": true,
+      "text": "Através do seu CPF na venda direta você pode adquirir o BYD Song Pro GL 26/27 de R$189.990 por R$161.490. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 4126,
+      "path": "Artboard 1 / VD - SONG PRO / Exclusivo para Venda Direta CPF ",
+      "visible_raw_psd": true,
+      "text": "Exclusivo para Venda Direta CPF\r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "42.60416"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "39.19583"
+        ]
+      }
+    },
+    {
+      "layer_id": 4127,
+      "path": "Artboard 1 / VD - SONG PRO / CARREGADOR WALLBOX GRÁTIS copiar 16",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 627,
+      "path": "Artboard 1 / VD - KING / OFERTA / King GL 25/26",
+      "visible_raw_psd": true,
+      "text": "King GL 25/26",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 629,
+      "path": "Artboard 1 / VD - KING / OFERTA / PREÇO / 147.990",
+      "visible_raw_psd": true,
+      "text": "147.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 630,
+      "path": "Artboard 1 / VD - KING / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 634,
+      "path": "Artboard 1 / VD - KING / TEXTO LEGAL / O BYD King GL 25/26 está pronto para te surpreender com a força",
+      "visible_raw_psd": true,
+      "text": "O BYD King GL 25/26 está pronto para te surpreender com a força de um super híbrido e a tecnologia de ponta da BYD. O equilíbrio perfeito entre desempenho, conforto e eficiência. Com o seu CPF através da venda direta você pode adquirir este modelo de R$172.990 por R$147.990. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 636,
+      "path": "Artboard 1 / VD - KING / Exclusivo para Venda Direta CPF ",
+      "visible_raw_psd": true,
+      "text": "Exclusivo para Venda Direta CPF\r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "42.60416"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "39.19583"
+        ]
+      }
+    },
+    {
+      "layer_id": 1172,
+      "path": "Artboard 1 / VD - KING / CARREGADOR WALLBOX GRÁTIS copiar 17",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 564,
+      "path": "Artboard 1 / VD - DOLPHIN / OFERTA / Dolphin Mini GL 26/27",
+      "visible_raw_psd": true,
+      "text": "Dolphin Mini GL 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 566,
+      "path": "Artboard 1 / VD - DOLPHIN / OFERTA / PREÇO / 109.990",
+      "visible_raw_psd": true,
+      "text": "109.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 567,
+      "path": "Artboard 1 / VD - DOLPHIN / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 571,
+      "path": "Artboard 1 / VD - DOLPHIN / TEXTO LEGAL / O BYD Dolphin Mini 5L GL 26/27 pode ser seu. Através do seu CPF",
+      "visible_raw_psd": true,
+      "text": "O BYD Dolphin Mini 5L GL 26/27 pode ser seu. Através do seu CPF na venda direta você pode adquirir este modelo de R$118.990 por R$109.990. Com design moderno, tecnologia 100% elétrica e autonomia ideal para o dia a dia urbano, o Dolphin Mini redefine o que é mobilidade inteligente. Oferta válida até 30 de setembro de 2026. Clientes mais satisfeitos do Brasil. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 573,
+      "path": "Artboard 1 / VD - DOLPHIN / Exclusivo para Venda Direta CPF ",
+      "visible_raw_psd": true,
+      "text": "Exclusivo para Venda Direta CPF\r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "42.60416"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "39.19583"
+        ]
+      }
+    },
+    {
+      "layer_id": 1170,
+      "path": "Artboard 1 / VD - DOLPHIN / CARREGADOR WALLBOX GRÁTIS copiar 15",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR WALLBOX GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 504,
+      "path": "Artboard 1 / ATTO 8  / OFERTA / ATTO 8 26/27",
+      "visible_raw_psd": true,
+      "text": "ATTO 8 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 506,
+      "path": "Artboard 1 / ATTO 8  / OFERTA / PREÇO / 399.990",
+      "visible_raw_psd": true,
+      "text": "399.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 507,
+      "path": "Artboard 1 / ATTO 8  / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 511,
+      "path": "Artboard 1 / ATTO 8  / TEXTO LEGAL / Novo ATTO 8, super-híbrido de 7 lugares. Com preço público suge",
+      "visible_raw_psd": true,
+      "text": "Novo ATTO 8, super-híbrido de 7 lugares. Com preço público sugerido de R$ 399.990 com taxa 0%, entrada de 70% e 24 parcelas ou bônus de R$20.000 na troca do seu BYD por BYD ou R$15.000 na troca de seu seminovo de todas as marcas. Consulte mais informações nas lojas. Oferta válida até dia 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 513,
+      "path": "Artboard 1 / ATTO 8  / Taxa 0% OU bônus de até R$20.000 no seu seminovo  ",
+      "visible_raw_psd": true,
+      "text": "Taxa 0% OU bônus de até R$20.000 no seu seminovo \r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-BoldIt'",
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        1,
+        0,
+        1
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'",
+        "'SourceSansPro-BoldIt'",
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583",
+          "39.19583",
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False",
+          "False",
+          "False"
+        ],
+        "FauxItalic": [
+          "False",
+          "False",
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "Tracking": [
+          "100",
+          "100",
+          "100"
+        ],
+        "Leading": [
+          "40.89999",
+          "40.89999",
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1101,
+      "path": "Artboard 1 / ATTO 8  / CARREGADOR WALLBOX GRÁTIS copiar 12",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 482,
+      "path": "Artboard 1 / SHARK / OFERTA / Shark 25/26",
+      "visible_raw_psd": true,
+      "text": "Shark 25/26",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 484,
+      "path": "Artboard 1 / SHARK / OFERTA / PREÇO / 344.990",
+      "visible_raw_psd": true,
+      "text": "344.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 485,
+      "path": "Artboard 1 / SHARK / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 489,
+      "path": "Artboard 1 / SHARK / TEXTO LEGAL / Potência, conforto e inovação em um só modelo. A BYD Shark 25/2",
+      "visible_raw_psd": true,
+      "text": "Potência, conforto e inovação em um só modelo. A BYD Shark 25/26 é a primeira picape super híbrida do mercado, unindo performance de sobra à tecnologia BYD. Com bônus de R$15.000 na troca do seu seminovo BYD. É a escolha ideal para quem quer força sem abrir mão de eficiência. Preço público sugerido de R$ 344.990. Oferta válida até 31 de agosto de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 491,
+      "path": "Artboard 1 / SHARK / bônus de R$15.000 no seu seminovo  ",
+      "visible_raw_psd": true,
+      "text": "bônus de R$15.000 no seu seminovo \r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1100,
+      "path": "Artboard 1 / SHARK / CARREGADOR WALLBOX GRÁTIS copiar 11",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 460,
+      "path": "Artboard 1 / SONG PREMIUM / OFERTA / Song Plus Premium 25/26",
+      "visible_raw_psd": true,
+      "text": "Song Plus Premium 25/26",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 462,
+      "path": "Artboard 1 / SONG PREMIUM / OFERTA / PREÇO / 269.800",
+      "visible_raw_psd": true,
+      "text": "269.800",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 463,
+      "path": "Artboard 1 / SONG PREMIUM / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 467,
+      "path": "Artboard 1 / SONG PREMIUM / TEXTO LEGAL / Sofisticação, tecnologia e desempenho superior. O BYD Song Plus",
+      "visible_raw_psd": true,
+      "text": "Sofisticação, tecnologia e desempenho superior. O BYD Song Plus Premium 25/26 é o super híbrido que redefine o conceito de SUV premium. Performance e autonomia combinadas a um acabamento impecável e tecnologia de ponta. Taxa 0%, entrada de 70% e 24 parcelas. Preço público sugerido de R$ 299.800. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 469,
+      "path": "Artboard 1 / SONG PREMIUM / taxa de 0%",
+      "visible_raw_psd": true,
+      "text": "taxa de 0%",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "44.30833"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1097,
+      "path": "Artboard 1 / SONG PREMIUM / CARREGADOR WALLBOX GRÁTIS copiar 10",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 431,
+      "path": "Artboard 1 / SONG PLUS 1.5 / OFERTA / Song Plus 1.5 T 26/27",
+      "visible_raw_psd": true,
+      "text": "Song Plus 1.5 T 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 433,
+      "path": "Artboard 1 / SONG PLUS 1.5 / OFERTA / PREÇO / 249.990",
+      "visible_raw_psd": true,
+      "text": "249.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 434,
+      "path": "Artboard 1 / SONG PLUS 1.5 / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 438,
+      "path": "Artboard 1 / SONG PLUS 1.5 / TEXTO LEGAL / O BYD Song Plus 1.5 T 26/27 chega com ainda mais eficiência. Pe",
+      "visible_raw_psd": true,
+      "text": "O BYD Song Plus 1.5 T 26/27 chega com ainda mais eficiência. Performance e autonomia combinadas a um acabamento impecável e tecnologia de ponta. Preço público sugerido de R$ 249.990 com taxa 0%, entrada de 70% + 18 parcelas de R$ 4.413 ou bônus de até R$20.000 na troca do seu seminovo de BYD pra BYD. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 440,
+      "path": "Artboard 1 / SONG PLUS 1.5 / Taxa 0% OU bônus de até R$20.000 ",
+      "visible_raw_psd": true,
+      "text": "Taxa 0% OU bônus de até R$20.000\r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-BoldIt'",
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        1,
+        0,
+        1
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'",
+        "'SourceSansPro-BoldIt'",
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583",
+          "39.19583",
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False",
+          "False",
+          "False"
+        ],
+        "FauxItalic": [
+          "False",
+          "False",
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "Tracking": [
+          "100",
+          "100",
+          "100"
+        ],
+        "Leading": [
+          "40.89999",
+          "40.89999",
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1094,
+      "path": "Artboard 1 / SONG PLUS 1.5 / CARREGADOR WALLBOX GRÁTIS copiar 9",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 3210,
+      "path": "Artboard 1 / SONG PRO GS FLEX 2627 / CARRO / New",
+      "visible_raw_psd": true,
+      "text": "new",
+      "resource_dict_font_set": [
+        "'SourceSansPro-BoldIt'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-BoldIt'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 375,
+      "path": "Artboard 1 / SONG PRO GS FLEX 2627 / OFERTA / Song Pro GS Flex 26/27 ",
+      "visible_raw_psd": true,
+      "text": "Song Pro GS Flex 26/27 ",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 377,
+      "path": "Artboard 1 / SONG PRO GS FLEX 2627 / OFERTA / PREÇO / 199.990",
+      "visible_raw_psd": true,
+      "text": "199.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 378,
+      "path": "Artboard 1 / SONG PRO GS FLEX 2627 / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 382,
+      "path": "Artboard 1 / SONG PRO GS FLEX 2627 / TEXTO LEGAL / O Novo BYD Song Pro GS Flex chega mais bonito, mais confortável",
+      "visible_raw_psd": true,
+      "text": "O Novo BYD Song Pro GS Flex chega mais bonito, mais confortável, mais tecnológico. E agora, Flex. Preço público sugerido de R$ 199.990. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 384,
+      "path": "Artboard 1 / SONG PRO GS FLEX 2627 / Taxa 0% ou bônus de R$10.000",
+      "visible_raw_psd": false,
+      "text": "Taxa 0% ou bônus de R$10.000",
+      "resource_dict_font_set": [
+        "'SourceSansPro-BoldIt'",
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        1,
+        0,
+        1
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'",
+        "'SourceSansPro-BoldIt'",
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583",
+          "39.19583",
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False",
+          "False",
+          "False"
+        ],
+        "FauxItalic": [
+          "False",
+          "False",
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "Tracking": [
+          "100",
+          "100",
+          "100"
+        ],
+        "Leading": [
+          "40.89999",
+          "40.89999",
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 2945,
+      "path": "Artboard 1 / SONG PRO GS FLEX 2627 / Mais bonito, mais confortável, mais tecnológico. E agora, Flex",
+      "visible_raw_psd": true,
+      "text": "Mais bonito, mais confortável, mais tecnológico. E agora, Flex",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1093,
+      "path": "Artboard 1 / SONG PRO GS FLEX 2627 / CARREGADOR WALLBOX GRÁTIS copiar 8",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS ",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 4596,
+      "path": "Artboard 1 / SONG PRO GS 2627 / CARRO / Group 7 / New",
+      "visible_raw_psd": true,
+      "text": "últimas",
+      "resource_dict_font_set": [
+        "'SourceSansPro-BoldIt'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-BoldIt'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 4599,
+      "path": "Artboard 1 / SONG PRO GS 2627 / CARRO / Group 7 / New",
+      "visible_raw_psd": true,
+      "text": "unidades",
+      "resource_dict_font_set": [
+        "'SourceSansPro-BoldIt'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-BoldIt'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 340,
+      "path": "Artboard 1 / SONG PRO GS 2627 / OFERTA / Song Pro GS 26/27",
+      "visible_raw_psd": true,
+      "text": "Song Pro GS 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 342,
+      "path": "Artboard 1 / SONG PRO GS 2627 / OFERTA / PREÇO / 199.990",
+      "visible_raw_psd": true,
+      "text": "199.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 343,
+      "path": "Artboard 1 / SONG PRO GS 2627 / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 1088,
+      "path": "Artboard 1 / SONG PRO GS 2627 / OFERTA / ÚLTIMAS UNIDADES",
+      "visible_raw_psd": false,
+      "text": "ÚLTIMAS UNIDADES",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "29.16667"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 347,
+      "path": "Artboard 1 / SONG PRO GS 2627 / TEXTO LEGAL / O BYD Song Pro GS 26/27 com bônus de R$10.000. Preço público su",
+      "visible_raw_psd": true,
+      "text": "O BYD Song Pro GS 26/27 com bônus de R$10.000. Preço público sugerido de R$ 199.990. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 349,
+      "path": "Artboard 1 / SONG PRO GS 2627 / bônus de R$10.000  ",
+      "visible_raw_psd": true,
+      "text": "bônus de R$10.000 \r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1092,
+      "path": "Artboard 1 / SONG PRO GS 2627 / CARREGADOR WALLBOX GRÁTIS copiar 7",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 313,
+      "path": "Artboard 1 / KING GS 2627 / OFERTA / King GS 26/27",
+      "visible_raw_psd": true,
+      "text": "King GS 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 315,
+      "path": "Artboard 1 / KING GS 2627 / OFERTA / PREÇO / 166.990",
+      "visible_raw_psd": true,
+      "text": "166.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 316,
+      "path": "Artboard 1 / KING GS 2627 / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 320,
+      "path": "Artboard 1 / KING GS 2627 / TEXTO LEGAL / O BYD King GS 26/27 está pronto para te surpreender com a força",
+      "visible_raw_psd": true,
+      "text": "O BYD King GS 26/27 está pronto para te surpreender com a força de um super híbrido e a tecnologia de ponta da BYD. O equilíbrio perfeito entre desempenho, conforto e eficiência. Preço público sugerido de R$ 166.990. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 1054,
+      "path": "Artboard 1 / KING GS 2627 / CARREGADOR WALLBOX GRÁTIS copiar 5",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1378,
+      "path": "Artboard 1 / ATTO 2 / CARRO / New",
+      "visible_raw_psd": true,
+      "text": "new",
+      "resource_dict_font_set": [
+        "'SourceSansPro-BoldIt'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-BoldIt'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1061,
+      "path": "Artboard 1 / ATTO 2 / OFERTA / ATTO 2 GS 26/27",
+      "visible_raw_psd": true,
+      "text": "ATTO 2 GS 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 1063,
+      "path": "Artboard 1 / ATTO 2 / OFERTA / PREÇO / 169.990",
+      "visible_raw_psd": true,
+      "text": "169.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 1064,
+      "path": "Artboard 1 / ATTO 2 / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 1068,
+      "path": "Artboard 1 / ATTO 2 / TEXTO LEGAL / O BYD ATTO 2 GS 26/27, híbrido plug-in flex. Tecnologia que mov",
+      "visible_raw_psd": true,
+      "text": "O BYD ATTO 2 GS 26/27, híbrido plug-in flex. Tecnologia que move, design que atrai e liberdade em cada trajeto. A exclusiva tecnologia BYD Super DM-i Flex permite rodar no modo elétrico para o dia a dia e contar com gasolina ou etanol para viagens mais longas. Preço público sugerido de R$ 169.990. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 1080,
+      "path": "Artboard 1 / ATTO 2 / O Híbrido Plug-in Flex ",
+      "visible_raw_psd": true,
+      "text": "O Híbrido Plug-in Flex\r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "39.19583"
+        ]
+      }
+    },
+    {
+      "layer_id": 1081,
+      "path": "Artboard 1 / ATTO 2 / CARREGADOR WALLBOX GRÁTIS copiar 6",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR PORTÁTIL GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1365,
+      "path": "Artboard 1 / SEALION / CARRO / New",
+      "visible_raw_psd": true,
+      "text": "new",
+      "resource_dict_font_set": [
+        "'SourceSansPro-BoldIt'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-BoldIt'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 526,
+      "path": "Artboard 1 / SEALION / OFERTA / Sealion 26/27",
+      "visible_raw_psd": true,
+      "text": "Sealion 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 528,
+      "path": "Artboard 1 / SEALION / OFERTA / PREÇO / 339.990",
+      "visible_raw_psd": true,
+      "text": "339.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 529,
+      "path": "Artboard 1 / SEALION / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 533,
+      "path": "Artboard 1 / SEALION / TEXTO LEGAL / Design, performance e elegância unidos em um SUV, potência de 5",
+      "visible_raw_psd": true,
+      "text": "Design, performance e elegância unidos em um SUV, potência de 531 cavalos, aceleração de 4.5s de 0 a 100km/h, o Sealion veículo 100% elétrico surpreende. Preço público sugerido de R$ 339.990. Consulte mais informações nas lojas. Oferta válida até dia 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 535,
+      "path": "Artboard 1 / SEALION / Taxa de 0,99% + bônus de R$25.000 na troca do seu Seal ",
+      "visible_raw_psd": false,
+      "text": "Taxa de 0,99% + bônus de R$25.000 na troca do seu Seal\r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0,
+        1,
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'",
+        "'SourceSansPro-Black'",
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583",
+          "39.19583",
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False",
+          "False",
+          "False"
+        ],
+        "FauxItalic": [
+          "False",
+          "False",
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "Tracking": [
+          "100",
+          "100",
+          "100"
+        ],
+        "Leading": [
+          "39.19583",
+          "39.19583",
+          "39.19583"
+        ]
+      }
+    },
+    {
+      "layer_id": 2944,
+      "path": "Artboard 1 / SEALION / Design, performance e elegância",
+      "visible_raw_psd": true,
+      "text": "Design, performance e elegância",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "39.19583"
+        ]
+      }
+    },
+    {
+      "layer_id": 1051,
+      "path": "Artboard 1 / SEALION / CARREGADOR WALLBOX GRÁTIS copiar 4",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR WALLBOX GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 242,
+      "path": "Artboard 1 / SEAL / OFERTA / Seal 26/27",
+      "visible_raw_psd": true,
+      "text": "Seal 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 244,
+      "path": "Artboard 1 / SEAL / OFERTA / PREÇO / 299.990",
+      "visible_raw_psd": true,
+      "text": "299.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 245,
+      "path": "Artboard 1 / SEAL / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 249,
+      "path": "Artboard 1 / SEAL / TEXTO LEGAL / O Seal 26/27 está te esperando com taxa 0% com 60% de entrada e",
+      "visible_raw_psd": true,
+      "text": "O Seal 26/27 está te esperando com taxa 0% com 60% de entrada e o restante em 36 vezes ou bônus de R$40.000 na troca do seu seminovo BYD! O sedã elétrico que une potência, tecnologia e sustentabilidade agora no modelo 2027. Preço público sugerido de R$ 299.990. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas e, para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 251,
+      "path": "Artboard 1 / SEAL / Taxa 0% OU bônus de R$40.000 no seu seminovo  ",
+      "visible_raw_psd": true,
+      "text": "Taxa 0% OU bônus de R$40.000 no seu seminovo \r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-BoldIt'",
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        1,
+        0,
+        1
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'",
+        "'SourceSansPro-BoldIt'",
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583",
+          "39.19583",
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False",
+          "False",
+          "False"
+        ],
+        "FauxItalic": [
+          "False",
+          "False",
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "Tracking": [
+          "100",
+          "100",
+          "100"
+        ],
+        "Leading": [
+          "40.89999",
+          "40.89999",
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1049,
+      "path": "Artboard 1 / SEAL / CARREGADOR WALLBOX GRÁTIS copiar 3",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR WALLBOX GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 199,
+      "path": "Artboard 1 / YUAN PLUS (desconsiderar) / OFERTA / Yuan Plus 25/26",
+      "visible_raw_psd": true,
+      "text": "Yuan Plus 25/26",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 201,
+      "path": "Artboard 1 / YUAN PLUS (desconsiderar) / OFERTA / PREÇO / 235.990",
+      "visible_raw_psd": true,
+      "text": "235.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 202,
+      "path": "Artboard 1 / YUAN PLUS (desconsiderar) / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 206,
+      "path": "Artboard 1 / YUAN PLUS (desconsiderar) / TEXTO LEGAL / Yuan Plus 2026 está com taxa 0%, entrada de 60% e saldo em 36 v",
+      "visible_raw_psd": true,
+      "text": "Yuan Plus 2026 está com taxa 0%, entrada de 60% e saldo em 36 vezes, mais bônus de até R$ 30.000 no seminovo na troca de BYD para BYD ou bônus de R$15.000 para seminovo de outras marcas. O SUV elétrico mais completo da categoria. Preço público sugerido de R$ 235.990. Oferta válida até 30 de junho de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 208,
+      "path": "Artboard 1 / YUAN PLUS (desconsiderar) / Taxa 0% + bônus de até R$30.000 no seu seminovo  ",
+      "visible_raw_psd": true,
+      "text": "Taxa 0% + bônus de até R$30.000 no seu seminovo \r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0,
+        1,
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'",
+        "'SourceSansPro-Black'",
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583",
+          "54.53332",
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False",
+          "False",
+          "False"
+        ],
+        "FauxItalic": [
+          "False",
+          "False",
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "Tracking": [
+          "100",
+          "100",
+          "100"
+        ],
+        "Leading": [
+          "40.89999",
+          "40.89999",
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 220,
+      "path": "Artboard 1 / YUAN PLUS AWD / OFERTA / Yuan Plus AWD 26/27",
+      "visible_raw_psd": true,
+      "text": "Yuan Plus AWD 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 222,
+      "path": "Artboard 1 / YUAN PLUS AWD / OFERTA / PREÇO / 269.990",
+      "visible_raw_psd": true,
+      "text": "269.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 223,
+      "path": "Artboard 1 / YUAN PLUS AWD / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 227,
+      "path": "Artboard 1 / YUAN PLUS AWD / TEXTO LEGAL / Yuan Plus AWD 26/27, o SUV elétrico mais completo da categoria.",
+      "visible_raw_psd": true,
+      "text": "Yuan Plus AWD 26/27, o SUV elétrico mais completo da categoria. Com 449 cavalos de potência, autonomia de até 378km e aceleração de 3.9s de 0 a 100km/h. Preço público sugerido de R$ 269.990. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 229,
+      "path": "Artboard 1 / YUAN PLUS AWD / O SUV elétrico mais completo da categoria ",
+      "visible_raw_psd": true,
+      "text": "O SUV elétrico mais completo da categoria\r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1167,
+      "path": "Artboard 1 / YUAN PLUS AWD / CARREGADOR WALLBOX GRÁTIS copiar 14",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR WALLBOX GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 2943,
+      "path": "Artboard 1 / YUAN PLUS AWD / O SUV elétrico mais completo da categoria",
+      "visible_raw_psd": false,
+      "text": "O SUV elétrico mais completo da categoria",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 153,
+      "path": "Artboard 1 / YUAN PRO / OFERTA / Yuan Pro 26/27",
+      "visible_raw_psd": true,
+      "text": "Yuan Pro 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 156,
+      "path": "Artboard 1 / YUAN PRO / OFERTA / PREÇO / 182.990",
+      "visible_raw_psd": true,
+      "text": "182.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 157,
+      "path": "Artboard 1 / YUAN PRO / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 161,
+      "path": "Artboard 1 / YUAN PRO / TEXTO LEGAL / Yuan Pro 26/27 está com taxa 0%, entrada de 60% e saldo em 36 v",
+      "visible_raw_psd": true,
+      "text": "Yuan Pro 26/27 está com taxa 0%, entrada de 60% e saldo em 36 vezes ou bônus de até R$20.000 no seu seminovo BYD. O SUV elétrico com o menor custo de uso do mercado. Preço público sugerido de R$ 182.990. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 164,
+      "path": "Artboard 1 / YUAN PRO / Taxa 0% OU bônus de até  R$20.000 no seu seminovo",
+      "visible_raw_psd": true,
+      "text": "Taxa 0% OU bônus de até \rR$20.000 no seu seminovo",
+      "resource_dict_font_set": [
+        "'SourceSansPro-BoldIt'",
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        1,
+        0,
+        1
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'",
+        "'SourceSansPro-BoldIt'",
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "37.49166",
+          "39.19583",
+          "37.49166"
+        ],
+        "FauxBold": [
+          "False",
+          "False",
+          "False"
+        ],
+        "FauxItalic": [
+          "False",
+          "False",
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "Tracking": [
+          "100",
+          "100",
+          "100"
+        ],
+        "Leading": [
+          "40.89999",
+          "40.89999",
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1047,
+      "path": "Artboard 1 / YUAN PRO / CARREGADOR WALLBOX GRÁTIS copiar 2",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR WALLBOX GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 178,
+      "path": "Artboard 1 / DOLPHIN SE / OFERTA / Dolphin SE 26/27 ",
+      "visible_raw_psd": true,
+      "text": "Dolphin SE 26/27\r",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 180,
+      "path": "Artboard 1 / DOLPHIN SE / OFERTA / PREÇO / 169.990",
+      "visible_raw_psd": true,
+      "text": "169.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 181,
+      "path": "Artboard 1 / DOLPHIN SE / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 185,
+      "path": "Artboard 1 / DOLPHIN SE / TEXTO LEGAL / O BYD Dolphin Special Edition 26/27, o compacto com espaço de S",
+      "visible_raw_psd": true,
+      "text": "O BYD Dolphin Special Edition 26/27, o compacto com espaço de SUV está por R$169.990. Com até 272 km de autonomia PBEV, recarga rápida de 30 a 80% em apenas 30 minutos e potência de 177 cavalos. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 187,
+      "path": "Artboard 1 / DOLPHIN SE / O compacto com espaço de SUV",
+      "visible_raw_psd": true,
+      "text": "O compacto com espaço de SUV",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1046,
+      "path": "Artboard 1 / DOLPHIN SE / CARREGADOR WALLBOX GRÁTIS copiar",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR WALLBOX GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 2942,
+      "path": "Artboard 1 / DOLPHIN SE / O favorito pelos brasileiros copiar",
+      "visible_raw_psd": false,
+      "text": "O favorito pelos brasileiros",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 131,
+      "path": "Artboard 1 / DOLPHIN GS / OFERTA / Dolphin GS 26/27",
+      "visible_raw_psd": true,
+      "text": "Dolphin GS 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 139,
+      "path": "Artboard 1 / DOLPHIN GS / OFERTA / De R$149.990",
+      "visible_raw_psd": false,
+      "text": "De R$149.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "27.26666"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 128,
+      "path": "Artboard 1 / DOLPHIN GS / OFERTA / PREÇO / 149.990",
+      "visible_raw_psd": true,
+      "text": "149.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "25"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 129,
+      "path": "Artboard 1 / DOLPHIN GS / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 136,
+      "path": "Artboard 1 / DOLPHIN GS / TEXTO LEGAL / O BYD Dolphin GS 26/27, o hatch elétrico mais completo da categ",
+      "visible_raw_psd": true,
+      "text": "O BYD Dolphin GS 26/27, o hatch elétrico mais completo da categoria oferece conforto, tecnologia e economia, consolidando-se como um dos modelos mais desejados do país. Preço público sugerido de R$ 149.990. Oferta válida até 30 de setembro de 2026. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 132,
+      "path": "Artboard 1 / DOLPHIN GS / Taxa 0% OU bônus de até  R$15.000 no seu seminovo",
+      "visible_raw_psd": false,
+      "text": "Taxa 0% OU bônus de até \rR$15.000 no seu seminovo",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0,
+        1,
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'",
+        "'SourceSansPro-Black'",
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583",
+          "39.19583",
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False",
+          "False",
+          "False"
+        ],
+        "FauxItalic": [
+          "False",
+          "False",
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0",
+          "1.0",
+          "1.0"
+        ],
+        "Tracking": [
+          "100",
+          "100",
+          "100"
+        ],
+        "Leading": [
+          "40.89999",
+          "40.89999",
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 1045,
+      "path": "Artboard 1 / DOLPHIN GS / CARREGADOR WALLBOX GRÁTIS",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR WALLBOX GRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 2941,
+      "path": "Artboard 1 / DOLPHIN GS / O favorito pelos brasileiros",
+      "visible_raw_psd": true,
+      "text": "O favorito pelos brasileiros",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "39.19583"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "40.89999"
+        ]
+      }
+    },
+    {
+      "layer_id": 28,
+      "path": "Artboard 1 / DOLPHIN MINI 5L GS / FIXO / assinatura / BYD. UMA REVOLUÇÃO GLOBAL",
+      "visible_raw_psd": true,
+      "text": "BYD. UMA REVOLUÇÃO GLOBAL",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "37.89919"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "120"
+        ],
+        "Leading": [
+          "52.98185"
+        ]
+      }
+    },
+    {
+      "layer_id": 44,
+      "path": "Artboard 1 / DOLPHIN MINI 5L GS / FIXO / RODAPE / IBAMA / Desacelere. Seu bem maior é a vida.",
+      "visible_raw_psd": true,
+      "text": "Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'ArialMT'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0,
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'ArialMT'",
+        "'ArialMT'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "32.76655",
+          "32.76655"
+        ],
+        "FauxBold": [
+          "False",
+          "False"
+        ],
+        "FauxItalic": [
+          "False",
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0",
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0",
+          "1.0"
+        ],
+        "Tracking": [
+          "-20",
+          "-20"
+        ],
+        "Leading": [
+          "16.8",
+          "16.8"
+        ]
+      }
+    },
+    {
+      "layer_id": 23,
+      "path": "Artboard 1 / DOLPHIN MINI 5L GS / DOLPHIN MINI / DETALHE / It’s not a car, it’s a BYD",
+      "visible_raw_psd": true,
+      "text": "It’s not a car, it’s a BYD",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Semibold'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Semibold'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "37.89919"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "200"
+        ],
+        "Leading": [
+          "35.62075"
+        ]
+      }
+    },
+    {
+      "layer_id": 57,
+      "path": "Artboard 1 / DOLPHIN MINI 5L GS / OFERTA / PREÇO / 119.990",
+      "visible_raw_psd": true,
+      "text": "119.990",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 58,
+      "path": "Artboard 1 / DOLPHIN MINI 5L GS / OFERTA / PREÇO / R$",
+      "visible_raw_psd": true,
+      "text": "R$",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "50.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 56,
+      "path": "Artboard 1 / DOLPHIN MINI 5L GS / OFERTA / Dolphin Mini 5L GS 26/27",
+      "visible_raw_psd": true,
+      "text": "Dolphin Mini 5L GS 26/27",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "33.33333"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "40"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    },
+    {
+      "layer_id": 61,
+      "path": "Artboard 1 / DOLPHIN MINI 5L GS / OFERTA / Parcelas a partir de R$999,00",
+      "visible_raw_psd": false,
+      "text": "Parcelas a partir de R$999,00",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "29.16667"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 63,
+      "path": "Artboard 1 / DOLPHIN MINI 5L GS / TEXTO LEGAL / O BYD Dolphin Mini 5L GS 26/27, com design moderno, tecnologia ",
+      "visible_raw_psd": true,
+      "text": "O BYD Dolphin Mini 5L GS 26/27, com design moderno, tecnologia 100% elétrica e autonomia ideal para o dia a dia urbano, o Dolphin Mini redefine o que é mobilidade inteligente. E o melhor: você pode pagar as parcelas do financiamento com a economia do custo por quilômetro rodado. Preço público sugerido de R$ 119.990. Oferta válida até 30 de setembro de 2026. Clientes mais satisfeitos do Brasil. BYD é Servopa, você e o futuro na mesma direção. Visite nossas lojas. Para mais informações, converse com um vendedor especialista. Desacelere. Seu bem maior é a vida.",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Regular'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Regular'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "12.5"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "0"
+        ],
+        "Leading": [
+          "29.16667"
+        ]
+      }
+    },
+    {
+      "layer_id": 1166,
+      "path": "Artboard 1 / DOLPHIN MINI 5L GS / CARREGADOR WALLBOX GRÁTIS copiar 13",
+      "visible_raw_psd": true,
+      "text": "CARREGADOR\rWALLBOX\rGRÁTIS",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "20.45"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "25.56249"
+        ]
+      }
+    },
+    {
+      "layer_id": 2940,
+      "path": "Artboard 1 / DOLPHIN MINI 5L GS / Perfeito para o dia-a-dia da cidade",
+      "visible_raw_psd": true,
+      "text": "Perfeito para o dia-a-dia da cidade",
+      "resource_dict_font_set": [
+        "'SourceSansPro-Black'",
+        "'AdobeInvisFont'",
+        "'MyriadPro-Regular'"
+      ],
+      "style_run_font_indexes": [
+        0
+      ],
+      "style_run_fonts_resolved": [
+        "'SourceSansPro-Black'"
+      ],
+      "style_fields": {
+        "FontSize": [
+          "100.0"
+        ],
+        "FauxBold": [
+          "False"
+        ],
+        "FauxItalic": [
+          "False"
+        ],
+        "HorizontalScale": [
+          "1.0"
+        ],
+        "VerticalScale": [
+          "1.0"
+        ],
+        "Tracking": [
+          "100"
+        ],
+        "Leading": [
+          "235.84253"
+        ]
+      }
+    }
+  ]
+}

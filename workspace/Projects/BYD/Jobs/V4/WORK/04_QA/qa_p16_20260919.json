@@ -1,0 +1,661 @@
+{
+  "coverage_ok": true,
+  "at": "2026-09-20T01:11:32.370929+00:00",
+  "elapsed_seconds": 134.959,
+  "revision": "p16",
+  "png_count": 21,
+  "png_pass": 21,
+  "psd_count": 7,
+  "pngs": [
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_dolphin-mini-5l-gs_1080x1080.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "size": [
+        1080,
+        1080
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 986368,
+      "sha256": "0e3a6aadecc3a5983d5c136e4aef40757a5424e688ebe1c42f57a4f2696b40db",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_dolphin-mini-5l-gs_1080x1920.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1532242,
+      "sha256": "e86a506f731f2f0c6a61177d22a6b704d14274191b29c6937930a79913e5136e",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_dolphin-mini-5l-gs_1109x1973.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "size": [
+        1109,
+        1973
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1599605,
+      "sha256": "eca5f32f035a59706b4a38803dcfa76c7202c58ee2a78c2dd50356eccc35a1d6",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_dolphin-mini-5l-gs_1920x1080.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1404262,
+      "sha256": "fd226e88ff9ac635c39638eed062e81cb11828b725d25950609c407c863fad30",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_dolphin-mini-5l-gs_1920x1125.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "size": [
+        1920,
+        1125
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1445064,
+      "sha256": "e0317995a2d469d3e40d2d51c17de4caede2b18aa98f591acf00efe3dd1cf45f",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_dolphin-mini-5l-gs_1920x276.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "size": [
+        1920,
+        276
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 432688,
+      "sha256": "cc77a6eeb728a8c303feb77ef79e1e116eb47bab9f9a257bbe125826352a50b8",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_dolphin-mini-5l-gs_360x80.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "size": [
+        360,
+        80
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 39784,
+      "sha256": "a16a6dc3e64d542c5bf0ec4511401b8feebba6a0f6f1d02c744883bf3b314466",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_vd-atto-2_1080x1080.png",
+      "offer_id": "vd-atto-2",
+      "size": [
+        1080,
+        1080
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 966942,
+      "sha256": "3a8b7d91b205516a9f9b52fc322fcd895ba06a11260564542e4a4e664e6d6c7b",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_vd-atto-2_1080x1920.png",
+      "offer_id": "vd-atto-2",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1511929,
+      "sha256": "c6b6fd19be1488c82c1e2e1d624febaee09b5ffd1254588e452d5354f4db0d59",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_vd-atto-2_1109x1973.png",
+      "offer_id": "vd-atto-2",
+      "size": [
+        1109,
+        1973
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1572639,
+      "sha256": "1fd4cc57b7341aa8fbe0a82e0f5c4094c5cd76c429923a5f9a030a0523b369e2",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_vd-atto-2_1920x1080.png",
+      "offer_id": "vd-atto-2",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1457044,
+      "sha256": "75667fdf8871b558e9fcd6160731c22a879684e35e363e7767183b26f1234a73",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_vd-atto-2_1920x1125.png",
+      "offer_id": "vd-atto-2",
+      "size": [
+        1920,
+        1125
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1497093,
+      "sha256": "694c376a1661f16e4eba8564a17afdec19e2fe742f03c13fb8d492f1bbadb227",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_vd-atto-2_1920x276.png",
+      "offer_id": "vd-atto-2",
+      "size": [
+        1920,
+        276
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 420472,
+      "sha256": "5e0c72cb834e776106a60d18f4fcc878d91bafdc95b615564cfbd75108d974f8",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_vd-atto-2_360x80.png",
+      "offer_id": "vd-atto-2",
+      "size": [
+        360,
+        80
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 38066,
+      "sha256": "61e08eb16f11b8457eaddf5808c79c86e423ec7926c2f5b409f74746d47b821c",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_yuan-plus-awd-26-27_1080x1080.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "size": [
+        1080,
+        1080
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 919371,
+      "sha256": "eca4804e2f661b5e5bb3c701eadbe9cdaa949659b43525201de7b6fa8035927a",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_yuan-plus-awd-26-27_1080x1920.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1453312,
+      "sha256": "be5fe35414cab55fbe98c3846c72126553b72ec21804f7ff5fdad158ebb0d0fa",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_yuan-plus-awd-26-27_1109x1973.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "size": [
+        1109,
+        1973
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1506297,
+      "sha256": "4757fac1f64b55fda193351007ddf6d0dfbebaa2ab74ae4d4bdc82603e1394a7",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_yuan-plus-awd-26-27_1920x1080.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1369405,
+      "sha256": "64be60908dfe1f1d3bc3ee3aad489c4122587b0db1fe25ab43c41ba0f9d02386",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_yuan-plus-awd-26-27_1920x1125.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "size": [
+        1920,
+        1125
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1410225,
+      "sha256": "dbe3b01b5149d7879828dfc51dfca907e454507a345866c72f4578e38f706167",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_yuan-plus-awd-26-27_1920x276.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "size": [
+        1920,
+        276
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 394255,
+      "sha256": "0f9a79a666863a57ffdbd2c6aa723ca24a482ab6bd8dc4045809e0941fc85428",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/2026-09-19-p16/p16_byd_yuan-plus-awd-26-27_360x80.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "size": [
+        360,
+        80
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 37625,
+      "sha256": "13e7d9c5debda7cc0588ac556b2e625b91a39c8956953d0ef713ea40cfd9bddc",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    }
+  ],
+  "psds": [
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-19-p16/P16_TRIAL_1080x1080.psd",
+      "size": [
+        1080,
+        1080
+      ],
+      "sha256": "efc3553ee5fec2e7ca29c4e03936d0b4036a8c1a3733c63a9136e85cf7c7f04c",
+      "bytes": 751647321,
+      "top_groups": [
+        "Plano de Fundo",
+        "BG",
+        "VEICULO",
+        "LEGAL",
+        "CONDICIONAIS",
+        "OFERTA",
+        "FIXO",
+        "#GUIAS"
+      ],
+      "required_groups_present": true,
+      "text_layers": 25,
+      "smart_objects": 23,
+      "visibility_checks": {
+        "new_hidden": true
+      },
+      "status": "DRAFT_3_STATES_NOT_CANONICAL"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-19-p16/P16_TRIAL_1080x1920.psd",
+      "size": [
+        1080,
+        1920
+      ],
+      "sha256": "edb2262ac36dddf1945ee0c47ade4d8ca18300d3447126d428b435108282b783",
+      "bytes": 780110082,
+      "top_groups": [
+        "Plano de Fundo",
+        "BG",
+        "VEICULO",
+        "LEGAL",
+        "CONDICIONAIS",
+        "OFERTA",
+        "FIXO",
+        "#GUIAS"
+      ],
+      "required_groups_present": true,
+      "text_layers": 25,
+      "smart_objects": 23,
+      "visibility_checks": {
+        "new_hidden": true
+      },
+      "status": "DRAFT_3_STATES_NOT_CANONICAL"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-19-p16/P16_TRIAL_1109x1973.psd",
+      "size": [
+        1109,
+        1973
+      ],
+      "sha256": "c2a9eedf10838e4fa378b0b5e51fd9c0885d8ad7dd378c76d7a666f3eca282a9",
+      "bytes": 783047447,
+      "top_groups": [
+        "Plano de Fundo",
+        "BG",
+        "VEICULO",
+        "LEGAL",
+        "CONDICIONAIS",
+        "OFERTA",
+        "FIXO",
+        "#GUIAS"
+      ],
+      "required_groups_present": true,
+      "text_layers": 25,
+      "smart_objects": 23,
+      "visibility_checks": {
+        "new_hidden": true
+      },
+      "status": "DRAFT_3_STATES_NOT_CANONICAL"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-19-p16/P16_TRIAL_1920x1080.psd",
+      "size": [
+        1920,
+        1080
+      ],
+      "sha256": "66e61ef72067065749428680169da1e7b1fe498b894b633a01ec4d5c4e9806ad",
+      "bytes": 780942338,
+      "top_groups": [
+        "Plano de Fundo",
+        "BG",
+        "VEICULO",
+        "LEGAL",
+        "CONDICIONAIS",
+        "OFERTA",
+        "FIXO",
+        "#GUIAS"
+      ],
+      "required_groups_present": true,
+      "text_layers": 25,
+      "smart_objects": 23,
+      "visibility_checks": {
+        "new_hidden": true
+      },
+      "status": "DRAFT_3_STATES_NOT_CANONICAL"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-19-p16/P16_TRIAL_1920x1125.psd",
+      "size": [
+        1920,
+        1125
+      ],
+      "sha256": "be315204403b105577e651ac4db0072537e4253549ab7316b33c67cff80d212f",
+      "bytes": 781185428,
+      "top_groups": [
+        "Plano de Fundo",
+        "BG",
+        "VEICULO",
+        "LEGAL",
+        "CONDICIONAIS",
+        "OFERTA",
+        "FIXO",
+        "#GUIAS"
+      ],
+      "required_groups_present": true,
+      "text_layers": 25,
+      "smart_objects": 23,
+      "visibility_checks": {
+        "new_hidden": true
+      },
+      "status": "DRAFT_3_STATES_NOT_CANONICAL"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-19-p16/P16_TRIAL_1920x276.psd",
+      "size": [
+        1920,
+        276
+      ],
+      "sha256": "5e114f143b3a2edc83c2a39e4a3a69d9cd1fb0c279a419d809e7bbf4f8e22295",
+      "bytes": 748620530,
+      "top_groups": [
+        "Plano de Fundo",
+        "BG",
+        "VEICULO",
+        "LEGAL",
+        "CONDICIONAIS",
+        "OFERTA",
+        "FIXO",
+        "#GUIAS"
+      ],
+      "required_groups_present": true,
+      "text_layers": 25,
+      "smart_objects": 23,
+      "visibility_checks": {
+        "new_hidden": true
+      },
+      "status": "DRAFT_3_STATES_NOT_CANONICAL"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-19-p16/P16_TRIAL_360x80.psd",
+      "size": [
+        360,
+        80
+      ],
+      "sha256": "36fb02b03d9a6f989ed8eb28bfcf887409a370d9741f37bcced8f59efa410783",
+      "bytes": 715557587,
+      "top_groups": [
+        "Plano de Fundo",
+        "BG",
+        "VEICULO",
+        "LEGAL",
+        "CONDICIONAIS",
+        "OFERTA",
+        "FIXO",
+        "#GUIAS"
+      ],
+      "required_groups_present": true,
+      "text_layers": 25,
+      "smart_objects": 23,
+      "visibility_checks": {
+        "new_hidden": true,
+        "headline_hidden_yuan-plus-awd-26-27": true,
+        "headline_hidden_dolphin-mini-5l-gs": true,
+        "benefit_hidden_vd": true
+      },
+      "status": "DRAFT_3_STATES_NOT_CANONICAL"
+    }
+  ],
+  "approval": false
+}

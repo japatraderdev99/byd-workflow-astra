@@ -1,0 +1,5 @@
+{
+  "source": "patch_p13.jsx",
+  "sha256": "c4a8241b19d560e6e01ca9f9a906b993eaf71dccfbc067d51fac6b21ee883c3f",
+  "fix": "ASCII escaped JSX names; repair names in copied PSD; preserve p13 failure"
+}

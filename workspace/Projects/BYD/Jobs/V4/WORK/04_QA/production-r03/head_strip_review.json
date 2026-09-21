@@ -1,0 +1,146 @@
+{
+  "at": "2026-09-20T00:21:18.501525-03:00",
+  "reviewer": "Astra head",
+  "files": [
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_atto-2_1920x276.png",
+      "sha256": "9a1fa85be2b829ce33da15ac3930bb0e47dd8059c9b21e91da3e2bc02e1ad5c5",
+      "offer_id": "atto-2",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_atto-8_1920x276.png",
+      "sha256": "3b7ef680fab5edb238ca2e3f3d33c1607da7d90605d9f93be8aea8b81be6de7f",
+      "offer_id": "atto-8",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_dolphin-gs_1920x276.png",
+      "sha256": "c3790301338d86dcf40cd1df646deaf62aa8bd8902b292c107bd4a8bc0415678",
+      "offer_id": "dolphin-gs",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_dolphin-mini-5l-gs_1920x276.png",
+      "sha256": "3835e6805a7a513aa840a1d41d3496b7b935119b7496219a714711b6e791ee1d",
+      "offer_id": "dolphin-mini-5l-gs",
+      "status": "REVISE",
+      "notes": "Restore approved three-line installments wrapping; all other elements reviewed"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_dolphin-se_1920x276.png",
+      "sha256": "69d10ec058731747c1da5b6d1bff2ffdacb0eb327cbd32fb2dc693b67910cb90",
+      "offer_id": "dolphin-se",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_king-gs_1920x276.png",
+      "sha256": "12689d5e6c9efdc04164f64cf96e096efe2b362e37467deee7527a77687dcf15",
+      "offer_id": "king-gs",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_seal-26-27_1920x276.png",
+      "sha256": "3e8c4ceed2576eeaacb05814ab595b4c712eb314820c8e31c38a0907693c94f2",
+      "offer_id": "seal-26-27",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_sealion-26-27_1920x276.png",
+      "sha256": "d91d6058eca6f919e81eb3cbd658c8ab731f96140d925dd1cb167ec11a6d171e",
+      "offer_id": "sealion-26-27",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_song-plus_1920x276.png",
+      "sha256": "5de8b19b70628cba066d157b527ecef38aac0f87c87d9ef4d9418c1a2386ea27",
+      "offer_id": "song-plus",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_song-premium_1920x276.png",
+      "sha256": "6f6bb5ee15ee71a176341f7a79131ac1ea74368cad9832ce5ed9717a3955ead7",
+      "offer_id": "song-premium",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_song-pro-flex_1920x276.png",
+      "sha256": "f5ac07a6b1d29e4d4e0b164d016c7e2b486624a685ceeb549892c169413cf853",
+      "offer_id": "song-pro-flex",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_song-pro_1920x276.png",
+      "sha256": "bd05399f7a3ec48eac7a05033f613a8c663508e2a063c920170f6439ade3b936",
+      "offer_id": "song-pro",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_vd-atto-2_1920x276.png",
+      "sha256": "50a83bc01e5485f8a38063adce124d43a3cef89463b43e1e2e2f8fd52811e4fa",
+      "offer_id": "vd-atto-2",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_vd-dolphin-mini_1920x276.png",
+      "sha256": "e6a9ab1ea3e8ec04fafa2d1b197d8561633be8966d2b1031eab93ef8fe6f540d",
+      "offer_id": "vd-dolphin-mini",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_vd-king-gl_1920x276.png",
+      "sha256": "0cc3e67515750176fc06ea9d2771bec276239efa76984481aee96c85096a5c8e",
+      "offer_id": "vd-king-gl",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_vd-shark_1920x276.png",
+      "sha256": "beb6e4fe70e1ea457f0f2ea8fc65a2d5aaf71849669aaafe536098342ff2a25a",
+      "offer_id": "vd-shark",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_vd-song-pro-flex_1920x276.png",
+      "sha256": "55aa30081400662ce98f2fc1baf40420ca7bf1719819b3730e08e9c4f12a7313",
+      "offer_id": "vd-song-pro-flex",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_vd-song-pro_1920x276.png",
+      "sha256": "f82873213a3b24cfbe6ca2e42221dec0da2c65040946ca05626432d266b0c964",
+      "offer_id": "vd-song-pro",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_yuan-plus-awd-26-27_1920x276.png",
+      "sha256": "8c56f36c4c270c23af55405e766361b112fa37a66f7a3fe41fb0afc8ce990488",
+      "offer_id": "yuan-plus-awd-26-27",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-19-r03/byd_yuan-pro_1920x276.png",
+      "sha256": "bc4f6fb7d8a95d13ebc4ad12efcb93c8d6dad34bb3b0ceeeb141112a44598271",
+      "offer_id": "yuan-pro",
+      "status": "PASS",
+      "notes": "Head viewed full strip at native resolution in 5 review sheets. Title/price/car/conditional seals/footer/legal present, no main-block overlap."
+    }
+  ]
+}

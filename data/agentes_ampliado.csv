@@ -1,0 +1,7 @@
+role,model_effort,responses,input_tokens,cached_input_tokens,cache_write_input_tokens,output_tokens,reasoning_output_tokens,total_tokens
+/root/diagnose_move,gpt-5.6-sol/high,237,31099276,30551168,0,152386,43002,31251662
+/root/intake,gpt-5.6-terra/high,38,2871296,2738688,0,26703,8636,2897999
+head_main,gpt-6-astra/medium,682,91203084,89783552,0,235593,71838,91438677
+head_initial,gpt-6-astra/low,61,6332354,6117632,0,15489,2390,6347843
+/root/audit_matrix,gpt-5.6-terra/high,241,30101799,28647680,0,215280,58086,30317079
+/root/processo,gpt-5.6-luna/max,16,784992,737280,0,11472,6287,796464

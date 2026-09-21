@@ -1,0 +1,5 @@
+{
+  "source": "patch_p17.jsx",
+  "sha256": "4bfaac102bab25a7b77fc5a9f7e57182df971e72b3ce9abaf4d9f72dbe373116",
+  "purpose": "Unlink footer elements before independent fits; preserve source assets; adjust micro price gap"
+}

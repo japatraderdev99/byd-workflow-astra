@@ -1,0 +1,10 @@
+2026-09-19T12:12:32-03:00 | INICIO | elaboração de WORK/FLUXO_ORQUESTRADO.md
+2026-09-19T12:12:32-03:00 | ESCOPO | lidos somente AGENTS.md, V4/00_LEIA_PRIMEIRO.md, 01_BRIEFING_CLIENTE.md, 02_PADRAO_TEMPLATE_CANONICO.md, 03_CRITERIOS_DE_AVALIACAO.md e WORK/README.md
+2026-09-19T12:12:32-03:00 | DECISAO | fluxo F0→F1 (7 PSDs)→F2 (21 PNGs)→APROVADO humano→F3 (140 PNGs)→F4 QA→F5 promoção; sem escala antes do portão
+2026-09-19T12:12:32-03:00 | DECISAO | head Astra; tarefas delimitadas Terra médio/alto; Luna max reservado a exceção/falha repetida; slots são hipóteses, sem benchmark
+2026-09-19T12:12:32-03:00 | DECISAO | Photoshop com operador único e pslock; JavaScript determinístico para mecânico; nenhuma chamada LLM por peça
+2026-09-19T12:12:32-03:00 | MEDICAO | wall_clock/script_time/ui_time/retrabalho/aprovação por formato; tokens e cobrança null quando indisponíveis; custo_por_arte_aprovada inclui correções
+2026-09-19T12:12:32-03:00 | MODELO | solicitado Luna max; identificador Luna/Terra/Astra não verificável no ambiente desta execução; relato Terra/Astra de outro spawn mantido como não verificado
+2026-09-19T12:12:32-03:00 | ALERTA_PERIMETRO | listagem inicial de nomes sob .claude/worktrees e operacao/desafio-byd-v4 ocorreu por acidente; nenhum conteúdo foi lido ou executado; DIARIO.md não alterado conforme instrução do head
+2026-09-19T12:12:32-03:00 | SEGURANCA | sem Photoshop e sem execução/alteração de scripts de produção; DIARIO.md não alterado
+2026-09-19T12:12:32-03:00 | OK|DOC | documento e log próprios escritos dentro de Projects/BYD/Jobs/V4

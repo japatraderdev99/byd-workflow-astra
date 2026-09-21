@@ -1,0 +1,93 @@
+{
+  "schema": "byd-v4-final-layout-adjustments/v1",
+  "authority": "Registro declarativo das correções efetivamente executadas; o PSD final é autoridade de render. Não é um novo builder executado.",
+  "base_spec": "WORK/00_MATRIZ/production_spec_r18.json",
+  "micro_footer": {
+    "band": [
+      0,
+      57,
+      360,
+      23
+    ],
+    "warranty_repurchase": [
+      7,
+      61,
+      96,
+      15
+    ],
+    "brasil": [
+      108,
+      60,
+      36,
+      17
+    ],
+    "satisfaction": [
+      150,
+      60,
+      19,
+      17
+    ],
+    "educational_icon": [
+      176,
+      61,
+      13,
+      16
+    ],
+    "traffic_message": [
+      194,
+      66,
+      159,
+      9
+    ]
+  },
+  "strip_installment": {
+    "offer_id": "dolphin-mini-5l-gs",
+    "format": "1920x276",
+    "contents": "Parcelas a\rpartir de\rR$999,00",
+    "zone": [
+      970,
+      84,
+      220,
+      55
+    ],
+    "evidence": "WORK/06_LOGS/patch_controle_r14.log"
+  },
+  "large_formats": [
+    "1920x1080",
+    "1920x1125",
+    "1080x1920",
+    "1109x1973"
+  ],
+  "large_format_adjustments": [
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "property": "headline_auto_leading_percent",
+      "value": 110,
+      "placement": "top of existing headline zone; left for landscape, center for portrait"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "property": "vehicle_mask_bottom_ratio",
+      "value": 1.0,
+      "placement": "bottom of car zone; existing mask only; preserve scene pixels"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "property": "scene_uniform_scale_vs_r10",
+      "value": 0.85,
+      "placement": "recenter hidden Layer 7 anchor in car zone; preserve anchor hidden"
+    }
+  ],
+  "evidence_large": "WORK/06_LOGS/patch_controle_r16.log",
+  "layer_comps": {
+    "appearance": false,
+    "position": false,
+    "visibility": true,
+    "exact_name": "OFERTA <offer_id>",
+    "native_tests": 280,
+    "evidence": [
+      "WORK/06_LOGS/recapture_templates_r17.log",
+      "WORK/06_LOGS/recapture_templates_r20.log"
+    ]
+  }
+}

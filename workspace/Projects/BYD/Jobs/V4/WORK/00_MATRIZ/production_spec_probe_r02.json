@@ -1,0 +1,220 @@
+{
+  "source": "INPUT/02_PSD_oficial todas as artes em feed/26.08.07 VAREJO BYD FEED 1080x1350.psd",
+  "logo": "WORK/00_MATRIZ/logo_oficial_branco.pdf",
+  "revision": "r02",
+  "formats": [
+    {
+      "w": 360,
+      "h": 80,
+      "id": "360x80",
+      "zones": {
+        "logo": [
+          8,
+          8,
+          77,
+          14
+        ],
+        "title": [
+          95,
+          5,
+          150,
+          9
+        ],
+        "price": [
+          95,
+          19,
+          145,
+          25
+        ],
+        "car": [
+          258,
+          6,
+          94,
+          36
+        ],
+        "benefit": [
+          95,
+          48,
+          255,
+          7
+        ],
+        "headline": [
+          95,
+          48,
+          255,
+          7
+        ],
+        "instal": [
+          8,
+          38,
+          77,
+          17
+        ],
+        "badges": [
+          8,
+          38,
+          77,
+          12
+        ],
+        "award": [
+          68,
+          23,
+          16,
+          16
+        ],
+        "tag": [
+          8,
+          23,
+          56,
+          12
+        ]
+      },
+      "legal_font": 0,
+      "headline_wrap": 100,
+      "bg_horizon": null,
+      "family": "micro",
+      "align": "center",
+      "omissions": [
+        "tagline",
+        "legal",
+        "detail",
+        "generic_headline"
+      ],
+      "contrast_edge": 238,
+      "contrast_feather": 32,
+      "safe_margin": 4,
+      "micro_dual_zones": {
+        "price": [
+          95,
+          19,
+          145,
+          22
+        ],
+        "benefit": [
+          95,
+          43,
+          255,
+          6
+        ],
+        "headline": [
+          95,
+          50,
+          255,
+          6
+        ]
+      }
+    }
+  ],
+  "offers": [
+    {
+      "id": "song-pro-flex",
+      "title": 375,
+      "price": 379,
+      "legal": 382,
+      "car": 389,
+      "anchor_id": 3207,
+      "anchor_name": "Camada 11",
+      "car_bounds": [
+        245,
+        497,
+        951,
+        852
+      ],
+      "benefit": 1093,
+      "headline": 2945,
+      "extras": [
+        {
+          "id": 372,
+          "role": "badges"
+        }
+      ],
+      "car_tag_names": [
+        "New",
+        "Ret\u00e2ngulo 1"
+      ],
+      "embedded_tags": [
+        {
+          "source_ids": [
+            3209,
+            3210
+          ],
+          "name": "NEW",
+          "path": "SONG PRO GS FLEX 2627 / CARRO",
+          "hide_in_car_name": [
+            "New",
+            "Ret\u00e2ngulo 1"
+          ],
+          "whole_group": false,
+          "embedded": true,
+          "fit": "tagzone",
+          "geometry_crop_risk": "Extract both sibling layers as one tag; copying only text 3210 would omit its yellow shape."
+        }
+      ],
+      "badge_id_resolution": {
+        "super_hybrid": {
+          "id": 370,
+          "container_id": 372
+        },
+        "adas_2": {
+          "id": 371,
+          "container_id": 372,
+          "status": "PROVEN"
+        }
+      },
+      "build_status": "READY",
+      "micro_dual": false
+    },
+    {
+      "id": "vd-song-pro-flex",
+      "title": 601,
+      "price": 605,
+      "legal": 608,
+      "car": 616,
+      "anchor_id": 4129,
+      "anchor_name": "Camada 11",
+      "car_bounds": [
+        186,
+        539,
+        892,
+        894
+      ],
+      "benefit": 1171,
+      "headline": 610,
+      "extras": [],
+      "reference_flags": [
+        "VD_RECOMPRA_GARANTIDA_VISIBLE_IN_FIXED_FOOTER"
+      ],
+      "build_status": "READY",
+      "candidate_full_scene": {
+        "id": 4131,
+        "name": "Harmonized layer 19",
+        "bounds": [
+          11,
+          341,
+          1080,
+          1264
+        ]
+      },
+      "car_components": [
+        4131,
+        4129
+      ],
+      "native_evidence": "WORK/04_QA/source_exception_611.png",
+      "micro_dual": true
+    }
+  ],
+  "fixed": {
+    "tagline": 84,
+    "footer": 98,
+    "background": 78
+  },
+  "output_templates": "WORK/01_TEMPLATES/2026-09-19-probe-r02/",
+  "output_staging": "WORK/03_STAGING/2026-09-19-probe-r02/",
+  "authorization": {
+    "source": "user_direct_instruction",
+    "text": "apenas siga com a producao das imagens finais...",
+    "recorded_at": "2026-09-19T22:43:49.169489-03:00",
+    "pilot": "P16 plus requested seal correction P18",
+    "review_gate": "Every offer and format must pass head visual review before output copy"
+  }
+}

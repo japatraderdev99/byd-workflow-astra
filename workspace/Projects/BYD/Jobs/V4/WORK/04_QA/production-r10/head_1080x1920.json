@@ -1,0 +1,425 @@
+{
+  "reviewer": "Astra head",
+  "rows": [
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_atto-2_1080x1920.png",
+      "offer_id": "atto-2",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1487603,
+      "sha256": "36fcc857f23185a7093d40c6122327ec841079d57ee26ab32290fc7127e68f38",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_atto-8_1080x1920.png",
+      "offer_id": "atto-8",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1446594,
+      "sha256": "251e9046133735919b4bd86196ceeee12b91a3a061dc8fd4659fb5aeb1921aac",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-gs_1080x1920.png",
+      "offer_id": "dolphin-gs",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1452053,
+      "sha256": "6202d24b310c85cfe736626aa6a8141ba61dfb2c07db3b96c9843b9178688057",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-mini-5l-gs_1080x1920.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1538114,
+      "sha256": "46947780b7b6e8f58572fb0d6b93ce8ef8a589160bf5264d11ffcd117ff1316e",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "REVISE",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Entrelinha excessiva reduz indevidamente peso do headline."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-se_1080x1920.png",
+      "offer_id": "dolphin-se",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1415210,
+      "sha256": "e118ed353f49f96d93d32f3fd1780c4cd59055caedae0bc178ff4c1ead326b52",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_king-gs_1080x1920.png",
+      "offer_id": "king-gs",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1446729,
+      "sha256": "d94581b82ae3a7c7ad344fde4eb1b930a4d3a79cf2edae44a9bb3a9d0a80dd23",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_seal-26-27_1080x1920.png",
+      "offer_id": "seal-26-27",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1438352,
+      "sha256": "7e75e1e7ba5e57d6a4236e6a93b50c3ced7ef6244df49f54273374c9df78883a",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_sealion-26-27_1080x1920.png",
+      "offer_id": "sealion-26-27",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1463754,
+      "sha256": "1a99b7ec40c6f354a45c5255a086d4908497b0f75f81bf0b480b0c124501b8db",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-plus_1080x1920.png",
+      "offer_id": "song-plus",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1468374,
+      "sha256": "8cefebfc6b0d94869f504463c54abd250666fe969f6fef66996ab5b1ba8627a9",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-premium_1080x1920.png",
+      "offer_id": "song-premium",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1444607,
+      "sha256": "f8ab6ddbcb8877e65d111f6da8b26336e808fa7aed8032e1aa7a181642ab465a",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-pro-flex_1080x1920.png",
+      "offer_id": "song-pro-flex",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1403146,
+      "sha256": "cd3cdb9fd6c57e6661f1eb0806b18f4c0949100202e6034e085e955ee2b07c1c",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-pro_1080x1920.png",
+      "offer_id": "song-pro",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1458115,
+      "sha256": "dbe981000aec50c68f6f26f206a7496525dfa2d66fbca9d6324485a41187c65e",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-atto-2_1080x1920.png",
+      "offer_id": "vd-atto-2",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1511443,
+      "sha256": "b79aa87d6298e449050d833bb349cc4878e8792eff8b1c29e36c27ae3b0db25b",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-dolphin-mini_1080x1920.png",
+      "offer_id": "vd-dolphin-mini",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1432660,
+      "sha256": "8d1a2a7ab11c7e21b4bcac19d05cfb49f3e04eb42e7423583c7be9aed471e765",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-king-gl_1080x1920.png",
+      "offer_id": "vd-king-gl",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1436976,
+      "sha256": "20f55f8cdac859a5ae40be8f6975d4958280d15302f944cd2e300e35b52adb5d",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-shark_1080x1920.png",
+      "offer_id": "vd-shark",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1428798,
+      "sha256": "2e2e5b9ab220b62e33cdb6704021c87d731b2ebd3ac8e778ab96bf82606a63be",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro-flex_1080x1920.png",
+      "offer_id": "vd-song-pro-flex",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1401883,
+      "sha256": "0622395a5b274fac4b4c6534f237eb76724e69d2ccedc5a781862d5361896c2b",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "REVISE",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Residuos amarelos da cena abaixo do carro."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro_1080x1920.png",
+      "offer_id": "vd-song-pro",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1442563,
+      "sha256": "4c3a667a6f9870a65cd770d90c10754a7b349cf2ad5fdf36f43e9e8b8b76d8ff",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-plus-awd-26-27_1080x1920.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1448575,
+      "sha256": "8e5400ca6826765a67e1c7b08e1dae8d18f16bf83513f62095cddb83b6a3c739",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Revisto em prancha de duas artes: todos os blocos e condicionais separados e visiveis, texto legal completo dentro canvas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-pro_1080x1920.png",
+      "offer_id": "yuan-pro",
+      "format": "1080x1920",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1411987,
+      "sha256": "56be2d2f4f9bf2505602c5a8ba8774de609780a9c937c315338da5cc8a9c0cee",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "REVISE",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1080x1920.psd",
+      "head_note": "Frente esquerda do carro cortada/esfumada pela mascara de cena."
+    }
+  ]
+}

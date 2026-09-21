@@ -1,0 +1,100 @@
+{
+  "scope": "Read-only comparison of five current files against exact R18 historical bytes; no edits or visual approval",
+  "rows": [
+    {
+      "format": "1920x1080",
+      "same_dimensions": true,
+      "current_size": [
+        1920,
+        1080
+      ],
+      "historical_size": [
+        1920,
+        1080
+      ],
+      "pixels_equal": false,
+      "difference_bbox": [
+        1090,
+        778,
+        1561,
+        866
+      ]
+    },
+    {
+      "format": "1920x1125",
+      "same_dimensions": true,
+      "current_size": [
+        1920,
+        1125
+      ],
+      "historical_size": [
+        1920,
+        1125
+      ],
+      "pixels_equal": false,
+      "difference_bbox": [
+        1080,
+        805,
+        1563,
+        905
+      ]
+    },
+    {
+      "format": "1080x1080",
+      "same_dimensions": true,
+      "current_size": [
+        1080,
+        1080
+      ],
+      "historical_size": [
+        1080,
+        1080
+      ],
+      "pixels_equal": false,
+      "difference_bbox": [
+        91,
+        860,
+        640,
+        958
+      ]
+    },
+    {
+      "format": "1080x1920",
+      "same_dimensions": true,
+      "current_size": [
+        1080,
+        1920
+      ],
+      "historical_size": [
+        1080,
+        1920
+      ],
+      "pixels_equal": false,
+      "difference_bbox": [
+        109,
+        1509,
+        788,
+        1634
+      ]
+    },
+    {
+      "format": "1109x1973",
+      "same_dimensions": true,
+      "current_size": [
+        1109,
+        1973
+      ],
+      "historical_size": [
+        1109,
+        1973
+      ],
+      "pixels_equal": false,
+      "difference_bbox": [
+        110,
+        1543,
+        789,
+        1684
+      ]
+    }
+  ]
+}

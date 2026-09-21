@@ -1,0 +1,9 @@
+{
+  "created_at": "2026-09-19T21:49:36.928730-03:00",
+  "script_sha256": "21b4ef44cbbb534af21ccdc74e529c27352e106d554434e6e8028f539f115ec0",
+  "source": "P12_TRIAL PSDs",
+  "purpose": "masked native contrast overlay; strip installment wrap; detail omission documented",
+  "input": "pilot_spec_p13.json",
+  "output_templates": "WORK/01_TEMPLATES/2026-09-19-p13/",
+  "output_pilots": "WORK/02_PILOTOS/2026-09-19-p13/"
+}

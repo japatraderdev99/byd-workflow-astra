@@ -1,0 +1,3555 @@
+{
+  "schema": "byd-v4-production-timings-r18/v1",
+  "write_guard": "REFUSE_OVERWRITE",
+  "generated_at": "2026-09-20T02:02:57.957156-03:00",
+  "runs": [
+    {
+      "run": "pilot_p01",
+      "log": "WORK/06_LOGS/build_p01.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [],
+      "errors": [
+        "Saturday, 19 Sep 2026 15:31:11 GMT|ERRO|Argumento Ilegal|line=11"
+      ],
+      "observed_wall_span_seconds": null
+    },
+    {
+      "run": "pilot_p02",
+      "log": "WORK/06_LOGS/build_p02.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [],
+      "errors": [
+        "Saturday, 19 Sep 2026 15:50:06 GMT|ERRO|Argumento Ilegal|line=11"
+      ],
+      "observed_wall_span_seconds": 0.0
+    },
+    {
+      "run": "pilot_p03",
+      "log": "WORK/06_LOGS/build_p03.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [],
+      "errors": [
+        "Saturday, 19 Sep 2026 15:51:57 GMT|ERRO|Argumento Ilegal|line=11"
+      ],
+      "observed_wall_span_seconds": 0.0
+    },
+    {
+      "run": "pilot_p04",
+      "log": "WORK/06_LOGS/build_p04.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [],
+      "errors": [
+        "Saturday, 19 Sep 2026 15:52:56 GMT|ERRO|Argumento Ilegal|line=11"
+      ],
+      "observed_wall_span_seconds": 0.0
+    },
+    {
+      "run": "pilot_p05",
+      "log": "WORK/06_LOGS/build_p05.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [],
+      "errors": [
+        "Saturday, 19 Sep 2026 15:55:05 GMT|ERRO|Argumento Ilegal|line=11"
+      ],
+      "observed_wall_span_seconds": 2.0
+    },
+    {
+      "run": "pilot_p06",
+      "log": "WORK/06_LOGS/build_p06.log",
+      "status": "INCOMPLETE_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 73430,
+          "line": "Saturday, 19 Sep 2026 15:57:56 GMT|OK|template_trial|1920x276|elapsed_ms=73430"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 73.0
+    },
+    {
+      "run": "pilot_p07",
+      "log": "WORK/06_LOGS/build_p07.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Saturday, 19 Sep 2026 16:04:59 GMT|OK|completed|elapsed_ms=106623",
+        "elapsed_ms": 106623
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 75873,
+          "line": "Saturday, 19 Sep 2026 16:04:59 GMT|OK|template_trial|1920x276|elapsed_ms=75873"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 76.0,
+      "terminal_candidates": [
+        {
+          "line": "Saturday, 19 Sep 2026 16:04:59 GMT|OK|completed|elapsed_ms=106623",
+          "elapsed_ms": 106623
+        }
+      ]
+    },
+    {
+      "run": "pilot_p08",
+      "log": "WORK/06_LOGS/build_p08.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Saturday, 19 Sep 2026 16:10:25 GMT|OK|completed|elapsed_ms=107196",
+        "elapsed_ms": 107196
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 76293,
+          "line": "Saturday, 19 Sep 2026 16:10:24 GMT|OK|template_trial|1920x276|elapsed_ms=76293"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 76.0,
+      "terminal_candidates": [
+        {
+          "line": "Saturday, 19 Sep 2026 16:10:25 GMT|OK|completed|elapsed_ms=107196",
+          "elapsed_ms": 107196
+        }
+      ]
+    },
+    {
+      "run": "pilot_p09",
+      "log": "WORK/06_LOGS/build_p09.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Saturday, 19 Sep 2026 16:13:34 GMT|OK|completed|elapsed_ms=107689",
+        "elapsed_ms": 107689
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 76980,
+          "line": "Saturday, 19 Sep 2026 16:13:34 GMT|OK|template_trial|1920x276|elapsed_ms=76980"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 77.0,
+      "terminal_candidates": [
+        {
+          "line": "Saturday, 19 Sep 2026 16:13:34 GMT|OK|completed|elapsed_ms=107689",
+          "elapsed_ms": 107689
+        }
+      ]
+    },
+    {
+      "run": "pilot_p10",
+      "log": "WORK/06_LOGS/build_p10.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Saturday, 19 Sep 2026 16:24:02 GMT|OK|completed|elapsed_ms=482934",
+        "elapsed_ms": 482934
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 84401,
+          "line": "Saturday, 19 Sep 2026 16:17:54 GMT|OK|template_trial|1920x1080|elapsed_ms=84401"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 75980,
+          "line": "Saturday, 19 Sep 2026 16:19:10 GMT|OK|template_trial|1920x1125|elapsed_ms=75980"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 72612,
+          "line": "Saturday, 19 Sep 2026 16:20:23 GMT|OK|template_trial|1080x1080|elapsed_ms=72612"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 76095,
+          "line": "Saturday, 19 Sep 2026 16:21:39 GMT|OK|template_trial|1080x1920|elapsed_ms=76095"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 76156,
+          "line": "Saturday, 19 Sep 2026 16:22:56 GMT|OK|template_trial|1109x1973|elapsed_ms=76156"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 66507,
+          "line": "Saturday, 19 Sep 2026 16:24:02 GMT|OK|template_trial|360x80|elapsed_ms=66507"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 452.0,
+      "terminal_candidates": [
+        {
+          "line": "Saturday, 19 Sep 2026 16:24:02 GMT|OK|completed|elapsed_ms=482934",
+          "elapsed_ms": 482934
+        }
+      ]
+    },
+    {
+      "run": "pilot_p11",
+      "log": "WORK/06_LOGS/build_p11.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Saturday, 19 Sep 2026 18:22:50 GMT|OK|completed|elapsed_ms=259304",
+        "elapsed_ms": 259304
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 77456,
+          "line": "Saturday, 19 Sep 2026 18:20:19 GMT|OK|template_trial|1920x1080|elapsed_ms=77456"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 74007,
+          "line": "Saturday, 19 Sep 2026 18:21:33 GMT|OK|template_trial|1080x1080|elapsed_ms=74007"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 76659,
+          "line": "Saturday, 19 Sep 2026 18:22:50 GMT|OK|template_trial|1080x1920|elapsed_ms=76659"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 228.0,
+      "terminal_candidates": [
+        {
+          "line": "Saturday, 19 Sep 2026 18:22:50 GMT|OK|completed|elapsed_ms=259304",
+          "elapsed_ms": 259304
+        }
+      ]
+    },
+    {
+      "run": "pilot_p12",
+      "log": "WORK/06_LOGS/build_p12.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 00:50:04 GMT|OK|completed|elapsed_ms=588109",
+        "elapsed_ms": 588109
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 79171,
+          "line": "Sunday, 20 Sep 2026 00:42:06 GMT|OK|template_trial|1920x276|elapsed_ms=79171"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 84593,
+          "line": "Sunday, 20 Sep 2026 00:43:31 GMT|OK|template_trial|1920x1080|elapsed_ms=84593"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 85158,
+          "line": "Sunday, 20 Sep 2026 00:44:56 GMT|OK|template_trial|1920x1125|elapsed_ms=85158"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 76877,
+          "line": "Sunday, 20 Sep 2026 00:46:13 GMT|OK|template_trial|1080x1080|elapsed_ms=76877"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 80808,
+          "line": "Sunday, 20 Sep 2026 00:47:34 GMT|OK|template_trial|1080x1920|elapsed_ms=80808"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 80887,
+          "line": "Sunday, 20 Sep 2026 00:48:55 GMT|OK|template_trial|1109x1973|elapsed_ms=80887"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 69331,
+          "line": "Sunday, 20 Sep 2026 00:50:04 GMT|OK|template_trial|360x80|elapsed_ms=69331"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 556.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 00:50:04 GMT|OK|completed|elapsed_ms=588109",
+          "elapsed_ms": 588109
+        }
+      ]
+    },
+    {
+      "run": "pilot_patch_p13",
+      "log": "WORK/06_LOGS/patch_p13.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [],
+      "errors": [
+        "Sunday, 20 Sep 2026 00:51:11 GMT|ERRO|MISSING_CONTRAST|line=22"
+      ],
+      "observed_wall_span_seconds": null
+    },
+    {
+      "run": "pilot_patch_p14",
+      "log": "WORK/06_LOGS/patch_p14.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 00:58:44 GMT|OK|completed|elapsed_ms=352392",
+        "elapsed_ms": 352392
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 34701,
+          "line": "Sunday, 20 Sep 2026 00:53:26 GMT|OK|template_trial|1920x276|elapsed_ms=34701"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 53352,
+          "line": "Sunday, 20 Sep 2026 00:54:19 GMT|OK|template_trial|1920x1080|elapsed_ms=53352"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 53998,
+          "line": "Sunday, 20 Sep 2026 00:55:13 GMT|OK|template_trial|1920x1125|elapsed_ms=53998"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 43858,
+          "line": "Sunday, 20 Sep 2026 00:55:57 GMT|OK|template_trial|1080x1080|elapsed_ms=43858"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 46873,
+          "line": "Sunday, 20 Sep 2026 00:56:44 GMT|OK|template_trial|1080x1920|elapsed_ms=46873"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 72968,
+          "line": "Sunday, 20 Sep 2026 00:57:57 GMT|OK|template_trial|1109x1973|elapsed_ms=72968"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 46314,
+          "line": "Sunday, 20 Sep 2026 00:58:44 GMT|OK|template_trial|360x80|elapsed_ms=46314"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 341.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 00:58:44 GMT|OK|completed|elapsed_ms=352392",
+          "elapsed_ms": 352392
+        }
+      ]
+    },
+    {
+      "run": "pilot_patch_p15",
+      "log": "WORK/06_LOGS/patch_p15.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 72823,
+          "line": "Sunday, 20 Sep 2026 01:01:56 GMT|OK|template_trial|360x80|elapsed_ms=72823"
+        }
+      ],
+      "errors": [
+        "Sunday, 20 Sep 2026 01:02:19 GMT|ERRO|O usuário cancelou a operação|line=19"
+      ],
+      "observed_wall_span_seconds": 57.0
+    },
+    {
+      "run": "pilot_patch_p16",
+      "log": "WORK/06_LOGS/patch_p16.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 01:08:52 GMT|OK|completed|elapsed_ms=330937",
+        "elapsed_ms": 330937
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 37720,
+          "line": "Sunday, 20 Sep 2026 01:03:59 GMT|OK|template_trial|360x80|elapsed_ms=37720"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 43238,
+          "line": "Sunday, 20 Sep 2026 01:04:42 GMT|OK|template_trial|1920x276|elapsed_ms=43238"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 48378,
+          "line": "Sunday, 20 Sep 2026 01:05:31 GMT|OK|template_trial|1920x1080|elapsed_ms=48378"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 48799,
+          "line": "Sunday, 20 Sep 2026 01:06:19 GMT|OK|template_trial|1920x1125|elapsed_ms=48799"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 41286,
+          "line": "Sunday, 20 Sep 2026 01:07:01 GMT|OK|template_trial|1080x1080|elapsed_ms=41286"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 60196,
+          "line": "Sunday, 20 Sep 2026 01:08:01 GMT|OK|template_trial|1080x1920|elapsed_ms=60196"
+        },
+        {
+          "event": [
+            "OK",
+            "template_trial"
+          ],
+          "elapsed_ms": 51002,
+          "line": "Sunday, 20 Sep 2026 01:08:52 GMT|OK|template_trial|1109x1973|elapsed_ms=51002"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 311.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 01:08:52 GMT|OK|completed|elapsed_ms=330937",
+          "elapsed_ms": 330937
+        }
+      ]
+    },
+    {
+      "run": "pilot_patch_p17",
+      "log": "WORK/06_LOGS/patch_p17.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 01:29:03 GMT|OK|completed|elapsed_ms=38465",
+        "elapsed_ms": 38465
+      },
+      "nested_events": [],
+      "errors": [],
+      "observed_wall_span_seconds": 19.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 01:29:03 GMT|OK|completed|elapsed_ms=38465",
+          "elapsed_ms": 38465
+        }
+      ]
+    },
+    {
+      "run": "pilot_patch_p18",
+      "log": "WORK/06_LOGS/patch_p18.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 01:34:08 GMT|OK|completed|elapsed_ms=38654",
+        "elapsed_ms": 38654
+      },
+      "nested_events": [],
+      "errors": [],
+      "observed_wall_span_seconds": 19.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 01:34:08 GMT|OK|completed|elapsed_ms=38654",
+          "elapsed_ms": 38654
+        }
+      ]
+    },
+    {
+      "run": "r01",
+      "log": "WORK/06_LOGS/build_production_r01.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 10243,
+          "line": "Sunday, 20 Sep 2026 01:45:10 GMT|OFFER_BUILD_OK|1920x276|atto-2|elapsed_ms=10243"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 12150,
+          "line": "Sunday, 20 Sep 2026 01:45:22 GMT|OFFER_BUILD_OK|1920x276|atto-8|elapsed_ms=12150"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 8130,
+          "line": "Sunday, 20 Sep 2026 01:45:30 GMT|OFFER_BUILD_OK|1920x276|dolphin-gs|elapsed_ms=8130"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 12186,
+          "line": "Sunday, 20 Sep 2026 01:45:42 GMT|OFFER_BUILD_OK|1920x276|dolphin-mini-5l-gs|elapsed_ms=12186"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 11113,
+          "line": "Sunday, 20 Sep 2026 01:45:53 GMT|OFFER_BUILD_OK|1920x276|dolphin-se|elapsed_ms=11113"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 14975,
+          "line": "Sunday, 20 Sep 2026 01:46:08 GMT|OFFER_BUILD_OK|1920x276|king-gs|elapsed_ms=14975"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 15432,
+          "line": "Sunday, 20 Sep 2026 01:46:24 GMT|OFFER_BUILD_OK|1920x276|seal-26-27|elapsed_ms=15432"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 18295,
+          "line": "Sunday, 20 Sep 2026 01:46:42 GMT|OFFER_BUILD_OK|1920x276|sealion-26-27|elapsed_ms=18295"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 23142,
+          "line": "Sunday, 20 Sep 2026 01:47:05 GMT|OFFER_BUILD_OK|1920x276|song-plus|elapsed_ms=23142"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 25199,
+          "line": "Sunday, 20 Sep 2026 01:47:31 GMT|OFFER_BUILD_OK|1920x276|song-premium|elapsed_ms=25199"
+        }
+      ],
+      "errors": [
+        "Sunday, 20 Sep 2026 01:47:42 GMT|ERRO|DEST_ANCHOR_NOT_FOUND|389|Camada 11|line=40|format=1920x276|offer=song-pro-flex"
+      ],
+      "observed_wall_span_seconds": 190.0
+    },
+    {
+      "run": "probe_r02",
+      "log": "WORK/06_LOGS/probe_r02.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 01:52:37 GMT|OK|completed|formats=1|offers=2|pngs=2|elapsed_ms=76336",
+        "elapsed_ms": 76336
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 11179,
+          "line": "Sunday, 20 Sep 2026 01:52:14 GMT|OFFER_BUILD_OK|360x80|song-pro-flex|elapsed_ms=11179"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 15789,
+          "line": "Sunday, 20 Sep 2026 01:52:29 GMT|OFFER_BUILD_OK|360x80|vd-song-pro-flex|elapsed_ms=15789"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 440,
+          "line": "Sunday, 20 Sep 2026 01:52:36 GMT|OFFER_EXPORT_OK|360x80|song-pro-flex|elapsed_ms=440"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 408,
+          "line": "Sunday, 20 Sep 2026 01:52:37 GMT|OFFER_EXPORT_OK|360x80|vd-song-pro-flex|elapsed_ms=408"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 45603,
+          "line": "Sunday, 20 Sep 2026 01:52:37 GMT|FORMAT_OK|360x80|offers=2|elapsed_ms=45603"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 76.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 01:52:37 GMT|OK|completed|formats=1|offers=2|pngs=2|elapsed_ms=76336",
+          "elapsed_ms": 76336
+        }
+      ]
+    },
+    {
+      "run": "probe_r03",
+      "log": "WORK/06_LOGS/probe_r03.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 01:57:51 GMT|OK|completed|formats=1|offers=2|pngs=2|elapsed_ms=76361",
+        "elapsed_ms": 76361
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 11255,
+          "line": "Sunday, 20 Sep 2026 01:57:27 GMT|OFFER_BUILD_OK|360x80|song-pro-flex|elapsed_ms=11255"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 15773,
+          "line": "Sunday, 20 Sep 2026 01:57:43 GMT|OFFER_BUILD_OK|360x80|vd-song-pro-flex|elapsed_ms=15773"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 443,
+          "line": "Sunday, 20 Sep 2026 01:57:50 GMT|OFFER_EXPORT_OK|360x80|song-pro-flex|elapsed_ms=443"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 435,
+          "line": "Sunday, 20 Sep 2026 01:57:51 GMT|OFFER_EXPORT_OK|360x80|vd-song-pro-flex|elapsed_ms=435"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 45635,
+          "line": "Sunday, 20 Sep 2026 01:57:51 GMT|FORMAT_OK|360x80|offers=2|elapsed_ms=45635"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 77.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 01:57:51 GMT|OK|completed|formats=1|offers=2|pngs=2|elapsed_ms=76361",
+          "elapsed_ms": 76361
+        }
+      ]
+    },
+    {
+      "run": "r03",
+      "log": "WORK/06_LOGS/build_production_r03.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 10606,
+          "line": "Sunday, 20 Sep 2026 01:59:41 GMT|OFFER_BUILD_OK|1920x276|atto-2|elapsed_ms=10606"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 12422,
+          "line": "Sunday, 20 Sep 2026 01:59:53 GMT|OFFER_BUILD_OK|1920x276|atto-8|elapsed_ms=12422"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 8294,
+          "line": "Sunday, 20 Sep 2026 02:00:01 GMT|OFFER_BUILD_OK|1920x276|dolphin-gs|elapsed_ms=8294"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 12381,
+          "line": "Sunday, 20 Sep 2026 02:00:14 GMT|OFFER_BUILD_OK|1920x276|dolphin-mini-5l-gs|elapsed_ms=12381"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 11304,
+          "line": "Sunday, 20 Sep 2026 02:00:25 GMT|OFFER_BUILD_OK|1920x276|dolphin-se|elapsed_ms=11304"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 14911,
+          "line": "Sunday, 20 Sep 2026 02:00:40 GMT|OFFER_BUILD_OK|1920x276|king-gs|elapsed_ms=14911"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 15492,
+          "line": "Sunday, 20 Sep 2026 02:00:55 GMT|OFFER_BUILD_OK|1920x276|seal-26-27|elapsed_ms=15492"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 18192,
+          "line": "Sunday, 20 Sep 2026 02:01:14 GMT|OFFER_BUILD_OK|1920x276|sealion-26-27|elapsed_ms=18192"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 23178,
+          "line": "Sunday, 20 Sep 2026 02:01:37 GMT|OFFER_BUILD_OK|1920x276|song-plus|elapsed_ms=23178"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 25176,
+          "line": "Sunday, 20 Sep 2026 02:02:02 GMT|OFFER_BUILD_OK|1920x276|song-premium|elapsed_ms=25176"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 28658,
+          "line": "Sunday, 20 Sep 2026 02:02:31 GMT|OFFER_BUILD_OK|1920x276|song-pro-flex|elapsed_ms=28658"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 33224,
+          "line": "Sunday, 20 Sep 2026 02:03:04 GMT|OFFER_BUILD_OK|1920x276|song-pro|elapsed_ms=33224"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 37445,
+          "line": "Sunday, 20 Sep 2026 02:03:41 GMT|OFFER_BUILD_OK|1920x276|vd-atto-2|elapsed_ms=37445"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 36308,
+          "line": "Sunday, 20 Sep 2026 02:04:18 GMT|OFFER_BUILD_OK|1920x276|vd-dolphin-mini|elapsed_ms=36308"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 39420,
+          "line": "Sunday, 20 Sep 2026 02:04:57 GMT|OFFER_BUILD_OK|1920x276|vd-king-gl|elapsed_ms=39420"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 47388,
+          "line": "Sunday, 20 Sep 2026 02:05:44 GMT|OFFER_BUILD_OK|1920x276|vd-shark|elapsed_ms=47388"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 52761,
+          "line": "Sunday, 20 Sep 2026 02:06:37 GMT|OFFER_BUILD_OK|1920x276|vd-song-pro-flex|elapsed_ms=52761"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 48529,
+          "line": "Sunday, 20 Sep 2026 02:07:26 GMT|OFFER_BUILD_OK|1920x276|vd-song-pro|elapsed_ms=48529"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 45775,
+          "line": "Sunday, 20 Sep 2026 02:08:12 GMT|OFFER_BUILD_OK|1920x276|yuan-plus-awd-26-27|elapsed_ms=45775"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 48783,
+          "line": "Sunday, 20 Sep 2026 02:09:00 GMT|OFFER_BUILD_OK|1920x276|yuan-pro|elapsed_ms=48783"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 93895,
+          "line": "Sunday, 20 Sep 2026 02:43:15 GMT|OFFER_EXPORT_OK|1920x276|atto-2|elapsed_ms=93895"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94460,
+          "line": "Sunday, 20 Sep 2026 02:44:50 GMT|OFFER_EXPORT_OK|1920x276|atto-8|elapsed_ms=94460"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94318,
+          "line": "Sunday, 20 Sep 2026 02:46:24 GMT|OFFER_EXPORT_OK|1920x276|dolphin-gs|elapsed_ms=94318"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94600,
+          "line": "Sunday, 20 Sep 2026 02:47:59 GMT|OFFER_EXPORT_OK|1920x276|dolphin-mini-5l-gs|elapsed_ms=94600"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94644,
+          "line": "Sunday, 20 Sep 2026 02:49:33 GMT|OFFER_EXPORT_OK|1920x276|dolphin-se|elapsed_ms=94644"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 95209,
+          "line": "Sunday, 20 Sep 2026 02:51:09 GMT|OFFER_EXPORT_OK|1920x276|king-gs|elapsed_ms=95209"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 95148,
+          "line": "Sunday, 20 Sep 2026 02:52:44 GMT|OFFER_EXPORT_OK|1920x276|seal-26-27|elapsed_ms=95148"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 95122,
+          "line": "Sunday, 20 Sep 2026 02:54:19 GMT|OFFER_EXPORT_OK|1920x276|sealion-26-27|elapsed_ms=95122"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94362,
+          "line": "Sunday, 20 Sep 2026 02:55:53 GMT|OFFER_EXPORT_OK|1920x276|song-plus|elapsed_ms=94362"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 95319,
+          "line": "Sunday, 20 Sep 2026 02:57:29 GMT|OFFER_EXPORT_OK|1920x276|song-premium|elapsed_ms=95319"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94827,
+          "line": "Sunday, 20 Sep 2026 02:59:03 GMT|OFFER_EXPORT_OK|1920x276|song-pro-flex|elapsed_ms=94827"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94227,
+          "line": "Sunday, 20 Sep 2026 03:00:38 GMT|OFFER_EXPORT_OK|1920x276|song-pro|elapsed_ms=94227"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94945,
+          "line": "Sunday, 20 Sep 2026 03:02:13 GMT|OFFER_EXPORT_OK|1920x276|vd-atto-2|elapsed_ms=94945"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94798,
+          "line": "Sunday, 20 Sep 2026 03:03:47 GMT|OFFER_EXPORT_OK|1920x276|vd-dolphin-mini|elapsed_ms=94798"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 95125,
+          "line": "Sunday, 20 Sep 2026 03:05:22 GMT|OFFER_EXPORT_OK|1920x276|vd-king-gl|elapsed_ms=95125"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 95195,
+          "line": "Sunday, 20 Sep 2026 03:06:58 GMT|OFFER_EXPORT_OK|1920x276|vd-shark|elapsed_ms=95195"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94637,
+          "line": "Sunday, 20 Sep 2026 03:08:32 GMT|OFFER_EXPORT_OK|1920x276|vd-song-pro-flex|elapsed_ms=94637"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94204,
+          "line": "Sunday, 20 Sep 2026 03:10:07 GMT|OFFER_EXPORT_OK|1920x276|vd-song-pro|elapsed_ms=94204"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94685,
+          "line": "Sunday, 20 Sep 2026 03:11:41 GMT|OFFER_EXPORT_OK|1920x276|yuan-plus-awd-26-27|elapsed_ms=94685"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 94016,
+          "line": "Sunday, 20 Sep 2026 03:13:15 GMT|OFFER_EXPORT_OK|1920x276|yuan-pro|elapsed_ms=94016"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 4436135,
+          "line": "Sunday, 20 Sep 2026 03:13:15 GMT|FORMAT_OK|1920x276|offers=20|elapsed_ms=4436135"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 9865,
+          "line": "Sunday, 20 Sep 2026 03:13:37 GMT|OFFER_BUILD_OK|1920x1080|atto-2|elapsed_ms=9865"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 12192,
+          "line": "Sunday, 20 Sep 2026 03:13:49 GMT|OFFER_BUILD_OK|1920x1080|atto-8|elapsed_ms=12192"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7729,
+          "line": "Sunday, 20 Sep 2026 03:13:56 GMT|OFFER_BUILD_OK|1920x1080|dolphin-gs|elapsed_ms=7729"
+        }
+      ],
+      "errors": [
+        "Sunday, 20 Sep 2026 03:14:08 GMT|ERRO|GEOM_OUTSIDE_ZONE|1920x1080|dolphin-mini-5l-gs|extra:detail|line=69|format=1920x1080|offer=dolphin-mini-5l-gs"
+      ],
+      "observed_wall_span_seconds": 4520.0
+    },
+    {
+      "run": "probe_r05",
+      "log": "WORK/06_LOGS/probe_r05.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 03:21:14 GMT|OK|completed|formats=1|offers=2|pngs=2|elapsed_ms=56004",
+        "elapsed_ms": 56004
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 5696,
+          "line": "Sunday, 20 Sep 2026 03:21:03 GMT|OFFER_BUILD_OK|360x80|song-pro-flex|elapsed_ms=5696"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 5166,
+          "line": "Sunday, 20 Sep 2026 03:21:08 GMT|OFFER_BUILD_OK|360x80|vd-song-pro-flex|elapsed_ms=5166"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 150,
+          "line": "Sunday, 20 Sep 2026 03:21:14 GMT|OFFER_EXPORT_OK|360x80|song-pro-flex|elapsed_ms=150"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 149,
+          "line": "Sunday, 20 Sep 2026 03:21:14 GMT|OFFER_EXPORT_OK|360x80|vd-song-pro-flex|elapsed_ms=149"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 23650,
+          "line": "Sunday, 20 Sep 2026 03:21:14 GMT|FORMAT_OK|360x80|offers=2|elapsed_ms=23650"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 56.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 03:21:14 GMT|OK|completed|formats=1|offers=2|pngs=2|elapsed_ms=56004",
+          "elapsed_ms": 56004
+        }
+      ]
+    },
+    {
+      "run": "r07",
+      "log": "WORK/06_LOGS/build_production_r07.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7672,
+          "line": "Sunday, 20 Sep 2026 03:25:30 GMT|OFFER_BUILD_OK|1920x1080|atto-2|elapsed_ms=7672"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 5937,
+          "line": "Sunday, 20 Sep 2026 03:25:36 GMT|OFFER_BUILD_OK|1920x1080|atto-8|elapsed_ms=5937"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 5842,
+          "line": "Sunday, 20 Sep 2026 03:25:42 GMT|OFFER_BUILD_OK|1920x1080|dolphin-gs|elapsed_ms=5842"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 8597,
+          "line": "Sunday, 20 Sep 2026 03:25:51 GMT|OFFER_BUILD_OK|1920x1080|dolphin-mini-5l-gs|elapsed_ms=8597"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 6416,
+          "line": "Sunday, 20 Sep 2026 03:25:57 GMT|OFFER_BUILD_OK|1920x1080|dolphin-se|elapsed_ms=6416"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 6845,
+          "line": "Sunday, 20 Sep 2026 03:26:04 GMT|OFFER_BUILD_OK|1920x1080|king-gs|elapsed_ms=6845"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7003,
+          "line": "Sunday, 20 Sep 2026 03:26:11 GMT|OFFER_BUILD_OK|1920x1080|seal-26-27|elapsed_ms=7003"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7102,
+          "line": "Sunday, 20 Sep 2026 03:26:18 GMT|OFFER_BUILD_OK|1920x1080|sealion-26-27|elapsed_ms=7102"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 8082,
+          "line": "Sunday, 20 Sep 2026 03:26:26 GMT|OFFER_BUILD_OK|1920x1080|song-plus|elapsed_ms=8082"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7174,
+          "line": "Sunday, 20 Sep 2026 03:26:33 GMT|OFFER_BUILD_OK|1920x1080|song-premium|elapsed_ms=7174"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7641,
+          "line": "Sunday, 20 Sep 2026 03:26:41 GMT|OFFER_BUILD_OK|1920x1080|song-pro-flex|elapsed_ms=7641"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 8825,
+          "line": "Sunday, 20 Sep 2026 03:26:50 GMT|OFFER_BUILD_OK|1920x1080|song-pro|elapsed_ms=8825"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 8596,
+          "line": "Sunday, 20 Sep 2026 03:26:58 GMT|OFFER_BUILD_OK|1920x1080|vd-atto-2|elapsed_ms=8596"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7750,
+          "line": "Sunday, 20 Sep 2026 03:27:06 GMT|OFFER_BUILD_OK|1920x1080|vd-dolphin-mini|elapsed_ms=7750"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7538,
+          "line": "Sunday, 20 Sep 2026 03:27:14 GMT|OFFER_BUILD_OK|1920x1080|vd-king-gl|elapsed_ms=7538"
+        }
+      ],
+      "errors": [
+        "Sunday, 20 Sep 2026 03:27:21 GMT|ERRO|GEOM_OUTSIDE_ZONE|1920x1080|vd-shark|legal|line=83|format=1920x1080|offer=vd-shark"
+      ],
+      "observed_wall_span_seconds": 158.0
+    },
+    {
+      "run": "r10",
+      "log": "WORK/06_LOGS/build_production_r10.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 03:56:20 GMT|OK|completed|formats=6|offers=20|pngs=120|elapsed_ms=1626940",
+        "elapsed_ms": 1626940
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7613,
+          "line": "Sunday, 20 Sep 2026 03:30:00 GMT|OFFER_BUILD_OK|1920x1080|atto-2|elapsed_ms=7613"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 6011,
+          "line": "Sunday, 20 Sep 2026 03:30:06 GMT|OFFER_BUILD_OK|1920x1080|atto-8|elapsed_ms=6011"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 6163,
+          "line": "Sunday, 20 Sep 2026 03:30:12 GMT|OFFER_BUILD_OK|1920x1080|dolphin-gs|elapsed_ms=6163"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 8837,
+          "line": "Sunday, 20 Sep 2026 03:30:21 GMT|OFFER_BUILD_OK|1920x1080|dolphin-mini-5l-gs|elapsed_ms=8837"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 6528,
+          "line": "Sunday, 20 Sep 2026 03:30:28 GMT|OFFER_BUILD_OK|1920x1080|dolphin-se|elapsed_ms=6528"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 6856,
+          "line": "Sunday, 20 Sep 2026 03:30:34 GMT|OFFER_BUILD_OK|1920x1080|king-gs|elapsed_ms=6856"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7095,
+          "line": "Sunday, 20 Sep 2026 03:30:42 GMT|OFFER_BUILD_OK|1920x1080|seal-26-27|elapsed_ms=7095"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7075,
+          "line": "Sunday, 20 Sep 2026 03:30:49 GMT|OFFER_BUILD_OK|1920x1080|sealion-26-27|elapsed_ms=7075"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7729,
+          "line": "Sunday, 20 Sep 2026 03:30:56 GMT|OFFER_BUILD_OK|1920x1080|song-plus|elapsed_ms=7729"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7254,
+          "line": "Sunday, 20 Sep 2026 03:31:04 GMT|OFFER_BUILD_OK|1920x1080|song-premium|elapsed_ms=7254"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 8042,
+          "line": "Sunday, 20 Sep 2026 03:31:12 GMT|OFFER_BUILD_OK|1920x1080|song-pro-flex|elapsed_ms=8042"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 8506,
+          "line": "Sunday, 20 Sep 2026 03:31:20 GMT|OFFER_BUILD_OK|1920x1080|song-pro|elapsed_ms=8506"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 8194,
+          "line": "Sunday, 20 Sep 2026 03:31:28 GMT|OFFER_BUILD_OK|1920x1080|vd-atto-2|elapsed_ms=8194"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7533,
+          "line": "Sunday, 20 Sep 2026 03:31:36 GMT|OFFER_BUILD_OK|1920x1080|vd-dolphin-mini|elapsed_ms=7533"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7534,
+          "line": "Sunday, 20 Sep 2026 03:31:43 GMT|OFFER_BUILD_OK|1920x1080|vd-king-gl|elapsed_ms=7534"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7363,
+          "line": "Sunday, 20 Sep 2026 03:31:51 GMT|OFFER_BUILD_OK|1920x1080|vd-shark|elapsed_ms=7363"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7402,
+          "line": "Sunday, 20 Sep 2026 03:31:58 GMT|OFFER_BUILD_OK|1920x1080|vd-song-pro-flex|elapsed_ms=7402"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7140,
+          "line": "Sunday, 20 Sep 2026 03:32:05 GMT|OFFER_BUILD_OK|1920x1080|vd-song-pro|elapsed_ms=7140"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7470,
+          "line": "Sunday, 20 Sep 2026 03:32:13 GMT|OFFER_BUILD_OK|1920x1080|yuan-plus-awd-26-27|elapsed_ms=7470"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 7319,
+          "line": "Sunday, 20 Sep 2026 03:32:20 GMT|OFFER_BUILD_OK|1920x1080|yuan-pro|elapsed_ms=7319"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2891,
+          "line": "Sunday, 20 Sep 2026 03:33:38 GMT|OFFER_EXPORT_OK|1920x1080|atto-2|elapsed_ms=2891"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2872,
+          "line": "Sunday, 20 Sep 2026 03:33:41 GMT|OFFER_EXPORT_OK|1920x1080|atto-8|elapsed_ms=2872"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2955,
+          "line": "Sunday, 20 Sep 2026 03:33:44 GMT|OFFER_EXPORT_OK|1920x1080|dolphin-gs|elapsed_ms=2955"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2881,
+          "line": "Sunday, 20 Sep 2026 03:33:47 GMT|OFFER_EXPORT_OK|1920x1080|dolphin-mini-5l-gs|elapsed_ms=2881"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2854,
+          "line": "Sunday, 20 Sep 2026 03:33:50 GMT|OFFER_EXPORT_OK|1920x1080|dolphin-se|elapsed_ms=2854"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2915,
+          "line": "Sunday, 20 Sep 2026 03:33:53 GMT|OFFER_EXPORT_OK|1920x1080|king-gs|elapsed_ms=2915"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 3041,
+          "line": "Sunday, 20 Sep 2026 03:33:56 GMT|OFFER_EXPORT_OK|1920x1080|seal-26-27|elapsed_ms=3041"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2837,
+          "line": "Sunday, 20 Sep 2026 03:33:59 GMT|OFFER_EXPORT_OK|1920x1080|sealion-26-27|elapsed_ms=2837"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2824,
+          "line": "Sunday, 20 Sep 2026 03:34:01 GMT|OFFER_EXPORT_OK|1920x1080|song-plus|elapsed_ms=2824"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 3050,
+          "line": "Sunday, 20 Sep 2026 03:34:04 GMT|OFFER_EXPORT_OK|1920x1080|song-premium|elapsed_ms=3050"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2859,
+          "line": "Sunday, 20 Sep 2026 03:34:07 GMT|OFFER_EXPORT_OK|1920x1080|song-pro-flex|elapsed_ms=2859"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2743,
+          "line": "Sunday, 20 Sep 2026 03:34:10 GMT|OFFER_EXPORT_OK|1920x1080|song-pro|elapsed_ms=2743"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2987,
+          "line": "Sunday, 20 Sep 2026 03:34:13 GMT|OFFER_EXPORT_OK|1920x1080|vd-atto-2|elapsed_ms=2987"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2834,
+          "line": "Sunday, 20 Sep 2026 03:34:16 GMT|OFFER_EXPORT_OK|1920x1080|vd-dolphin-mini|elapsed_ms=2834"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2808,
+          "line": "Sunday, 20 Sep 2026 03:34:19 GMT|OFFER_EXPORT_OK|1920x1080|vd-king-gl|elapsed_ms=2808"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2879,
+          "line": "Sunday, 20 Sep 2026 03:34:22 GMT|OFFER_EXPORT_OK|1920x1080|vd-shark|elapsed_ms=2879"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2940,
+          "line": "Sunday, 20 Sep 2026 03:34:25 GMT|OFFER_EXPORT_OK|1920x1080|vd-song-pro-flex|elapsed_ms=2940"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2783,
+          "line": "Sunday, 20 Sep 2026 03:34:27 GMT|OFFER_EXPORT_OK|1920x1080|vd-song-pro|elapsed_ms=2783"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2809,
+          "line": "Sunday, 20 Sep 2026 03:34:30 GMT|OFFER_EXPORT_OK|1920x1080|yuan-plus-awd-26-27|elapsed_ms=2809"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 2929,
+          "line": "Sunday, 20 Sep 2026 03:34:33 GMT|OFFER_EXPORT_OK|1920x1080|yuan-pro|elapsed_ms=2929"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 287240,
+          "line": "Sunday, 20 Sep 2026 03:34:33 GMT|FORMAT_OK|1920x1080|offers=20|elapsed_ms=287240"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 8636,
+          "line": "Sunday, 20 Sep 2026 03:34:49 GMT|OFFER_BUILD_OK|1920x1125|atto-2|elapsed_ms=8636"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 6297,
+          "line": "Sunday, 20 Sep 2026 03:34:55 GMT|OFFER_BUILD_OK|1920x1125|atto-8|elapsed_ms=6297"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 5977,
+          "line": "Sunday, 20 Sep 2026 03:35:01 GMT|OFFER_BUILD_OK|1920x1125|dolphin-gs|elapsed_ms=5977"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 8352,
+          "line": "Sunday, 20 Sep 2026 03:35:09 GMT|OFFER_BUILD_OK|1920x1125|dolphin-mini-5l-gs|elapsed_ms=8352"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 5819,
+          "line": "Sunday, 20 Sep 2026 03:35:15 GMT|OFFER_BUILD_OK|1920x1125|dolphin-se|elapsed_ms=5819"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 6242,
+          "line": "Sunday, 20 Sep 2026 03:35:21 GMT|OFFER_BUILD_OK|1920x1125|king-gs|elapsed_ms=6242"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 6645,
+          "line": "Sunday, 20 Sep 2026 03:35:28 GMT|OFFER_BUILD_OK|1920x1125|seal-26-27|elapsed_ms=6645"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 6687,
+          "line": "Sunday, 20 Sep 2026 03:35:35 GMT|OFFER_BUILD_OK|1920x1125|sealion-26-27|elapsed_ms=6687"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 7389,
+          "line": "Sunday, 20 Sep 2026 03:35:42 GMT|OFFER_BUILD_OK|1920x1125|song-plus|elapsed_ms=7389"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 7109,
+          "line": "Sunday, 20 Sep 2026 03:35:49 GMT|OFFER_BUILD_OK|1920x1125|song-premium|elapsed_ms=7109"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 7481,
+          "line": "Sunday, 20 Sep 2026 03:35:57 GMT|OFFER_BUILD_OK|1920x1125|song-pro-flex|elapsed_ms=7481"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 8305,
+          "line": "Sunday, 20 Sep 2026 03:36:05 GMT|OFFER_BUILD_OK|1920x1125|song-pro|elapsed_ms=8305"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 8125,
+          "line": "Sunday, 20 Sep 2026 03:36:13 GMT|OFFER_BUILD_OK|1920x1125|vd-atto-2|elapsed_ms=8125"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 7494,
+          "line": "Sunday, 20 Sep 2026 03:36:20 GMT|OFFER_BUILD_OK|1920x1125|vd-dolphin-mini|elapsed_ms=7494"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 7237,
+          "line": "Sunday, 20 Sep 2026 03:36:28 GMT|OFFER_BUILD_OK|1920x1125|vd-king-gl|elapsed_ms=7237"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 7362,
+          "line": "Sunday, 20 Sep 2026 03:36:35 GMT|OFFER_BUILD_OK|1920x1125|vd-shark|elapsed_ms=7362"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 7228,
+          "line": "Sunday, 20 Sep 2026 03:36:42 GMT|OFFER_BUILD_OK|1920x1125|vd-song-pro-flex|elapsed_ms=7228"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 7165,
+          "line": "Sunday, 20 Sep 2026 03:36:49 GMT|OFFER_BUILD_OK|1920x1125|vd-song-pro|elapsed_ms=7165"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 7494,
+          "line": "Sunday, 20 Sep 2026 03:36:57 GMT|OFFER_BUILD_OK|1920x1125|yuan-plus-awd-26-27|elapsed_ms=7494"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 7387,
+          "line": "Sunday, 20 Sep 2026 03:37:04 GMT|OFFER_BUILD_OK|1920x1125|yuan-pro|elapsed_ms=7387"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 3098,
+          "line": "Sunday, 20 Sep 2026 03:38:22 GMT|OFFER_EXPORT_OK|1920x1125|atto-2|elapsed_ms=3098"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 3109,
+          "line": "Sunday, 20 Sep 2026 03:38:25 GMT|OFFER_EXPORT_OK|1920x1125|atto-8|elapsed_ms=3109"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2908,
+          "line": "Sunday, 20 Sep 2026 03:38:28 GMT|OFFER_EXPORT_OK|1920x1125|dolphin-gs|elapsed_ms=2908"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 3035,
+          "line": "Sunday, 20 Sep 2026 03:38:31 GMT|OFFER_EXPORT_OK|1920x1125|dolphin-mini-5l-gs|elapsed_ms=3035"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 3190,
+          "line": "Sunday, 20 Sep 2026 03:38:34 GMT|OFFER_EXPORT_OK|1920x1125|dolphin-se|elapsed_ms=3190"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2889,
+          "line": "Sunday, 20 Sep 2026 03:38:37 GMT|OFFER_EXPORT_OK|1920x1125|king-gs|elapsed_ms=2889"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2877,
+          "line": "Sunday, 20 Sep 2026 03:38:40 GMT|OFFER_EXPORT_OK|1920x1125|seal-26-27|elapsed_ms=2877"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 3060,
+          "line": "Sunday, 20 Sep 2026 03:38:43 GMT|OFFER_EXPORT_OK|1920x1125|sealion-26-27|elapsed_ms=3060"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2825,
+          "line": "Sunday, 20 Sep 2026 03:38:46 GMT|OFFER_EXPORT_OK|1920x1125|song-plus|elapsed_ms=2825"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2830,
+          "line": "Sunday, 20 Sep 2026 03:38:49 GMT|OFFER_EXPORT_OK|1920x1125|song-premium|elapsed_ms=2830"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 3002,
+          "line": "Sunday, 20 Sep 2026 03:38:52 GMT|OFFER_EXPORT_OK|1920x1125|song-pro-flex|elapsed_ms=3002"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2833,
+          "line": "Sunday, 20 Sep 2026 03:38:55 GMT|OFFER_EXPORT_OK|1920x1125|song-pro|elapsed_ms=2833"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2779,
+          "line": "Sunday, 20 Sep 2026 03:38:57 GMT|OFFER_EXPORT_OK|1920x1125|vd-atto-2|elapsed_ms=2779"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2975,
+          "line": "Sunday, 20 Sep 2026 03:39:00 GMT|OFFER_EXPORT_OK|1920x1125|vd-dolphin-mini|elapsed_ms=2975"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 3059,
+          "line": "Sunday, 20 Sep 2026 03:39:03 GMT|OFFER_EXPORT_OK|1920x1125|vd-king-gl|elapsed_ms=3059"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2881,
+          "line": "Sunday, 20 Sep 2026 03:39:06 GMT|OFFER_EXPORT_OK|1920x1125|vd-shark|elapsed_ms=2881"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2833,
+          "line": "Sunday, 20 Sep 2026 03:39:09 GMT|OFFER_EXPORT_OK|1920x1125|vd-song-pro-flex|elapsed_ms=2833"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 3085,
+          "line": "Sunday, 20 Sep 2026 03:39:12 GMT|OFFER_EXPORT_OK|1920x1125|vd-song-pro|elapsed_ms=3085"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2925,
+          "line": "Sunday, 20 Sep 2026 03:39:15 GMT|OFFER_EXPORT_OK|1920x1125|yuan-plus-awd-26-27|elapsed_ms=2925"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 2797,
+          "line": "Sunday, 20 Sep 2026 03:39:18 GMT|OFFER_EXPORT_OK|1920x1125|yuan-pro|elapsed_ms=2797"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 284741,
+          "line": "Sunday, 20 Sep 2026 03:39:18 GMT|FORMAT_OK|1920x1125|offers=20|elapsed_ms=284741"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 8191,
+          "line": "Sunday, 20 Sep 2026 03:39:33 GMT|OFFER_BUILD_OK|1080x1080|atto-2|elapsed_ms=8191"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 6030,
+          "line": "Sunday, 20 Sep 2026 03:39:39 GMT|OFFER_BUILD_OK|1080x1080|atto-8|elapsed_ms=6030"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 6029,
+          "line": "Sunday, 20 Sep 2026 03:39:45 GMT|OFFER_BUILD_OK|1080x1080|dolphin-gs|elapsed_ms=6029"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 8204,
+          "line": "Sunday, 20 Sep 2026 03:39:53 GMT|OFFER_BUILD_OK|1080x1080|dolphin-mini-5l-gs|elapsed_ms=8204"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 5605,
+          "line": "Sunday, 20 Sep 2026 03:39:59 GMT|OFFER_BUILD_OK|1080x1080|dolphin-se|elapsed_ms=5605"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 5884,
+          "line": "Sunday, 20 Sep 2026 03:40:05 GMT|OFFER_BUILD_OK|1080x1080|king-gs|elapsed_ms=5884"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 5922,
+          "line": "Sunday, 20 Sep 2026 03:40:10 GMT|OFFER_BUILD_OK|1080x1080|seal-26-27|elapsed_ms=5922"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 6448,
+          "line": "Sunday, 20 Sep 2026 03:40:17 GMT|OFFER_BUILD_OK|1080x1080|sealion-26-27|elapsed_ms=6448"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 6970,
+          "line": "Sunday, 20 Sep 2026 03:40:24 GMT|OFFER_BUILD_OK|1080x1080|song-plus|elapsed_ms=6970"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 6555,
+          "line": "Sunday, 20 Sep 2026 03:40:30 GMT|OFFER_BUILD_OK|1080x1080|song-premium|elapsed_ms=6555"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 7259,
+          "line": "Sunday, 20 Sep 2026 03:40:38 GMT|OFFER_BUILD_OK|1080x1080|song-pro-flex|elapsed_ms=7259"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 7779,
+          "line": "Sunday, 20 Sep 2026 03:40:45 GMT|OFFER_BUILD_OK|1080x1080|song-pro|elapsed_ms=7779"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 7542,
+          "line": "Sunday, 20 Sep 2026 03:40:53 GMT|OFFER_BUILD_OK|1080x1080|vd-atto-2|elapsed_ms=7542"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 6648,
+          "line": "Sunday, 20 Sep 2026 03:41:00 GMT|OFFER_BUILD_OK|1080x1080|vd-dolphin-mini|elapsed_ms=6648"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 7029,
+          "line": "Sunday, 20 Sep 2026 03:41:07 GMT|OFFER_BUILD_OK|1080x1080|vd-king-gl|elapsed_ms=7029"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 6851,
+          "line": "Sunday, 20 Sep 2026 03:41:14 GMT|OFFER_BUILD_OK|1080x1080|vd-shark|elapsed_ms=6851"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 6746,
+          "line": "Sunday, 20 Sep 2026 03:41:20 GMT|OFFER_BUILD_OK|1080x1080|vd-song-pro-flex|elapsed_ms=6746"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 6365,
+          "line": "Sunday, 20 Sep 2026 03:41:27 GMT|OFFER_BUILD_OK|1080x1080|vd-song-pro|elapsed_ms=6365"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 6745,
+          "line": "Sunday, 20 Sep 2026 03:41:33 GMT|OFFER_BUILD_OK|1080x1080|yuan-plus-awd-26-27|elapsed_ms=6745"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 6705,
+          "line": "Sunday, 20 Sep 2026 03:41:40 GMT|OFFER_BUILD_OK|1080x1080|yuan-pro|elapsed_ms=6705"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2364,
+          "line": "Sunday, 20 Sep 2026 03:42:50 GMT|OFFER_EXPORT_OK|1080x1080|atto-2|elapsed_ms=2364"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2533,
+          "line": "Sunday, 20 Sep 2026 03:42:53 GMT|OFFER_EXPORT_OK|1080x1080|atto-8|elapsed_ms=2533"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2625,
+          "line": "Sunday, 20 Sep 2026 03:42:56 GMT|OFFER_EXPORT_OK|1080x1080|dolphin-gs|elapsed_ms=2625"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2323,
+          "line": "Sunday, 20 Sep 2026 03:42:58 GMT|OFFER_EXPORT_OK|1080x1080|dolphin-mini-5l-gs|elapsed_ms=2323"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2492,
+          "line": "Sunday, 20 Sep 2026 03:43:00 GMT|OFFER_EXPORT_OK|1080x1080|dolphin-se|elapsed_ms=2492"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2489,
+          "line": "Sunday, 20 Sep 2026 03:43:03 GMT|OFFER_EXPORT_OK|1080x1080|king-gs|elapsed_ms=2489"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2348,
+          "line": "Sunday, 20 Sep 2026 03:43:05 GMT|OFFER_EXPORT_OK|1080x1080|seal-26-27|elapsed_ms=2348"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2338,
+          "line": "Sunday, 20 Sep 2026 03:43:08 GMT|OFFER_EXPORT_OK|1080x1080|sealion-26-27|elapsed_ms=2338"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2245,
+          "line": "Sunday, 20 Sep 2026 03:43:10 GMT|OFFER_EXPORT_OK|1080x1080|song-plus|elapsed_ms=2245"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2443,
+          "line": "Sunday, 20 Sep 2026 03:43:12 GMT|OFFER_EXPORT_OK|1080x1080|song-premium|elapsed_ms=2443"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2321,
+          "line": "Sunday, 20 Sep 2026 03:43:15 GMT|OFFER_EXPORT_OK|1080x1080|song-pro-flex|elapsed_ms=2321"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2567,
+          "line": "Sunday, 20 Sep 2026 03:43:17 GMT|OFFER_EXPORT_OK|1080x1080|song-pro|elapsed_ms=2567"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2283,
+          "line": "Sunday, 20 Sep 2026 03:43:19 GMT|OFFER_EXPORT_OK|1080x1080|vd-atto-2|elapsed_ms=2283"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2359,
+          "line": "Sunday, 20 Sep 2026 03:43:22 GMT|OFFER_EXPORT_OK|1080x1080|vd-dolphin-mini|elapsed_ms=2359"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2470,
+          "line": "Sunday, 20 Sep 2026 03:43:24 GMT|OFFER_EXPORT_OK|1080x1080|vd-king-gl|elapsed_ms=2470"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2371,
+          "line": "Sunday, 20 Sep 2026 03:43:27 GMT|OFFER_EXPORT_OK|1080x1080|vd-shark|elapsed_ms=2371"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2503,
+          "line": "Sunday, 20 Sep 2026 03:43:29 GMT|OFFER_EXPORT_OK|1080x1080|vd-song-pro-flex|elapsed_ms=2503"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2300,
+          "line": "Sunday, 20 Sep 2026 03:43:32 GMT|OFFER_EXPORT_OK|1080x1080|vd-song-pro|elapsed_ms=2300"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2381,
+          "line": "Sunday, 20 Sep 2026 03:43:34 GMT|OFFER_EXPORT_OK|1080x1080|yuan-plus-awd-26-27|elapsed_ms=2381"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 2333,
+          "line": "Sunday, 20 Sep 2026 03:43:36 GMT|OFFER_EXPORT_OK|1080x1080|yuan-pro|elapsed_ms=2333"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 258269,
+          "line": "Sunday, 20 Sep 2026 03:43:36 GMT|FORMAT_OK|1080x1080|offers=20|elapsed_ms=258269"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 8365,
+          "line": "Sunday, 20 Sep 2026 03:43:52 GMT|OFFER_BUILD_OK|1080x1920|atto-2|elapsed_ms=8365"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 6036,
+          "line": "Sunday, 20 Sep 2026 03:43:58 GMT|OFFER_BUILD_OK|1080x1920|atto-8|elapsed_ms=6036"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 5749,
+          "line": "Sunday, 20 Sep 2026 03:44:03 GMT|OFFER_BUILD_OK|1080x1920|dolphin-gs|elapsed_ms=5749"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 7906,
+          "line": "Sunday, 20 Sep 2026 03:44:11 GMT|OFFER_BUILD_OK|1080x1920|dolphin-mini-5l-gs|elapsed_ms=7906"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 5513,
+          "line": "Sunday, 20 Sep 2026 03:44:17 GMT|OFFER_BUILD_OK|1080x1920|dolphin-se|elapsed_ms=5513"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 6046,
+          "line": "Sunday, 20 Sep 2026 03:44:23 GMT|OFFER_BUILD_OK|1080x1920|king-gs|elapsed_ms=6046"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 6242,
+          "line": "Sunday, 20 Sep 2026 03:44:29 GMT|OFFER_BUILD_OK|1080x1920|seal-26-27|elapsed_ms=6242"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 6607,
+          "line": "Sunday, 20 Sep 2026 03:44:36 GMT|OFFER_BUILD_OK|1080x1920|sealion-26-27|elapsed_ms=6607"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 7070,
+          "line": "Sunday, 20 Sep 2026 03:44:43 GMT|OFFER_BUILD_OK|1080x1920|song-plus|elapsed_ms=7070"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 6686,
+          "line": "Sunday, 20 Sep 2026 03:44:49 GMT|OFFER_BUILD_OK|1080x1920|song-premium|elapsed_ms=6686"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 7081,
+          "line": "Sunday, 20 Sep 2026 03:44:56 GMT|OFFER_BUILD_OK|1080x1920|song-pro-flex|elapsed_ms=7081"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 7850,
+          "line": "Sunday, 20 Sep 2026 03:45:04 GMT|OFFER_BUILD_OK|1080x1920|song-pro|elapsed_ms=7850"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 7833,
+          "line": "Sunday, 20 Sep 2026 03:45:12 GMT|OFFER_BUILD_OK|1080x1920|vd-atto-2|elapsed_ms=7833"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 7161,
+          "line": "Sunday, 20 Sep 2026 03:45:19 GMT|OFFER_BUILD_OK|1080x1920|vd-dolphin-mini|elapsed_ms=7161"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 6869,
+          "line": "Sunday, 20 Sep 2026 03:45:26 GMT|OFFER_BUILD_OK|1080x1920|vd-king-gl|elapsed_ms=6869"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 6979,
+          "line": "Sunday, 20 Sep 2026 03:45:33 GMT|OFFER_BUILD_OK|1080x1920|vd-shark|elapsed_ms=6979"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 6889,
+          "line": "Sunday, 20 Sep 2026 03:45:40 GMT|OFFER_BUILD_OK|1080x1920|vd-song-pro-flex|elapsed_ms=6889"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 6443,
+          "line": "Sunday, 20 Sep 2026 03:45:47 GMT|OFFER_BUILD_OK|1080x1920|vd-song-pro|elapsed_ms=6443"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 6846,
+          "line": "Sunday, 20 Sep 2026 03:45:53 GMT|OFFER_BUILD_OK|1080x1920|yuan-plus-awd-26-27|elapsed_ms=6846"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 6954,
+          "line": "Sunday, 20 Sep 2026 03:46:00 GMT|OFFER_BUILD_OK|1080x1920|yuan-pro|elapsed_ms=6954"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2870,
+          "line": "Sunday, 20 Sep 2026 03:47:15 GMT|OFFER_EXPORT_OK|1080x1920|atto-2|elapsed_ms=2870"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 3026,
+          "line": "Sunday, 20 Sep 2026 03:47:18 GMT|OFFER_EXPORT_OK|1080x1920|atto-8|elapsed_ms=3026"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2932,
+          "line": "Sunday, 20 Sep 2026 03:47:21 GMT|OFFER_EXPORT_OK|1080x1920|dolphin-gs|elapsed_ms=2932"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2930,
+          "line": "Sunday, 20 Sep 2026 03:47:24 GMT|OFFER_EXPORT_OK|1080x1920|dolphin-mini-5l-gs|elapsed_ms=2930"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 3069,
+          "line": "Sunday, 20 Sep 2026 03:47:27 GMT|OFFER_EXPORT_OK|1080x1920|dolphin-se|elapsed_ms=3069"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2978,
+          "line": "Sunday, 20 Sep 2026 03:47:30 GMT|OFFER_EXPORT_OK|1080x1920|king-gs|elapsed_ms=2978"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2887,
+          "line": "Sunday, 20 Sep 2026 03:47:33 GMT|OFFER_EXPORT_OK|1080x1920|seal-26-27|elapsed_ms=2887"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2924,
+          "line": "Sunday, 20 Sep 2026 03:47:36 GMT|OFFER_EXPORT_OK|1080x1920|sealion-26-27|elapsed_ms=2924"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 3045,
+          "line": "Sunday, 20 Sep 2026 03:47:39 GMT|OFFER_EXPORT_OK|1080x1920|song-plus|elapsed_ms=3045"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2902,
+          "line": "Sunday, 20 Sep 2026 03:47:42 GMT|OFFER_EXPORT_OK|1080x1920|song-premium|elapsed_ms=2902"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2903,
+          "line": "Sunday, 20 Sep 2026 03:47:45 GMT|OFFER_EXPORT_OK|1080x1920|song-pro-flex|elapsed_ms=2903"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 3115,
+          "line": "Sunday, 20 Sep 2026 03:47:48 GMT|OFFER_EXPORT_OK|1080x1920|song-pro|elapsed_ms=3115"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2986,
+          "line": "Sunday, 20 Sep 2026 03:47:51 GMT|OFFER_EXPORT_OK|1080x1920|vd-atto-2|elapsed_ms=2986"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2936,
+          "line": "Sunday, 20 Sep 2026 03:47:54 GMT|OFFER_EXPORT_OK|1080x1920|vd-dolphin-mini|elapsed_ms=2936"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 3145,
+          "line": "Sunday, 20 Sep 2026 03:47:57 GMT|OFFER_EXPORT_OK|1080x1920|vd-king-gl|elapsed_ms=3145"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 3042,
+          "line": "Sunday, 20 Sep 2026 03:48:00 GMT|OFFER_EXPORT_OK|1080x1920|vd-shark|elapsed_ms=3042"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2937,
+          "line": "Sunday, 20 Sep 2026 03:48:03 GMT|OFFER_EXPORT_OK|1080x1920|vd-song-pro-flex|elapsed_ms=2937"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 2932,
+          "line": "Sunday, 20 Sep 2026 03:48:06 GMT|OFFER_EXPORT_OK|1080x1920|vd-song-pro|elapsed_ms=2932"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 3098,
+          "line": "Sunday, 20 Sep 2026 03:48:09 GMT|OFFER_EXPORT_OK|1080x1920|yuan-plus-awd-26-27|elapsed_ms=3098"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 3020,
+          "line": "Sunday, 20 Sep 2026 03:48:12 GMT|OFFER_EXPORT_OK|1080x1920|yuan-pro|elapsed_ms=3020"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 275488,
+          "line": "Sunday, 20 Sep 2026 03:48:12 GMT|FORMAT_OK|1080x1920|offers=20|elapsed_ms=275488"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 8342,
+          "line": "Sunday, 20 Sep 2026 03:48:27 GMT|OFFER_BUILD_OK|1109x1973|atto-2|elapsed_ms=8342"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 6024,
+          "line": "Sunday, 20 Sep 2026 03:48:33 GMT|OFFER_BUILD_OK|1109x1973|atto-8|elapsed_ms=6024"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 5876,
+          "line": "Sunday, 20 Sep 2026 03:48:39 GMT|OFFER_BUILD_OK|1109x1973|dolphin-gs|elapsed_ms=5876"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 8037,
+          "line": "Sunday, 20 Sep 2026 03:48:47 GMT|OFFER_BUILD_OK|1109x1973|dolphin-mini-5l-gs|elapsed_ms=8037"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 5671,
+          "line": "Sunday, 20 Sep 2026 03:48:53 GMT|OFFER_BUILD_OK|1109x1973|dolphin-se|elapsed_ms=5671"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 5919,
+          "line": "Sunday, 20 Sep 2026 03:48:59 GMT|OFFER_BUILD_OK|1109x1973|king-gs|elapsed_ms=5919"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 6284,
+          "line": "Sunday, 20 Sep 2026 03:49:05 GMT|OFFER_BUILD_OK|1109x1973|seal-26-27|elapsed_ms=6284"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 6428,
+          "line": "Sunday, 20 Sep 2026 03:49:11 GMT|OFFER_BUILD_OK|1109x1973|sealion-26-27|elapsed_ms=6428"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 7195,
+          "line": "Sunday, 20 Sep 2026 03:49:18 GMT|OFFER_BUILD_OK|1109x1973|song-plus|elapsed_ms=7195"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 6627,
+          "line": "Sunday, 20 Sep 2026 03:49:25 GMT|OFFER_BUILD_OK|1109x1973|song-premium|elapsed_ms=6627"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 7576,
+          "line": "Sunday, 20 Sep 2026 03:49:33 GMT|OFFER_BUILD_OK|1109x1973|song-pro-flex|elapsed_ms=7576"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 7814,
+          "line": "Sunday, 20 Sep 2026 03:49:40 GMT|OFFER_BUILD_OK|1109x1973|song-pro|elapsed_ms=7814"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 7460,
+          "line": "Sunday, 20 Sep 2026 03:49:48 GMT|OFFER_BUILD_OK|1109x1973|vd-atto-2|elapsed_ms=7460"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 7200,
+          "line": "Sunday, 20 Sep 2026 03:49:55 GMT|OFFER_BUILD_OK|1109x1973|vd-dolphin-mini|elapsed_ms=7200"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 6424,
+          "line": "Sunday, 20 Sep 2026 03:50:02 GMT|OFFER_BUILD_OK|1109x1973|vd-king-gl|elapsed_ms=6424"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 6546,
+          "line": "Sunday, 20 Sep 2026 03:50:08 GMT|OFFER_BUILD_OK|1109x1973|vd-shark|elapsed_ms=6546"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 6378,
+          "line": "Sunday, 20 Sep 2026 03:50:14 GMT|OFFER_BUILD_OK|1109x1973|vd-song-pro-flex|elapsed_ms=6378"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 7243,
+          "line": "Sunday, 20 Sep 2026 03:50:22 GMT|OFFER_BUILD_OK|1109x1973|vd-song-pro|elapsed_ms=7243"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 7431,
+          "line": "Sunday, 20 Sep 2026 03:50:29 GMT|OFFER_BUILD_OK|1109x1973|yuan-plus-awd-26-27|elapsed_ms=7431"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 7470,
+          "line": "Sunday, 20 Sep 2026 03:50:37 GMT|OFFER_BUILD_OK|1109x1973|yuan-pro|elapsed_ms=7470"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2994,
+          "line": "Sunday, 20 Sep 2026 03:51:50 GMT|OFFER_EXPORT_OK|1109x1973|atto-2|elapsed_ms=2994"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2812,
+          "line": "Sunday, 20 Sep 2026 03:51:53 GMT|OFFER_EXPORT_OK|1109x1973|atto-8|elapsed_ms=2812"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2879,
+          "line": "Sunday, 20 Sep 2026 03:51:56 GMT|OFFER_EXPORT_OK|1109x1973|dolphin-gs|elapsed_ms=2879"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2910,
+          "line": "Sunday, 20 Sep 2026 03:51:59 GMT|OFFER_EXPORT_OK|1109x1973|dolphin-mini-5l-gs|elapsed_ms=2910"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2904,
+          "line": "Sunday, 20 Sep 2026 03:52:02 GMT|OFFER_EXPORT_OK|1109x1973|dolphin-se|elapsed_ms=2904"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2763,
+          "line": "Sunday, 20 Sep 2026 03:52:05 GMT|OFFER_EXPORT_OK|1109x1973|king-gs|elapsed_ms=2763"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2850,
+          "line": "Sunday, 20 Sep 2026 03:52:07 GMT|OFFER_EXPORT_OK|1109x1973|seal-26-27|elapsed_ms=2850"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2890,
+          "line": "Sunday, 20 Sep 2026 03:52:10 GMT|OFFER_EXPORT_OK|1109x1973|sealion-26-27|elapsed_ms=2890"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2773,
+          "line": "Sunday, 20 Sep 2026 03:52:13 GMT|OFFER_EXPORT_OK|1109x1973|song-plus|elapsed_ms=2773"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2750,
+          "line": "Sunday, 20 Sep 2026 03:52:16 GMT|OFFER_EXPORT_OK|1109x1973|song-premium|elapsed_ms=2750"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2943,
+          "line": "Sunday, 20 Sep 2026 03:52:19 GMT|OFFER_EXPORT_OK|1109x1973|song-pro-flex|elapsed_ms=2943"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2812,
+          "line": "Sunday, 20 Sep 2026 03:52:22 GMT|OFFER_EXPORT_OK|1109x1973|song-pro|elapsed_ms=2812"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2892,
+          "line": "Sunday, 20 Sep 2026 03:52:25 GMT|OFFER_EXPORT_OK|1109x1973|vd-atto-2|elapsed_ms=2892"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2966,
+          "line": "Sunday, 20 Sep 2026 03:52:28 GMT|OFFER_EXPORT_OK|1109x1973|vd-dolphin-mini|elapsed_ms=2966"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2771,
+          "line": "Sunday, 20 Sep 2026 03:52:30 GMT|OFFER_EXPORT_OK|1109x1973|vd-king-gl|elapsed_ms=2771"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2735,
+          "line": "Sunday, 20 Sep 2026 03:52:33 GMT|OFFER_EXPORT_OK|1109x1973|vd-shark|elapsed_ms=2735"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2850,
+          "line": "Sunday, 20 Sep 2026 03:52:36 GMT|OFFER_EXPORT_OK|1109x1973|vd-song-pro-flex|elapsed_ms=2850"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2918,
+          "line": "Sunday, 20 Sep 2026 03:52:39 GMT|OFFER_EXPORT_OK|1109x1973|vd-song-pro|elapsed_ms=2918"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2799,
+          "line": "Sunday, 20 Sep 2026 03:52:42 GMT|OFFER_EXPORT_OK|1109x1973|yuan-plus-awd-26-27|elapsed_ms=2799"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 2846,
+          "line": "Sunday, 20 Sep 2026 03:52:45 GMT|OFFER_EXPORT_OK|1109x1973|yuan-pro|elapsed_ms=2846"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 272664,
+          "line": "Sunday, 20 Sep 2026 03:52:45 GMT|FORMAT_OK|1109x1973|offers=20|elapsed_ms=272664"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 7742,
+          "line": "Sunday, 20 Sep 2026 03:52:59 GMT|OFFER_BUILD_OK|360x80|atto-2|elapsed_ms=7742"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 5323,
+          "line": "Sunday, 20 Sep 2026 03:53:04 GMT|OFFER_BUILD_OK|360x80|atto-8|elapsed_ms=5323"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 5749,
+          "line": "Sunday, 20 Sep 2026 03:53:10 GMT|OFFER_BUILD_OK|360x80|dolphin-gs|elapsed_ms=5749"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 7177,
+          "line": "Sunday, 20 Sep 2026 03:53:17 GMT|OFFER_BUILD_OK|360x80|dolphin-mini-5l-gs|elapsed_ms=7177"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 5306,
+          "line": "Sunday, 20 Sep 2026 03:53:23 GMT|OFFER_BUILD_OK|360x80|dolphin-se|elapsed_ms=5306"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 5349,
+          "line": "Sunday, 20 Sep 2026 03:53:28 GMT|OFFER_BUILD_OK|360x80|king-gs|elapsed_ms=5349"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 5468,
+          "line": "Sunday, 20 Sep 2026 03:53:34 GMT|OFFER_BUILD_OK|360x80|seal-26-27|elapsed_ms=5468"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 5543,
+          "line": "Sunday, 20 Sep 2026 03:53:39 GMT|OFFER_BUILD_OK|360x80|sealion-26-27|elapsed_ms=5543"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 6036,
+          "line": "Sunday, 20 Sep 2026 03:53:45 GMT|OFFER_BUILD_OK|360x80|song-plus|elapsed_ms=6036"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 5965,
+          "line": "Sunday, 20 Sep 2026 03:53:51 GMT|OFFER_BUILD_OK|360x80|song-premium|elapsed_ms=5965"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 6477,
+          "line": "Sunday, 20 Sep 2026 03:53:58 GMT|OFFER_BUILD_OK|360x80|song-pro-flex|elapsed_ms=6477"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 7272,
+          "line": "Sunday, 20 Sep 2026 03:54:05 GMT|OFFER_BUILD_OK|360x80|song-pro|elapsed_ms=7272"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 7223,
+          "line": "Sunday, 20 Sep 2026 03:54:12 GMT|OFFER_BUILD_OK|360x80|vd-atto-2|elapsed_ms=7223"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 6541,
+          "line": "Sunday, 20 Sep 2026 03:54:19 GMT|OFFER_BUILD_OK|360x80|vd-dolphin-mini|elapsed_ms=6541"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 5817,
+          "line": "Sunday, 20 Sep 2026 03:54:24 GMT|OFFER_BUILD_OK|360x80|vd-king-gl|elapsed_ms=5817"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 6249,
+          "line": "Sunday, 20 Sep 2026 03:54:31 GMT|OFFER_BUILD_OK|360x80|vd-shark|elapsed_ms=6249"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 6559,
+          "line": "Sunday, 20 Sep 2026 03:54:37 GMT|OFFER_BUILD_OK|360x80|vd-song-pro-flex|elapsed_ms=6559"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 6074,
+          "line": "Sunday, 20 Sep 2026 03:54:43 GMT|OFFER_BUILD_OK|360x80|vd-song-pro|elapsed_ms=6074"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 6275,
+          "line": "Sunday, 20 Sep 2026 03:54:50 GMT|OFFER_BUILD_OK|360x80|yuan-plus-awd-26-27|elapsed_ms=6275"
+        },
+        {
+          "event": [
+            "OFFER_BUILD_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 6218,
+          "line": "Sunday, 20 Sep 2026 03:54:56 GMT|OFFER_BUILD_OK|360x80|yuan-pro|elapsed_ms=6218"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1496,
+          "line": "Sunday, 20 Sep 2026 03:55:54 GMT|OFFER_EXPORT_OK|360x80|atto-2|elapsed_ms=1496"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1496,
+          "line": "Sunday, 20 Sep 2026 03:55:55 GMT|OFFER_EXPORT_OK|360x80|atto-8|elapsed_ms=1496"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1414,
+          "line": "Sunday, 20 Sep 2026 03:55:57 GMT|OFFER_EXPORT_OK|360x80|dolphin-gs|elapsed_ms=1414"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1501,
+          "line": "Sunday, 20 Sep 2026 03:55:58 GMT|OFFER_EXPORT_OK|360x80|dolphin-mini-5l-gs|elapsed_ms=1501"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1395,
+          "line": "Sunday, 20 Sep 2026 03:56:00 GMT|OFFER_EXPORT_OK|360x80|dolphin-se|elapsed_ms=1395"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1475,
+          "line": "Sunday, 20 Sep 2026 03:56:01 GMT|OFFER_EXPORT_OK|360x80|king-gs|elapsed_ms=1475"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1396,
+          "line": "Sunday, 20 Sep 2026 03:56:03 GMT|OFFER_EXPORT_OK|360x80|seal-26-27|elapsed_ms=1396"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1311,
+          "line": "Sunday, 20 Sep 2026 03:56:04 GMT|OFFER_EXPORT_OK|360x80|sealion-26-27|elapsed_ms=1311"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1470,
+          "line": "Sunday, 20 Sep 2026 03:56:05 GMT|OFFER_EXPORT_OK|360x80|song-plus|elapsed_ms=1470"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1453,
+          "line": "Sunday, 20 Sep 2026 03:56:07 GMT|OFFER_EXPORT_OK|360x80|song-premium|elapsed_ms=1453"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1316,
+          "line": "Sunday, 20 Sep 2026 03:56:08 GMT|OFFER_EXPORT_OK|360x80|song-pro-flex|elapsed_ms=1316"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1336,
+          "line": "Sunday, 20 Sep 2026 03:56:09 GMT|OFFER_EXPORT_OK|360x80|song-pro|elapsed_ms=1336"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1449,
+          "line": "Sunday, 20 Sep 2026 03:56:11 GMT|OFFER_EXPORT_OK|360x80|vd-atto-2|elapsed_ms=1449"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1280,
+          "line": "Sunday, 20 Sep 2026 03:56:12 GMT|OFFER_EXPORT_OK|360x80|vd-dolphin-mini|elapsed_ms=1280"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1366,
+          "line": "Sunday, 20 Sep 2026 03:56:14 GMT|OFFER_EXPORT_OK|360x80|vd-king-gl|elapsed_ms=1366"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1453,
+          "line": "Sunday, 20 Sep 2026 03:56:15 GMT|OFFER_EXPORT_OK|360x80|vd-shark|elapsed_ms=1453"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1304,
+          "line": "Sunday, 20 Sep 2026 03:56:16 GMT|OFFER_EXPORT_OK|360x80|vd-song-pro-flex|elapsed_ms=1304"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1333,
+          "line": "Sunday, 20 Sep 2026 03:56:18 GMT|OFFER_EXPORT_OK|360x80|vd-song-pro|elapsed_ms=1333"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1433,
+          "line": "Sunday, 20 Sep 2026 03:56:19 GMT|OFFER_EXPORT_OK|360x80|yuan-plus-awd-26-27|elapsed_ms=1433"
+        },
+        {
+          "event": [
+            "OFFER_EXPORT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 1359,
+          "line": "Sunday, 20 Sep 2026 03:56:20 GMT|OFFER_EXPORT_OK|360x80|yuan-pro|elapsed_ms=1359"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 215817,
+          "line": "Sunday, 20 Sep 2026 03:56:20 GMT|FORMAT_OK|360x80|offers=20|elapsed_ms=215817"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 1626.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 03:56:20 GMT|OK|completed|formats=6|offers=20|pngs=120|elapsed_ms=1626940",
+          "elapsed_ms": 1626940
+        }
+      ]
+    },
+    {
+      "run": "r12_failed",
+      "log": "WORK/06_LOGS/patch_controle_r12.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [],
+      "errors": [
+        "Sunday, 20 Sep 2026 04:00:53 GMT|ERRO|PATCH_LAYER_HIDDEN|strip_installment|dolphin-mini-5l-gs|line=69"
+      ],
+      "observed_wall_span_seconds": 37.0
+    },
+    {
+      "run": "r14",
+      "log": "WORK/06_LOGS/patch_controle_r14.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [
+        {
+          "event": [
+            "FORMAT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 67709,
+          "line": "Sunday, 20 Sep 2026 04:05:28 GMT|FORMAT_OK|1920x276|mask_changed=false|yuan_scene_changed=false|headline_changed=false|strip_installment=true|exports=1|elapsed_ms=67709"
+        }
+      ],
+      "errors": [
+        "Sunday, 20 Sep 2026 04:06:11 GMT|ERRO|HEADLINE_LEADING_DID_NOT_TIGHTEN|1920x1080|line=123"
+      ],
+      "observed_wall_span_seconds": 111.0
+    },
+    {
+      "run": "r16",
+      "log": "WORK/06_LOGS/patch_controle_r16.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 04:16:25 GMT|OK|completed|templates=4|pngs=12|headline_patches=4|source_r03_preserved=true|source_r10_preserved=true|elapsed_ms=407897",
+        "elapsed_ms": 407897
+      },
+      "nested_events": [
+        {
+          "event": [
+            "FORMAT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 102234,
+          "line": "Sunday, 20 Sep 2026 04:11:20 GMT|FORMAT_OK|1920x1080|mask_changed=true|yuan_scene_changed=true|headline_changed=true|strip_installment=false|exports=3|elapsed_ms=102234"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 102025,
+          "line": "Sunday, 20 Sep 2026 04:13:02 GMT|FORMAT_OK|1920x1125|mask_changed=true|yuan_scene_changed=true|headline_changed=true|strip_installment=false|exports=3|elapsed_ms=102025"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 100838,
+          "line": "Sunday, 20 Sep 2026 04:14:43 GMT|FORMAT_OK|1080x1920|mask_changed=true|yuan_scene_changed=true|headline_changed=true|strip_installment=false|exports=3|elapsed_ms=100838"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 102655,
+          "line": "Sunday, 20 Sep 2026 04:16:25 GMT|FORMAT_OK|1109x1973|mask_changed=true|yuan_scene_changed=true|headline_changed=true|strip_installment=false|exports=3|elapsed_ms=102655"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 407.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 04:16:25 GMT|OK|completed|templates=4|pngs=12|headline_patches=4|source_r03_preserved=true|source_r10_preserved=true|elapsed_ms=407897",
+          "elapsed_ms": 407897
+        }
+      ]
+    },
+    {
+      "run": "reuse_r13_failed_visual",
+      "log": "WORK/06_LOGS/render_reuse_r13.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 04:19:40 GMT|OK|completed|elapsed_ms=83481",
+        "elapsed_ms": 83481
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "format"
+          ],
+          "elapsed_ms": 83237,
+          "line": "Sunday, 20 Sep 2026 04:19:40 GMT|OK|format|1920x1080|elapsed_ms=83237"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 4.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 04:19:40 GMT|OK|completed|elapsed_ms=83481",
+          "elapsed_ms": 83481
+        }
+      ]
+    },
+    {
+      "run": "r17_partial_strip",
+      "log": "WORK/06_LOGS/recapture_templates_r17.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [
+        {
+          "event": [
+            "FORMAT_OK",
+            "1920x276"
+          ],
+          "elapsed_ms": 420472,
+          "line": "Sunday, 20 Sep 2026 04:37:15 GMT|FORMAT_OK|1920x276|source_revision=r14_exception_strip|comps=20|apply_tests_before_save=20|apply_tests_after_reopen=20|pixel_edits=0|png_exports=0|elapsed_ms=420472"
+        }
+      ],
+      "errors": [
+        "Sunday, 20 Sep 2026 04:37:55 GMT|ERRO|Não foi possível abrir o arquivo porque as opções de abertura estão incorretas|line=133"
+      ],
+      "observed_wall_span_seconds": 461.0
+    },
+    {
+      "run": "r19_failed",
+      "log": "WORK/06_LOGS/recapture_templates_r19.log",
+      "status": "ERROR_NO_TERMINAL",
+      "terminal": null,
+      "nested_events": [],
+      "errors": [
+        "Sunday, 20 Sep 2026 04:41:16 GMT|ERRO|ACTIVE_STATE_MISMATCH|before_save|apply|OFERTA|expected=atto-8|count=1|actual_index=0|line=83"
+      ],
+      "observed_wall_span_seconds": 37.0
+    },
+    {
+      "run": "r20",
+      "log": "WORK/06_LOGS/recapture_templates_r20.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 04:57:12 GMT|OK|completed|templates=6|comps_per_template=20|apply_tests=240|pngs=0|approved_pngs_untouched=true|elapsed_ms=727056",
+        "elapsed_ms": 727056
+      },
+      "nested_events": [
+        {
+          "event": [
+            "FORMAT_OK",
+            "1920x1080"
+          ],
+          "elapsed_ms": 124090,
+          "line": "Sunday, 20 Sep 2026 04:47:09 GMT|FORMAT_OK|1920x1080|source_revision=r16|comps=20|apply_tests_before_save=20|apply_tests_after_reopen=20|cached_state_refs=100|pixel_edits=0|png_exports=0|elapsed_ms=124090"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1920x1125"
+          ],
+          "elapsed_ms": 137412,
+          "line": "Sunday, 20 Sep 2026 04:49:26 GMT|FORMAT_OK|1920x1125|source_revision=r16|comps=20|apply_tests_before_save=20|apply_tests_after_reopen=20|cached_state_refs=100|pixel_edits=0|png_exports=0|elapsed_ms=137412"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1080x1080"
+          ],
+          "elapsed_ms": 108318,
+          "line": "Sunday, 20 Sep 2026 04:51:15 GMT|FORMAT_OK|1080x1080|source_revision=r10|comps=20|apply_tests_before_save=20|apply_tests_after_reopen=20|cached_state_refs=100|pixel_edits=0|png_exports=0|elapsed_ms=108318"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1080x1920"
+          ],
+          "elapsed_ms": 134820,
+          "line": "Sunday, 20 Sep 2026 04:53:30 GMT|FORMAT_OK|1080x1920|source_revision=r16|comps=20|apply_tests_before_save=20|apply_tests_after_reopen=20|cached_state_refs=100|pixel_edits=0|png_exports=0|elapsed_ms=134820"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "1109x1973"
+          ],
+          "elapsed_ms": 137477,
+          "line": "Sunday, 20 Sep 2026 04:55:47 GMT|FORMAT_OK|1109x1973|source_revision=r16|comps=20|apply_tests_before_save=20|apply_tests_after_reopen=20|cached_state_refs=100|pixel_edits=0|png_exports=0|elapsed_ms=137477"
+        },
+        {
+          "event": [
+            "FORMAT_OK",
+            "360x80"
+          ],
+          "elapsed_ms": 84920,
+          "line": "Sunday, 20 Sep 2026 04:57:12 GMT|FORMAT_OK|360x80|source_revision=r10|comps=20|apply_tests_before_save=20|apply_tests_after_reopen=20|cached_state_refs=100|pixel_edits=0|png_exports=0|elapsed_ms=84920"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 727.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 04:57:12 GMT|OK|completed|templates=6|comps_per_template=20|apply_tests=240|pngs=0|approved_pngs_untouched=true|elapsed_ms=727056",
+          "elapsed_ms": 727056
+        }
+      ]
+    },
+    {
+      "run": "reuse_r18",
+      "log": "WORK/06_LOGS/render_reuse_r18.log",
+      "status": "COMPLETED",
+      "terminal": {
+        "line": "Sunday, 20 Sep 2026 05:00:46 GMT|OK|completed|revision=r18|expected_pngs=3|actual_pngs=3|elapsed_ms=77320",
+        "elapsed_ms": 77320
+      },
+      "nested_events": [
+        {
+          "event": [
+            "OK",
+            "format"
+          ],
+          "elapsed_ms": 77002,
+          "line": "Sunday, 20 Sep 2026 05:00:46 GMT|OK|format|1920x1080|offers=3|expected_pngs=3|actual_pngs=3|elapsed_ms=77002"
+        }
+      ],
+      "errors": [],
+      "observed_wall_span_seconds": 77.0,
+      "terminal_candidates": [
+        {
+          "line": "Sunday, 20 Sep 2026 05:00:46 GMT|OK|completed|revision=r18|expected_pngs=3|actual_pngs=3|elapsed_ms=77320",
+          "elapsed_ms": 77320
+        }
+      ]
+    }
+  ],
+  "aggregate": {
+    "completed_terminal_elapsed_ms_total": 5543698,
+    "completed_terminal_run_count": 18,
+    "method": "Only exactly one terminal OK|completed elapsed_ms per log is aggregated. Nested trial, offer, format and export elapsed_ms values are retained as detail and are never summed."
+  },
+  "limits": "No token, billing, human active time, wall-clock gaps, Astra-agent visual review, human/client approval, or delivery status is measured here."
+}

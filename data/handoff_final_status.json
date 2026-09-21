@@ -1,0 +1,13 @@
+{
+  "status": "PASS_TRANSFER_WITH_DOCUMENTED_POST_DELIVERY_DIVERGENCE",
+  "original_copy_files_verified": 1170,
+  "historical_pngs_recovered_and_hash_verified": 140,
+  "current_output_matching_historical": 135,
+  "current_output_diverging": 5,
+  "canonical_psds_matching_historical": 7,
+  "reconciliation": "data/final_artifact_reconciliation.json",
+  "recovery": "data/historical_delivery_recovery.json",
+  "primary_historical_result": "resultado_historico_R18/",
+  "source_modified": false,
+  "new_artwork_produced": false
+}

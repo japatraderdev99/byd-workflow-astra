@@ -1,0 +1,8 @@
+{
+  "recorded_at": "2026-09-19T12:52:22.633505-03:00",
+  "script": "Projects/BYD/Jobs/V4/WORK/05_SCRIPTS/build_p04.jsx",
+  "sha256": "02602ef8df7ecdb6021c0f8711aa0b992b11307d76ed833e81c1fe431ee83e63",
+  "input_spec": "WORK/00_MATRIZ/pilot_spec_p04.json",
+  "purpose": "diagnostic pilot only",
+  "output_prefix": "p04"
+}

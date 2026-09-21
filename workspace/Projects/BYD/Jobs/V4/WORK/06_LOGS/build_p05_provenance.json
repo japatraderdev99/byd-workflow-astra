@@ -1,0 +1,8 @@
+{
+  "created_at": "2026-09-19T12:54:35.005207-03:00",
+  "script_sha256": "08eff0d8b233977223601cb377fc93988fb748fad2455ae6559971a4f4cc2bba",
+  "source": "build_p04.jsx",
+  "purpose": "resolve destination by ID after cross document duplication",
+  "spec": "WORK/00_MATRIZ/pilot_spec_p05.json",
+  "outputs": "P05_TRIAL PSD and p05 pilot PNGs"
+}

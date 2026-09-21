@@ -1,0 +1,8 @@
+{
+  "created_at": "2026-09-19T13:08:16.748369-03:00",
+  "script_sha256": "42c473d9a4cbe4ae3b20fdaff32872fd8bc67ac7b1ca19dfa2a60745542303db",
+  "source": "build_p07.jsx",
+  "purpose": "Dolphin geometry uses child anchor; blue KV crop for contrast",
+  "input": "pilot_spec_p08.json",
+  "outputs": "P08_TRIAL PSD and p08 pilot PNGs"
+}

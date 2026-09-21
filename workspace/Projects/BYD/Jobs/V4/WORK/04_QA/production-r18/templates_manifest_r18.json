@@ -1,0 +1,190 @@
+{
+  "revision": "r18",
+  "created_at": "2026-09-20T02:02:21.100276-03:00",
+  "count": 7,
+  "files": [
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1080x1080.psd",
+      "bytes": 1434909504,
+      "sha256": "9c60890e1fb9024e460ce3ffd0483831d6891ce387fff689f49c6c3b72fb5da9",
+      "template_revision": "r17_r20_combined"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1080x1920.psd",
+      "bytes": 1570890198,
+      "sha256": "a3e403d05e608134159ba378b898370a0ed72247970917c448fe7d8562f1cfff",
+      "template_revision": "r17_r20_combined"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1109x1973.psd",
+      "bytes": 1585014394,
+      "sha256": "897a60ed65d86dab9a04926bb3b554ed639e0f3ab537eda5768648a181a1b324",
+      "template_revision": "r17_r20_combined"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x1080.psd",
+      "bytes": 1587544776,
+      "sha256": "110f79457ad2e6f1978147e942f56f9308c265ecabd1efdd89b6679a5b78b87e",
+      "template_revision": "r17_r20_combined"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x1125.psd",
+      "bytes": 1588418444,
+      "sha256": "ceb46943bb1e635442214efa18c9476257c7b75938a6574dbd4cfcfbed95c3ae",
+      "template_revision": "r17_r20_combined"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x276.psd",
+      "bytes": 1427617651,
+      "sha256": "d1520784489124ee45cc761cb0aba2df00040901a42285f092298acd965bc8d6",
+      "template_revision": "r17_r20_combined"
+    },
+    {
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_360x80.psd",
+      "bytes": 1144655767,
+      "sha256": "d8e6fc55a0fa71c20fa77d21e3f51e3e7bbcce90cf48a403d09e8c05d8e19e1b",
+      "template_revision": "r17_r20_combined"
+    }
+  ],
+  "supporting_assets": [
+    {
+      "kind": "preview",
+      "source": "WORK/01_TEMPLATES/2026-09-20-r11/BYD_TPL_1920x276_preview.png",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x276_preview.png",
+      "bytes": 415980,
+      "sha256": "c8f11105c9032708acccbd52496ce9327e2e60baa90d8cfa3d24864c4787ced7",
+      "byte_identical_to_source": true
+    },
+    {
+      "kind": "ficha",
+      "source": "WORK/04_QA/fichas-r18/FICHA_R18_1920x276.md",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x276.md",
+      "bytes": 4781,
+      "sha256": "0b4c52f78fd6e5168b33d5a6b02f9deaff13c1a3e7ce5f24a74fd35b4f37a610",
+      "byte_identical_to_source": false
+    },
+    {
+      "kind": "preview",
+      "source": "WORK/01_TEMPLATES/2026-09-20-r11/BYD_TPL_1920x1080_preview.png",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x1080_preview.png",
+      "bytes": 1440558,
+      "sha256": "9d88acba9abeef21d75ddfa303f5b19da8188b9b1f92b03f1d502e1d5ba10e58",
+      "byte_identical_to_source": true
+    },
+    {
+      "kind": "ficha",
+      "source": "WORK/04_QA/fichas-r18/FICHA_R18_1920x1080.md",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x1080.md",
+      "bytes": 5079,
+      "sha256": "72b09e6cec4474584439e79ca632c66c8b5fc7360bcce33c567e40e357fc1fc8",
+      "byte_identical_to_source": false
+    },
+    {
+      "kind": "preview",
+      "source": "WORK/01_TEMPLATES/2026-09-20-r11/BYD_TPL_1920x1125_preview.png",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x1125_preview.png",
+      "bytes": 1480471,
+      "sha256": "831899d3ae11fc9db3402f2516a40912805299df5dbd9f781c561ac800299fd4",
+      "byte_identical_to_source": true
+    },
+    {
+      "kind": "ficha",
+      "source": "WORK/04_QA/fichas-r18/FICHA_R18_1920x1125.md",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x1125.md",
+      "bytes": 5080,
+      "sha256": "bc590e54edea1899d55e52cb8076f3a8796763892d4eee88ea7f560bf818ea0c",
+      "byte_identical_to_source": false
+    },
+    {
+      "kind": "preview",
+      "source": "WORK/01_TEMPLATES/2026-09-20-r11/BYD_TPL_1080x1080_preview.png",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1080x1080_preview.png",
+      "bytes": 955598,
+      "sha256": "c1c4d322f9a541f352e757d814ee54a4d0085a19880cc688ef39570624affc73",
+      "byte_identical_to_source": true
+    },
+    {
+      "kind": "ficha",
+      "source": "WORK/04_QA/fichas-r18/FICHA_R18_1080x1080.md",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1080x1080.md",
+      "bytes": 4664,
+      "sha256": "6a352a7513271ddad1e5fbe28ce22833953563866a399d3c5f78faa24be026d2",
+      "byte_identical_to_source": false
+    },
+    {
+      "kind": "preview",
+      "source": "WORK/01_TEMPLATES/2026-09-20-r11/BYD_TPL_1080x1920_preview.png",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1080x1920_preview.png",
+      "bytes": 1495601,
+      "sha256": "5c66f88980977b1e97d458c320c9083245c512c73927b093a4ff391cb5d0608e",
+      "byte_identical_to_source": true
+    },
+    {
+      "kind": "ficha",
+      "source": "WORK/04_QA/fichas-r18/FICHA_R18_1080x1920.md",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1080x1920.md",
+      "bytes": 5084,
+      "sha256": "e60a77a4fe6710fab48c9dfa726f4388db2c3495d0824c3b6f88a4a951e3b696",
+      "byte_identical_to_source": false
+    },
+    {
+      "kind": "preview",
+      "source": "WORK/01_TEMPLATES/2026-09-20-r11/BYD_TPL_1109x1973_preview.png",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1109x1973_preview.png",
+      "bytes": 1557183,
+      "sha256": "9cadffd7ea9e2c64e7b510c0d0aefa2f78e7fe53dbb2eb11a36ff9bb5efbc2b9",
+      "byte_identical_to_source": true
+    },
+    {
+      "kind": "ficha",
+      "source": "WORK/04_QA/fichas-r18/FICHA_R18_1109x1973.md",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1109x1973.md",
+      "bytes": 5087,
+      "sha256": "59bd3227b5a7a0ce8771863c5ff5ed77cd22e6bf03a5f2a240d6d23fdf729582",
+      "byte_identical_to_source": false
+    },
+    {
+      "kind": "preview",
+      "source": "WORK/01_TEMPLATES/2026-09-20-r11/BYD_TPL_360x80_preview.png",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_360x80_preview.png",
+      "bytes": 34675,
+      "sha256": "30fcb7b09912b0b6147d385f5ccb6c993dd2e861a3e412bf974ef5231ed52b48",
+      "byte_identical_to_source": true
+    },
+    {
+      "kind": "ficha",
+      "source": "WORK/04_QA/fichas-r18/FICHA_R18_360x80.md",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_360x80.md",
+      "bytes": 5108,
+      "sha256": "a211ad12d7d4ed1fec55e2409df2c56ba9c561917e2990c9bcb68ebc3f2e1f59",
+      "byte_identical_to_source": false
+    }
+  ],
+  "r17_strip_exception": {
+    "log": "WORK/06_LOGS/recapture_templates_r17.log",
+    "format_ok": "Sunday, 20 Sep 2026 04:37:15 GMT|FORMAT_OK|1920x276|source_revision=r14_exception_strip|comps=20|apply_tests_before_save=20|apply_tests_after_reopen=20|pixel_edits=0|png_exports=0|elapsed_ms=420472",
+    "later_error": "Sunday, 20 Sep 2026 04:37:55 GMT|ERRO|Não foi possível abrir o arquivo porque as opções de abertura estão incorretas|line=133",
+    "apply_tests_before_save": 20,
+    "apply_tests_after_reopen": 20
+  },
+  "r19_failed_zero_psd": {
+    "log": "WORK/06_LOGS/recapture_templates_r19.log",
+    "status": "FAILED_ZERO_PSD",
+    "error_count": 1
+  },
+  "r20_rest": {
+    "log": "WORK/06_LOGS/recapture_templates_r20.log",
+    "terminal": "Sunday, 20 Sep 2026 04:57:12 GMT|OK|completed|templates=6|comps_per_template=20|apply_tests=240|pngs=0|approved_pngs_untouched=true|elapsed_ms=727056",
+    "formats": [
+      "1920x1080",
+      "1920x1125",
+      "1080x1080",
+      "1080x1920",
+      "1109x1973",
+      "360x80"
+    ],
+    "apply_tests_before_save": 120,
+    "apply_tests_after_reopen": 120
+  },
+  "scope": "Native PSD/support hashes only; not technical, Astra visual, human, or delivery approval"
+}

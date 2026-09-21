@@ -1,0 +1,40 @@
+{
+  "count": 3,
+  "all_pixels_identical": false,
+  "rows": [
+    {
+      "file": "WORK/03_STAGING/reuse_validation_r13/byd_dolphin-mini-5l-gs_1920x1080.png",
+      "source": "WORK/03_STAGING/2026-09-20-r16/byd_dolphin-mini-5l-gs_1920x1080.png",
+      "pixels_identical": false,
+      "difference_bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "sha256": "ed56a9f00599ee7a24510d66b89f9518946ce8c081904252e7c8eda2cb0563bc",
+      "source_sha256": "1575a26302cae143d41076961c94059a5c2f23ce715f19c510606e316f59bb84"
+    },
+    {
+      "file": "WORK/03_STAGING/reuse_validation_r13/byd_vd-song-pro-flex_1920x1080.png",
+      "source": "WORK/03_STAGING/2026-09-20-r16/byd_vd-song-pro-flex_1920x1080.png",
+      "pixels_identical": false,
+      "difference_bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ],
+      "sha256": "23f41dba24cd413c3f11cf78ce1208ae9ba94da612c711a36e8a965d94cc6e17",
+      "source_sha256": "5dfc3c571d372fd7f4fc60ed688c951c4a1308c5ee69db2b4e931cfac0851f8f"
+    },
+    {
+      "file": "WORK/03_STAGING/reuse_validation_r13/byd_yuan-pro_1920x1080.png",
+      "source": "WORK/03_STAGING/2026-09-20-r16/byd_yuan-pro_1920x1080.png",
+      "pixels_identical": true,
+      "difference_bbox": null,
+      "sha256": "cf4f90e9d2acd626c37b8dd05ce66569142f17e859844f0f2a67eeeb28692b76",
+      "source_sha256": "84d62c75355c35d21895d3a1f101e7bfc687962b13d0b1e7c15d7aa725ff2628"
+    }
+  ]
+}

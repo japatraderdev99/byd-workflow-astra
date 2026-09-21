@@ -1,0 +1,5 @@
+{
+  "source": "P12 PSDs",
+  "sha256": "1915a8281b36231d7e598fc3420566d6d287abf1c29044cdeebd6162ed7e71f0",
+  "fix": "Do not rename or touch original visibility. Normalize names in lookup only. Remove generated redundant contrast copies."
+}

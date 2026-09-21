@@ -1,0 +1,77 @@
+{
+  "rows": [
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_dolphin-mini-5l-gs_1080x1920.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1080x1920",
+      "sha256": "5ed0afa8cfcea5ee4c8533876a4498738a3419fb975b86dbcb64fe38beda3342",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        150,
+        243,
+        930,
+        1481
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-mini-5l-gs_1080x1920.png",
+      "visual_status": "PASS",
+      "reviewer": "codex-astra-head",
+      "review_method": "native PNG inspected",
+      "notes": "Composição inteira, quebras de texto, carro completo, selos e margens conferidos. Correções resolvidas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_vd-song-pro-flex_1080x1920.png",
+      "offer_id": "vd-song-pro-flex",
+      "format": "1080x1920",
+      "sha256": "38d0e54ce4b8869d3196f3cceb83c4354fdd5120fff7cc15f4192b772b0beed4",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        82,
+        243,
+        1015,
+        1230
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro-flex_1080x1920.png",
+      "visual_status": "PASS",
+      "reviewer": "codex-astra-head",
+      "review_method": "native PNG inspected",
+      "notes": "Composição inteira, quebras de texto, carro completo, selos e margens conferidos. Correções resolvidas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_yuan-pro_1080x1920.png",
+      "offer_id": "yuan-pro",
+      "format": "1080x1920",
+      "sha256": "512e0537f3a978b52b36654fb123e8494bdc784f0abf5ea604e6e85eff8614b7",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        35,
+        124,
+        1034,
+        1847
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-pro_1080x1920.png",
+      "visual_status": "PASS",
+      "reviewer": "codex-astra-head",
+      "review_method": "native PNG inspected",
+      "notes": "Composição inteira, quebras de texto, carro completo, selos e margens conferidos. Correções resolvidas."
+    }
+  ],
+  "count": 3
+}

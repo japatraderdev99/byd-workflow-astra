@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-09-19T21:39:41.969392-03:00",
+  "script_sha256": "8f6dfdc4f512c806a6792413d67be61d5eed82f379d3cec5df3bf6591def4883",
+  "source": "build_p11.jsx",
+  "purpose": "seven pilot grades; contrast using original KV; micro hierarchy",
+  "input": "pilot_spec_p12.json",
+  "outputs": [
+    "WORK/01_TEMPLATES/2026-09-19-p12/",
+    "WORK/02_PILOTOS/2026-09-19-p12/"
+  ]
+}

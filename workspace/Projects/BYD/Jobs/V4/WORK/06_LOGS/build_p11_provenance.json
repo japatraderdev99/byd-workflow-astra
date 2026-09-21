@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-09-19T15:17:54.440256-03:00",
+  "script_sha256": "642a8cc1fce229c54a440b7d4f97f0b9e4d476464117f475c8de27f6314d3567",
+  "source": "build_p10.jsx",
+  "purpose": "original KV bleed geometry; source child anchors; detail framing",
+  "input": "pilot_spec_p11.json",
+  "outputs": [
+    "WORK/01_TEMPLATES/2026-09-19-p11/",
+    "WORK/02_PILOTOS/2026-09-19-p11/"
+  ]
+}

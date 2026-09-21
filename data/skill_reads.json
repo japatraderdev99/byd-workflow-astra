@@ -1,0 +1,159 @@
+{
+  "reads": [
+    {
+      "thread": "head_main",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 13,
+      "timestamp": "2026-09-19T15:46:59.769Z",
+      "skills": [
+        {
+          "skill": "openai-docs",
+          "historical_path": "/Users/gabrielcasarin/.codex/skills/.system/openai-docs/SKILL.md",
+          "matching_output_found": true,
+          "full_snapshot_verified": true
+        }
+      ]
+    },
+    {
+      "thread": "head_main",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 31,
+      "timestamp": "2026-09-19T15:47:22.966Z",
+      "skills": [
+        {
+          "skill": "computer-use",
+          "historical_path": "/Users/gabrielcasarin/.codex/plugins/cache/openai-bundled/computer-use/1.0.1001103/skills/computer-use/SKILL.md",
+          "matching_output_found": true,
+          "full_snapshot_verified": false
+        }
+      ]
+    },
+    {
+      "thread": "head_main",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 811,
+      "timestamp": "2026-09-20T00:47:04.422Z",
+      "skills": [
+        {
+          "skill": "computer-use",
+          "historical_path": "/Users/gabrielcasarin/.codex/plugins/cache/openai-bundled/computer-use/1.0.1001103/skills/computer-use/SKILL.md",
+          "matching_output_found": true,
+          "full_snapshot_verified": true
+        }
+      ]
+    },
+    {
+      "thread": "head_main",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 1482,
+      "timestamp": "2026-09-20T01:23:20.974Z",
+      "skills": [
+        {
+          "skill": "control-in-app-browser",
+          "historical_path": "/Users/gabrielcasarin/.codex/plugins/cache/openai-bundled/browser/26.915.31945/skills/control-in-app-browser/SKILL.md",
+          "matching_output_found": true,
+          "full_snapshot_verified": true
+        }
+      ]
+    },
+    {
+      "thread": "head_main",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 1611,
+      "timestamp": "2026-09-20T01:32:08.487Z",
+      "skills": [
+        {
+          "skill": "computer-use",
+          "historical_path": "/Users/gabrielcasarin/.codex/plugins/cache/openai-bundled/computer-use/1.0.1001103/skills/computer-use/SKILL.md",
+          "matching_output_found": true,
+          "full_snapshot_verified": true
+        }
+      ]
+    },
+    {
+      "thread": "head_main",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 2900,
+      "timestamp": "2026-09-20T03:37:52.526Z",
+      "skills": [
+        {
+          "skill": "computer-use",
+          "historical_path": "/Users/gabrielcasarin/.codex/plugins/cache/openai-bundled/computer-use/1.0.1001103/skills/computer-use/SKILL.md",
+          "matching_output_found": true,
+          "full_snapshot_verified": true
+        }
+      ]
+    },
+    {
+      "thread": "head_main",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "line": 3801,
+      "timestamp": "2026-09-20T04:15:10.844Z",
+      "skills": [
+        {
+          "skill": "computer-use",
+          "historical_path": "/Users/gabrielcasarin/.codex/plugins/cache/openai-bundled/computer-use/1.0.1001103/skills/computer-use/SKILL.md",
+          "matching_output_found": true,
+          "full_snapshot_verified": true
+        }
+      ]
+    },
+    {
+      "thread": "head_initial",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 13,
+      "timestamp": "2026-09-19T15:04:03.838Z",
+      "skills": [
+        {
+          "skill": "openai-docs",
+          "historical_path": "/Users/gabrielcasarin/.codex/skills/.system/openai-docs/SKILL.md",
+          "matching_output_found": true,
+          "full_snapshot_verified": true
+        },
+        {
+          "skill": "computer-use",
+          "historical_path": "/Users/gabrielcasarin/.codex/plugins/cache/openai-bundled/computer-use/1.0.1001103/skills/computer-use/SKILL.md",
+          "matching_output_found": true,
+          "full_snapshot_verified": true
+        }
+      ]
+    },
+    {
+      "thread": "head_initial",
+      "source_file": "rollout-2026-09-19T12-01-39-01a0ba2f-f298-7f90-8451-bbd56fa44fe9.jsonl",
+      "line": 267,
+      "timestamp": "2026-09-19T15:10:32.310Z",
+      "skills": [
+        {
+          "skill": "pdf",
+          "historical_path": "/Users/gabrielcasarin/.codex/plugins/cache/openai-primary-runtime/pdf/26.909.61513/skills/pdf/SKILL.md",
+          "matching_output_found": true,
+          "full_snapshot_verified": true
+        }
+      ]
+    }
+  ],
+  "snapshots": {
+    "openai-docs": {
+      "path": "evidence/skills/openai-docs/SKILL.md",
+      "sha256": "aa6829e21df2223167c85d2e49b6337a7345c84c1033f1ec10182c7882b36d45",
+      "verified_as_full_substring_of_historical_tool_output": true
+    },
+    "computer-use": {
+      "path": "evidence/skills/computer-use/SKILL.md",
+      "sha256": "aa25ae60e43b3b9af40aff50004ee35944733e4955068d3c8e3924cbd6d8bef6",
+      "verified_as_full_substring_of_historical_tool_output": true
+    },
+    "control-in-app-browser": {
+      "path": "evidence/skills/control-in-app-browser/SKILL.md",
+      "sha256": "7601b890ec7640edf9b20658bb16ee11db2e3194e8aab3d9c622a77e214e58e4",
+      "verified_as_full_substring_of_historical_tool_output": true
+    },
+    "pdf": {
+      "path": "evidence/skills/pdf/SKILL.md",
+      "sha256": "65f4a606b5ec8e564d6d9782254b34c2bb2ce0a573e9349fb46b1173449c72fa",
+      "verified_as_full_substring_of_historical_tool_output": true
+    }
+  },
+  "scope": "Historical skill read calls and exact content verification; invocation does not prove every rule was followed"
+}

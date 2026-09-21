@@ -1,0 +1,24 @@
+{
+  "plan_amount_brl_user_reported": 550,
+  "billing_period_confirmed": null,
+  "exclusive_use_in_window_user_confirmed": true,
+  "observed_weekly_used_start_percent": 3,
+  "observed_weekly_used_end_percent": 45,
+  "observed_delta_percentage_points": 42,
+  "actual_job_cost_brl": null,
+  "estimated_allocation_scenarios": [
+    {
+      "assumption": "monthly plan; 52 weeks/12 months; uniform value per quota percent",
+      "brl": 53.30769230769231,
+      "brl_per_final_png": 0.38076923076923075
+    },
+    {
+      "assumption": "monthly plan; 4 weeks convention",
+      "brl": 57.75
+    },
+    {
+      "assumption": "weekly plan",
+      "brl": 231.0
+    }
+  ]
+}

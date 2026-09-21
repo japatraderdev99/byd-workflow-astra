@@ -1,0 +1,25 @@
+{
+  "schema": "byd-v4-layer-comp-recapture-r20/v1",
+  "prepared_at": "2026-09-20",
+  "status": "PREPARED_COLD_NOT_EXECUTED",
+  "script": "WORK/05_SCRIPTS/recapture_templates_r20.jsx",
+  "script_sha256": "2ec24b73c1b8858118be5b3407f6c4865e34c7f3a5aa7ba85522c15d01ca9450",
+  "static_check": "OK",
+  "r19_diagnosis": {
+    "observed": "atto-2 apply passed, then atto-8 apply restored atto-2",
+    "failure": "ACTIVE_STATE_MISMATCH before_save apply OFERTA expected=atto-8 actual_index=0",
+    "bounded_cause": "LayerComp DOM references cached while the collection was growing did not remain bound to the intended named comp",
+    "saved_outputs": 0
+  },
+  "r20_change": {
+    "tree_state_cache": true,
+    "layer_comp_cache": false,
+    "layer_comp_resolution": "exact name immediately before every apply",
+    "action_manager": false,
+    "tests_per_format": 40,
+    "remaining_formats": 6
+  },
+  "destination": "WORK/01_TEMPLATES/2026-09-20-r17/",
+  "preserved_existing": "BYD_TPL_1920x276.psd",
+  "png_exports": 0
+}

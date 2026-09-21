@@ -1,0 +1,27 @@
+{
+  "reviewer": "Astra head",
+  "rows": [
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r14/byd_dolphin-mini-5l-gs_1920x276.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1920x276",
+      "sha256": "e6c06f5a088611e87f4ff1310b5eb52207f9e0e975616916b2b17931e990db4a",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        58,
+        24,
+        1190,
+        143
+      ],
+      "before": "WORK/03_STAGING/2026-09-19-r03/byd_dolphin-mini-5l-gs_1920x276.png",
+      "visual_status": "PASS",
+      "head_note": "Parcela agora em tres linhas, nativo1920x276 revisto. Carro, preco, modelo, selos e rodape inteiros. Diferencas secundarias de rerender nativo nas bordas de logo/titulo/preco: MAE fora zona0.144/255, sem alteracao de conteudo ou posicao aparente."
+    }
+  ]
+}

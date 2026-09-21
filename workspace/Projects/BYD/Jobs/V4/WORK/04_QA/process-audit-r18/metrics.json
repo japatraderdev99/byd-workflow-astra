@@ -1,0 +1,400 @@
+{
+  "schema": "byd-v4-process-audit/v1",
+  "created_at": "2026-09-20T04:23:31.319764-03:00",
+  "production_start": "2026-09-19T12:05:22.103668-03:00",
+  "production_cutoff": "2026-09-20T02:22:25.837061-03:00",
+  "documented_wall_seconds": 51423.733393,
+  "token_scope": "3 linked threads, usage records through local production close; excludes first intake interval before current root thread and excludes this report. Not a billing statement.",
+  "first_root_usage": "2026-09-19T15:46:59.793Z",
+  "uncovered_initial_wall_seconds": 2497.689332,
+  "tokens": {
+    "input_tokens": 152277785,
+    "cached_input_tokens": 148857088,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 602497,
+    "reasoning_output_tokens": 172894,
+    "total_tokens": 152880282
+  },
+  "uncached_input_tokens": 3420697,
+  "cached_input_fraction": 0.9775364673185915,
+  "response_count": 1158,
+  "agents": [
+    {
+      "role": "head",
+      "thread_id": "01a0ba59-4230-7b12-9afe-04d440f22e6c",
+      "source_file": "rollout-2026-09-19T12-46-46-01a0ba59-4230-7b12-9afe-04d440f22e6c.jsonl",
+      "first_usage_at": "2026-09-19T15:46:59.793Z",
+      "last_usage_at": "2026-09-20T05:22:25.734Z",
+      "usage_record_count": 680,
+      "registered_context_models": {
+        "gpt-6-astra/medium": 12
+      },
+      "tokens": {
+        "input_tokens": 91076710,
+        "cached_input_tokens": 89658240,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 234831,
+        "reasoning_output_tokens": 71806,
+        "total_tokens": 91311541
+      },
+      "cumulative_reconciles": true,
+      "tool_dispatches": {
+        "exec": 536,
+        "request_user_input_async": 3,
+        "spawn_agent": 2,
+        "send_message": 50,
+        "followup_task": 37,
+        "list_agents": 3,
+        "sleep": 32,
+        "wait_agent": 7,
+        "wait": 3
+      },
+      "compactions": 5,
+      "account_limit_first": {
+        "timestamp": "2026-09-19T15:47:00.524Z",
+        "used_percent": 3.0,
+        "window_minutes": 10080,
+        "resets_at": 1790435032
+      },
+      "account_limit_last": {
+        "timestamp": "2026-09-20T05:22:21.422Z",
+        "used_percent": 45.0,
+        "window_minutes": 10080,
+        "resets_at": 1790435032
+      }
+    },
+    {
+      "role": "audit_matrix",
+      "thread_id": "01a0ba5a-3a17-7d80-9428-39bd9fb9266a",
+      "source_file": "rollout-2026-09-19T12-47-50-01a0ba5a-3a17-7d80-9428-39bd9fb9266a.jsonl",
+      "first_usage_at": "2026-09-19T15:48:01.081Z",
+      "last_usage_at": "2026-09-20T05:13:45.689Z",
+      "usage_record_count": 241,
+      "registered_context_models": {
+        "gpt-5.6-terra/high": 27
+      },
+      "tokens": {
+        "input_tokens": 30101799,
+        "cached_input_tokens": 28647680,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 215280,
+        "reasoning_output_tokens": 58086,
+        "total_tokens": 30317079
+      },
+      "cumulative_reconciles": true,
+      "tool_dispatches": {
+        "exec": 188,
+        "send_message": 26
+      },
+      "compactions": 3,
+      "account_limit_first": {
+        "timestamp": "2026-09-19T15:48:01.101Z",
+        "used_percent": 4.0,
+        "window_minutes": 10080,
+        "resets_at": 1790435032
+      },
+      "account_limit_last": {
+        "timestamp": "2026-09-20T05:13:45.689Z",
+        "used_percent": 45.0,
+        "window_minutes": 10080,
+        "resets_at": 1790435032
+      }
+    },
+    {
+      "role": "diagnose_move",
+      "thread_id": "01a0ba5f-e5f4-7d03-becb-bfebf04358a5",
+      "source_file": "rollout-2026-09-19T12-54-02-01a0ba5f-e5f4-7d03-becb-bfebf04358a5.jsonl",
+      "first_usage_at": "2026-09-19T15:54:11.672Z",
+      "last_usage_at": "2026-09-20T05:18:04.647Z",
+      "usage_record_count": 237,
+      "registered_context_models": {
+        "gpt-5.6-sol/high": 17
+      },
+      "tokens": {
+        "input_tokens": 31099276,
+        "cached_input_tokens": 30551168,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 152386,
+        "reasoning_output_tokens": 43002,
+        "total_tokens": 31251662
+      },
+      "cumulative_reconciles": true,
+      "tool_dispatches": {
+        "exec": 184,
+        "send_message": 30,
+        "wait_agent": 5,
+        "list_agents": 1
+      },
+      "compactions": 2,
+      "account_limit_first": {
+        "timestamp": "2026-09-19T15:54:11.676Z",
+        "used_percent": 5.0,
+        "window_minutes": 10080,
+        "resets_at": 1790435032
+      },
+      "account_limit_last": {
+        "timestamp": "2026-09-20T05:18:04.647Z",
+        "used_percent": 45.0,
+        "window_minutes": 10080,
+        "resets_at": 1790435032
+      }
+    }
+  ],
+  "tool_dispatches": {
+    "exec": 908,
+    "request_user_input_async": 3,
+    "spawn_agent": 2,
+    "send_message": 106,
+    "followup_task": 37,
+    "list_agents": 4,
+    "sleep": 32,
+    "wait_agent": 12,
+    "wait": 3
+  },
+  "tool_dispatch_count": 1107,
+  "compactions": 10,
+  "temporal_buckets": [
+    {
+      "name": "desenvolvimento_pilotos",
+      "start": "2026-09-19T12:05:22.103668-03:00",
+      "end": "2026-09-19T22:38:00-03:00",
+      "wall_seconds": 37957.896332,
+      "usage": {
+        "input_tokens": 37326038,
+        "cached_input_tokens": 35839872,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 168789,
+        "reasoning_output_tokens": 49982,
+        "total_tokens": 37494827
+      },
+      "meaning": "timestamp window, not exclusive time-on-task attribution"
+    },
+    {
+      "name": "escala_correcoes",
+      "start": "2026-09-19T22:38:00-03:00",
+      "end": "2026-09-20T01:16:25-03:00",
+      "wall_seconds": 9505.0,
+      "usage": {
+        "input_tokens": 68604577,
+        "cached_input_tokens": 67551616,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 259022,
+        "reasoning_output_tokens": 76840,
+        "total_tokens": 68863599
+      },
+      "meaning": "timestamp window, not exclusive time-on-task attribution"
+    },
+    {
+      "name": "validacao_reuso_fechamento",
+      "start": "2026-09-20T01:16:25-03:00",
+      "end": "2026-09-20T02:22:25.837061-03:00",
+      "wall_seconds": 3960.837061,
+      "usage": {
+        "input_tokens": 46347170,
+        "cached_input_tokens": 45465600,
+        "cache_write_input_tokens": 0,
+        "output_tokens": 174686,
+        "reasoning_output_tokens": 46072,
+        "total_tokens": 46521856
+      },
+      "meaning": "timestamp window, not exclusive time-on-task attribution"
+    }
+  ],
+  "run_status_counts": {
+    "ERROR_NO_TERMINAL": 14,
+    "INCOMPLETE_NO_TERMINAL": 1,
+    "COMPLETED": 18
+  },
+  "completed_terminal_ms": 5543698,
+  "selected_elapsed_segments": [
+    {
+      "run": "pilot_p06",
+      "kind": "completed_partial_segments",
+      "elapsed_ms": 73430
+    },
+    {
+      "run": "pilot_p07",
+      "kind": "terminal",
+      "elapsed_ms": 106623
+    },
+    {
+      "run": "pilot_p08",
+      "kind": "terminal",
+      "elapsed_ms": 107196
+    },
+    {
+      "run": "pilot_p09",
+      "kind": "terminal",
+      "elapsed_ms": 107689
+    },
+    {
+      "run": "pilot_p10",
+      "kind": "terminal",
+      "elapsed_ms": 482934
+    },
+    {
+      "run": "pilot_p11",
+      "kind": "terminal",
+      "elapsed_ms": 259304
+    },
+    {
+      "run": "pilot_p12",
+      "kind": "terminal",
+      "elapsed_ms": 588109
+    },
+    {
+      "run": "pilot_patch_p14",
+      "kind": "terminal",
+      "elapsed_ms": 352392
+    },
+    {
+      "run": "pilot_patch_p16",
+      "kind": "terminal",
+      "elapsed_ms": 330937
+    },
+    {
+      "run": "pilot_patch_p17",
+      "kind": "terminal",
+      "elapsed_ms": 38465
+    },
+    {
+      "run": "pilot_patch_p18",
+      "kind": "terminal",
+      "elapsed_ms": 38654
+    },
+    {
+      "run": "probe_r02",
+      "kind": "terminal",
+      "elapsed_ms": 76336
+    },
+    {
+      "run": "probe_r03",
+      "kind": "terminal",
+      "elapsed_ms": 76361
+    },
+    {
+      "run": "r03",
+      "kind": "completed_partial_segments",
+      "elapsed_ms": 4436135
+    },
+    {
+      "run": "probe_r05",
+      "kind": "terminal",
+      "elapsed_ms": 56004
+    },
+    {
+      "run": "r10",
+      "kind": "terminal",
+      "elapsed_ms": 1626940
+    },
+    {
+      "run": "r14",
+      "kind": "completed_partial_segments",
+      "elapsed_ms": 67709
+    },
+    {
+      "run": "r16",
+      "kind": "terminal",
+      "elapsed_ms": 407897
+    },
+    {
+      "run": "reuse_r13_failed_visual",
+      "kind": "terminal",
+      "elapsed_ms": 83481
+    },
+    {
+      "run": "r17_partial_strip",
+      "kind": "completed_partial_segments",
+      "elapsed_ms": 420472
+    },
+    {
+      "run": "r20",
+      "kind": "terminal",
+      "elapsed_ms": 727056
+    },
+    {
+      "run": "reuse_r18",
+      "kind": "terminal",
+      "elapsed_ms": 77320
+    }
+  ],
+  "selected_elapsed_ms": 10541444,
+  "format_elapsed_ms": {
+    "360x80": {
+      "probe_r02": 45603,
+      "probe_r03": 45635,
+      "probe_r05": 23650,
+      "r10": 215817,
+      "r20": 84920
+    },
+    "1920x276": {
+      "r03": 4436135,
+      "r14": 67709,
+      "r17_partial_strip": 420472
+    },
+    "1920x1080": {
+      "r10": 287240,
+      "r16": 102234,
+      "r20": 124090
+    },
+    "1920x1125": {
+      "r10": 284741,
+      "r16": 102025,
+      "r20": 137412
+    },
+    "1080x1080": {
+      "r10": 258269,
+      "r20": 108318
+    },
+    "1080x1920": {
+      "r10": 275488,
+      "r16": 100838,
+      "r20": 134820
+    },
+    "1109x1973": {
+      "r10": 272664,
+      "r16": 102655,
+      "r20": 137477
+    }
+  },
+  "counts_by_format": {
+    "1920x276": 20,
+    "1920x1080": 20,
+    "1920x1125": 20,
+    "1080x1080": 20,
+    "1080x1920": 20,
+    "1109x1973": 20,
+    "360x80": 20
+  },
+  "png_bytes": 142801952,
+  "psd_bytes": 10339050734,
+  "metrics": {
+    "final_outputs": 140,
+    "visual_corrections": 13,
+    "unchanged_from_first_full_scale": 127,
+    "visual_rework_fraction": 0.09285714285714286,
+    "scale_first_visual_pass_fraction": 0.9071428571428571,
+    "native_state_tests": 280,
+    "native_state_tests_pass": 280,
+    "pixel_reexport_pass": 3,
+    "pixel_reexport_tested": 3,
+    "pixel_reexport_scope_of_outputs": 0.02142857142857143,
+    "technical_pass": 140,
+    "structural_pass": 7,
+    "input_integrity_pass": 48,
+    "root_r10_outputs_per_minute": 4.4254858814707365,
+    "r10_amortized_seconds_per_output": 13.557833333333333
+  },
+  "cost": {
+    "actual_currency": null,
+    "subscription_usage_attributed": null,
+    "human_hours": null,
+    "ui_active_seconds": null,
+    "full_job_tokens": null
+  },
+  "source_hashes": {
+    "WORK/04_QA/manifest.json": "b4be6c9e7e13cebb536c64b2d6367f7fe0c47c0de9cb587a85d53cb338b1e147",
+    "WORK/04_QA/production_timings_r18.json": "36061eb541bb779e46c9b6faef50314813656a77d1905f3ef133eacf7515c332",
+    "WORK/06_LOGS/DIARIO.md": "8fc1901b0d0d409743e696880378296e2c21dc015941b31d942f517f1b20bf81"
+  }
+}

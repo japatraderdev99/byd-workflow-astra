@@ -1,0 +1,32 @@
+{
+  "status": "REQUIRED_CORRECTION_AFTER_R03",
+  "offer_ids": [
+    "atto-8",
+    "seal-26-27",
+    "song-plus",
+    "song-premium",
+    "yuan-pro"
+  ],
+  "reason": "Head content check: headline contains commercial rate/bonus, not generic copy. Must remain visible along with benefit in 360x80. r03 render cannot be final for these5.",
+  "strategy": "copy r03microtemplate, apply proven dual price/benefit/headline zones; export20microstates to newr04; retainr03history",
+  "zones": {
+    "price": [
+      95,
+      19,
+      145,
+      20
+    ],
+    "benefit": [
+      95,
+      42,
+      255,
+      6
+    ],
+    "headline": [
+      95,
+      50,
+      255,
+      6
+    ]
+  }
+}

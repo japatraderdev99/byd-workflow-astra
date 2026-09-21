@@ -1,0 +1,257 @@
+{
+  "rows": [
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_dolphin-mini-5l-gs_1080x1920.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1080x1920",
+      "sha256": "5ed0afa8cfcea5ee4c8533876a4498738a3419fb975b86dbcb64fe38beda3342",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        150,
+        243,
+        930,
+        1481
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-mini-5l-gs_1080x1920.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_dolphin-mini-5l-gs_1109x1973.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1109x1973",
+      "sha256": "5062c46281c73d8aaf7234c190b8e0a86b4a0bb1c8a3d78c05e7c8f8881f5ae4",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        155,
+        253,
+        954,
+        1531
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-mini-5l-gs_1109x1973.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_dolphin-mini-5l-gs_1920x1080.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1920x1080",
+      "sha256": "1575a26302cae143d41076961c94059a5c2f23ce715f19c510606e316f59bb84",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        95,
+        202,
+        865,
+        819
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-mini-5l-gs_1920x1080.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_dolphin-mini-5l-gs_1920x1125.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1920x1125",
+      "sha256": "d2960a271919f288157e8c316aa1221f9d9b9c33de3e68573c2182af50d534a5",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        95,
+        212,
+        865,
+        834
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-mini-5l-gs_1920x1125.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_vd-song-pro-flex_1080x1920.png",
+      "offer_id": "vd-song-pro-flex",
+      "format": "1080x1920",
+      "sha256": "38d0e54ce4b8869d3196f3cceb83c4354fdd5120fff7cc15f4192b772b0beed4",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        82,
+        243,
+        1015,
+        1230
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro-flex_1080x1920.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_vd-song-pro-flex_1109x1973.png",
+      "offer_id": "vd-song-pro-flex",
+      "format": "1109x1973",
+      "sha256": "a1cb806f2dbe1e06c11ed5d8a39e81dd446cd7cdad72631d4d275cfac760db9e",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        85,
+        253,
+        1039,
+        1275
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro-flex_1109x1973.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_vd-song-pro-flex_1920x1080.png",
+      "offer_id": "vd-song-pro-flex",
+      "format": "1920x1080",
+      "sha256": "5dfc3c571d372fd7f4fc60ed688c951c4a1308c5ee69db2b4e931cfac0851f8f",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        95,
+        202,
+        1898,
+        810
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro-flex_1920x1080.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_vd-song-pro-flex_1920x1125.png",
+      "offer_id": "vd-song-pro-flex",
+      "format": "1920x1125",
+      "sha256": "37e279c3ce7006b0f37af63a64861cd7ba5e1db7805fcf7ee0f3c93e84be0003",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        95,
+        212,
+        1898,
+        835
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro-flex_1920x1125.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_yuan-pro_1080x1920.png",
+      "offer_id": "yuan-pro",
+      "format": "1080x1920",
+      "sha256": "512e0537f3a978b52b36654fb123e8494bdc784f0abf5ea604e6e85eff8614b7",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        35,
+        124,
+        1034,
+        1847
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-pro_1080x1920.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_yuan-pro_1109x1973.png",
+      "offer_id": "yuan-pro",
+      "format": "1109x1973",
+      "sha256": "b71c8bb52637c26c70bf24e49af42915edcdad75e7c9328e82024776877549ea",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        38,
+        136,
+        1059,
+        1907
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-pro_1109x1973.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_yuan-pro_1920x1080.png",
+      "offer_id": "yuan-pro",
+      "format": "1920x1080",
+      "sha256": "84d62c75355c35d21895d3a1f101e7bfc687962b13d0b1e7c15d7aa725ff2628",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        95,
+        0,
+        1915,
+        1080
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-pro_1920x1080.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_yuan-pro_1920x1125.png",
+      "offer_id": "yuan-pro",
+      "format": "1920x1125",
+      "sha256": "ebb34850311f7ed0693b2f39a05e579cdd84f05b55ba406406bdfc9e1a50fb7a",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        95,
+        0,
+        1915,
+        1125
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-pro_1920x1125.png",
+      "visual_status": "PENDING_HEAD_REVIEW"
+    }
+  ],
+  "count": 12
+}

@@ -1,0 +1,77 @@
+{
+  "rows": [
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_dolphin-mini-5l-gs_1109x1973.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1109x1973",
+      "sha256": "5062c46281c73d8aaf7234c190b8e0a86b4a0bb1c8a3d78c05e7c8f8881f5ae4",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        155,
+        253,
+        954,
+        1531
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-mini-5l-gs_1109x1973.png",
+      "visual_status": "PASS",
+      "reviewer": "codex-astra-head",
+      "review_method": "native PNG inspected",
+      "notes": "Texto, veículo completo, selos e composição conferidos. Correções resolvidas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_vd-song-pro-flex_1109x1973.png",
+      "offer_id": "vd-song-pro-flex",
+      "format": "1109x1973",
+      "sha256": "a1cb806f2dbe1e06c11ed5d8a39e81dd446cd7cdad72631d4d275cfac760db9e",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        85,
+        253,
+        1039,
+        1275
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro-flex_1109x1973.png",
+      "visual_status": "PASS",
+      "reviewer": "codex-astra-head",
+      "review_method": "native PNG inspected",
+      "notes": "Texto, veículo completo, selos e composição conferidos. Correções resolvidas."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r16/byd_yuan-pro_1109x1973.png",
+      "offer_id": "yuan-pro",
+      "format": "1109x1973",
+      "sha256": "b71c8bb52637c26c70bf24e49af42915edcdad75e7c9328e82024776877549ea",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "checks": {
+        "dimensions": true,
+        "RGB8": true,
+        "sRGB": true
+      },
+      "technical_pass": true,
+      "changed_bbox": [
+        38,
+        136,
+        1059,
+        1907
+      ],
+      "before": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-pro_1109x1973.png",
+      "visual_status": "PASS",
+      "reviewer": "codex-astra-head",
+      "review_method": "native PNG inspected",
+      "notes": "Texto, veículo completo, selos e composição conferidos. Correções resolvidas."
+    }
+  ],
+  "count": 3
+}

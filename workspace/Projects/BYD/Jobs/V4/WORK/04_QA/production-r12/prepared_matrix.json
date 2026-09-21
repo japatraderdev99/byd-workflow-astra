@@ -1,0 +1,83 @@
+{
+  "revision": "r12",
+  "status": "SCRIPT_PREPARED_NOT_EXECUTED",
+  "script": "WORK/05_SCRIPTS/patch_controle_r12.jsx",
+  "script_sha256": "2afa22487e856e4d801c845e49757a8d736d48eb86889a54b60579b16c9c4e70",
+  "large_formats": ["1920x1080", "1920x1125", "1080x1920", "1109x1973"],
+  "mask_rule": {
+    "offer_id": "vd-song-pro-flex",
+    "formats": ["1920x1080", "1920x1125", "1080x1920", "1109x1973"],
+    "old_bottom_ratio": 1.04,
+    "new_bottom_ratio": 1.0,
+    "max_feather_px": 2,
+    "evidence": "The confirmed artifact begins near 1.035 of car-zone height; the editable car anchor ends inside 1.0."
+  },
+  "headline_rule": {
+    "offer_id": "dolphin-mini-5l-gs",
+    "required_formats": ["1920x1080", "1920x1125", "1080x1920", "1109x1973"],
+    "condition": "line_count_gt_1_and_leading_ratio_gt_1.45",
+    "target_leading_ratio": 1.1,
+    "refit": "proportional in the same headline zone, top aligned; centered in portraits and left aligned in landscapes",
+    "contents_preserved": true
+  },
+  "yuan_scene_rule": {
+    "offer_id": "yuan-pro",
+    "formats": ["1920x1080", "1920x1125", "1080x1920", "1109x1973"],
+    "target_group": "VEICULO/CAR - yuan-pro/CENA ORIGINAL",
+    "scale": 0.85,
+    "alignment": "center hidden Layer 7 anchor horizontally and vertically in the original car zone",
+    "vehicle_and_ground_scaled_as_one_unit": true
+  },
+  "always_written": [
+    {
+      "format": "1920x276",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r12/BYD_TPL_1920x276.psd",
+      "pngs": ["WORK/03_STAGING/2026-09-20-r12/byd_dolphin-mini-5l-gs_1920x276.png"],
+      "changes": ["R08-equivalent installment wrap"],
+      "vehicle_scene_changed": false
+    },
+    {
+      "format": "1920x1080",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r12/BYD_TPL_1920x1080.psd",
+      "pngs": [
+        "WORK/03_STAGING/2026-09-20-r12/byd_vd-song-pro-flex_1920x1080.png",
+        "WORK/03_STAGING/2026-09-20-r12/byd_dolphin-mini-5l-gs_1920x1080.png",
+        "WORK/03_STAGING/2026-09-20-r12/byd_yuan-pro_1920x1080.png"
+      ]
+    },
+    {
+      "format": "1920x1125",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r12/BYD_TPL_1920x1125.psd",
+      "pngs": [
+        "WORK/03_STAGING/2026-09-20-r12/byd_vd-song-pro-flex_1920x1125.png",
+        "WORK/03_STAGING/2026-09-20-r12/byd_dolphin-mini-5l-gs_1920x1125.png",
+        "WORK/03_STAGING/2026-09-20-r12/byd_yuan-pro_1920x1125.png"
+      ]
+    },
+    {
+      "format": "1080x1920",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r12/BYD_TPL_1080x1920.psd",
+      "pngs": [
+        "WORK/03_STAGING/2026-09-20-r12/byd_vd-song-pro-flex_1080x1920.png",
+        "WORK/03_STAGING/2026-09-20-r12/byd_dolphin-mini-5l-gs_1080x1920.png",
+        "WORK/03_STAGING/2026-09-20-r12/byd_yuan-pro_1080x1920.png"
+      ]
+    },
+    {
+      "format": "1109x1973",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r12/BYD_TPL_1109x1973.psd",
+      "pngs": [
+        "WORK/03_STAGING/2026-09-20-r12/byd_vd-song-pro-flex_1109x1973.png",
+        "WORK/03_STAGING/2026-09-20-r12/byd_dolphin-mini-5l-gs_1109x1973.png",
+        "WORK/03_STAGING/2026-09-20-r12/byd_yuan-pro_1109x1973.png"
+      ]
+    }
+  ],
+  "explicitly_untouched": [
+    "1080x1080",
+    "360x80",
+    "vd-song-pro-flex in 1920x276",
+    "yuan-pro in 1920x276",
+    "all other offers"
+  ]
+}

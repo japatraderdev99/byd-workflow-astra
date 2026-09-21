@@ -1,0 +1,249 @@
+{
+  "at": "2026-09-19T21:58:16.029427-03:00",
+  "baseline": "WORK/04_QA/input_integrity_retomada_20260919.json",
+  "count": 48,
+  "unchanged": 48,
+  "elapsed_seconds": 60.521,
+  "files": [
+    {
+      "path": "INPUT/01_PEDIDO_CLIENTE/pedido_cliente_2026-09-17.png",
+      "sha256": "dc927e67146eb96f225294b920ab18014443514b3b99db7ec9805761ef591f36",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/02_PSD_oficial todas as artes em feed/26.08.07 VAREJO BYD FEED 1080x1350.psd",
+      "sha256": "8abc513ff9aa7bedea76e03bc9cdea78fc4cb263044c855be23ac5d0c66917f6",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Atto 2.png",
+      "sha256": "e8c28178820ac17112f52c20730963ffcd3677ad848c886749de030f8bfde461",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Atto 8.png",
+      "sha256": "a4faac2664036317ae4547dce044c136f6b8a16208183119fba5f2b86302100a",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Dolphin GS.png",
+      "sha256": "3f833b308308aca15a7bafdf1d3627263045f3d98e90bfc6c7e72483a96c6fd0",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Dolphin Mini 5L GS.png",
+      "sha256": "3278ab0629d2e7f37fcb1e099e19230c0613e33fb3652e5ab89205c914ce5850",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Dolphin SE.png",
+      "sha256": "e03fbbb30449cb50b9e5ae2055c13427d45763d5ba5daf4823edc7d734ac11f1",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/King GS.png",
+      "sha256": "c7ed4b83143b20844822936aa69c2e33fe209d3a357b7ac71f97816cabdc55e5",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Seal 26-27.png",
+      "sha256": "f40b4dfadb8eb063880075ed1cfb48d0cdb4e256ad1d38e528168f6013554c52",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Sealion 26-27.png",
+      "sha256": "7b9322aabbcd4c7ff9a8dfb144d47a62d9a089fcfb64a1871e9b81f44e2f28d0",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Song Plus.png",
+      "sha256": "7cd50fb692434846c74f2075a65c08f1a629bcf820ae17cb7be353eb207a0605",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Song Premium.png",
+      "sha256": "46321b00eaf2f3a174bd4d5908f41c281491710bc8d359ae5259f23bc43a6938",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Song Pro Flex.png",
+      "sha256": "199a27faa15dac6e86348218d5c69cdbf02494d10e07c74d998476780c6bc959",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Song Pro.png",
+      "sha256": "04a1638015804a35e826aa2a968538f1ad2e243245a3a342c93f63e8784c5c69",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - Atto 2.png",
+      "sha256": "c81e8378bb288f7b1b0b628589eff2c8c6a844f159803062b73f04355ae3cf54",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - Dolphin Mini.png",
+      "sha256": "1de830ef7ceb44271d316e6b1255744ededfbf856a6c69c6868a39fe188781b4",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - King GL.png",
+      "sha256": "550202bb5d0e5f5a9e97e976ee23b0e2672dd009bda60b37ba691212db1458c3",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - Shark.png",
+      "sha256": "f3c9279a8f6ac18282516a05a00eeb20ffb58051866fe60de37daeafd4540c4f",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - Song Pro Flex.png",
+      "sha256": "516faa40a22cc684875ee22ebc0c70a0f0bb320f89a7800369768e9c1568073c",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/VD - Song Pro.png",
+      "sha256": "1de70dd6bd7dd0d5962ed6c629043bba89b91d7bbae31bf93a9c9ca593786b25",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Yuan PLUS AWD 26-27.png",
+      "sha256": "d85e91027c822e02c7907f1b38047de32246207f99ab6403647f6615dc735005",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/03_REFERENCIAS_FEED_1080x1350/Yuan PRO.png",
+      "sha256": "f4a423ca1724547ea6d28efd3f993046e59d95d5641d15ab546fcfe4f3757d4f",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/04_LOGOS_E_SELOS/BYD SERVOPA LOGO AJUSTE.pdf",
+      "sha256": "c328530e8ad5a32a06903c9dbbcf23cd87e9b17e3377907f1ede81e31666684f",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextExpandedTrial-ExtraBoldItalic.otf",
+      "sha256": "7d2aecc1f71157cff0787e086d40269359821124d0471d5f51aa0e9587e09ee8",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextExpandedTrial-HeavyItalic.otf",
+      "sha256": "2ee0ae79af3c303d40ca8753271f92614a0ba76e65a4e992f58212a13f421f23",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextExpandedTrial-Regular.otf",
+      "sha256": "78c5a929fe316ff3eb36bbd48bf5b32d934558b594b9c52445934ed0b5bad8f2",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextExpandedTrial-RegularItalic.otf",
+      "sha256": "873161bbcab44fa8ab42e0bcdc63a43d994c7e703ebe188dd24f9506c7befc16",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextExpandedTrial-Thin.otf",
+      "sha256": "d605d5220e85fbe39255a8e55607339aebacd16270b2aaa08ca50eeb80ab738c",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextExtraCondTrial-ExtraBoldItalic.otf",
+      "sha256": "918bb3924f270cc1e835b6f0543ad1b7ca5708e81b0bbc44f5acd05e3137bf76",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextExtraCondTrial-HeavyItalic.otf",
+      "sha256": "7d2fc50703522f3df27d20f087e36a0a86ed958a121ee884dd9f37157c8ebebe",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextExtraCondTrial-Regular.otf",
+      "sha256": "eea3f398044a857af89fa735ff8562935770086adfb92a1cae9440274d9a7202",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextExtraCondTrial-RegularItalic.otf",
+      "sha256": "3b7c5f20f04d432d191990fc639dfc855358a35f0c433f6bc574e9382a5a0f65",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextExtraCondTrial-ThinItalic.otf",
+      "sha256": "502e527cb1f73329a82235521d921b438b7e9d106d82662853101faa1bf31dca",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextTrial-ExtraBold.otf",
+      "sha256": "485b6646a8a7ae8d8b954871c73fd12fb0c30c6e6a7cb0aa2901f7cfe1915530",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextTrial-ExtraBoldItalic.otf",
+      "sha256": "98d4427cc598116fc9110cda9a0bd4be59e3e679658576930094bbe7da86af73",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextTrial-Heavy.otf",
+      "sha256": "4032e8bf4594b5bcf5da981040f921da6b881974e66ee6df8ebffdc5485a6e15",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextTrial-HeavyItalic.otf",
+      "sha256": "ab2360cd7e0abbb5f7731c1d486708b32ab8b18cf393506e67117e55f816bdc1",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextTrial-Regular.otf",
+      "sha256": "ae562ada9c55133984adfd647f9c523b57a39c07b90b446f5e52bcd4e532e574",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextTrial-RegularItalic.otf",
+      "sha256": "c6100b2032ba2e783a4502e8aa66112dbdc204483ff6f092d95d56040d6f38cd",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextTrial-ThinItalic.otf",
+      "sha256": "330ca8a0c64e9e51da1b39ffda87e6e2cf7be8e53de2799106c1dc8286beed41",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextWideTrial-ExtraBold.otf",
+      "sha256": "5c0af488d7297495859a7f7ba0f50484a715e01f29e4d89625dedf9adb620f3e",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextWideTrial-ExtraBoldItalic.otf",
+      "sha256": "fba61d503394e345473c93c30e2e0f555ba2793676c089166931eb701b04bc7c",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextWideTrial-Heavy.otf",
+      "sha256": "01f451c143f3740490f40e613292027da502412e051093510b2c4538a316bc20",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextWideTrial-HeavyItalic.otf",
+      "sha256": "45276f679daaae8f3fc64b01f331d4681f0e16c584cd0ab4511da548af305ecb",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextWideTrial-Regular.otf",
+      "sha256": "3ce671eea30a308f270e9a751a503cd0c442b1c74523f2e5b14d17a98ea4aed8",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextWideTrial-RegularItalic.otf",
+      "sha256": "665e565cb955013a8c56d2bc640d9e20cc398f73e237df59eb599200e6fa3d4b",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextWideTrial-Thin.otf",
+      "sha256": "aa918106bcbaaae4388949330d1221e2960b1d74a0570717414c5fd9163fc196",
+      "unchanged": true
+    },
+    {
+      "path": "INPUT/05_FONTES/MullerNext/MullerNextWideTrial-ThinItalic.otf",
+      "sha256": "9cf07c81ef742de7b2a35d5f446a2b79cc3c092e08471814fa29c6b96fd31562",
+      "unchanged": true
+    }
+  ]
+}

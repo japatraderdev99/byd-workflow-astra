@@ -1,0 +1,44 @@
+{
+  "status": "FAIL",
+  "pngs": 140,
+  "templates": 7,
+  "unique_offer_format_pairs": 140,
+  "by_format": {
+    "1920x276": 20,
+    "1920x1080": 20,
+    "1920x1125": 20,
+    "1080x1080": 20,
+    "1080x1920": 20,
+    "1109x1973": 20,
+    "360x80": 20
+  },
+  "master_matches_recorded_input": true,
+  "errors": [
+    {
+      "kind": "png",
+      "file": "OUTPUT/2026-09-20-r18/ESTATICOS/1920x1080/byd_dolphin-mini-5l-gs_1920x1080.png",
+      "reason": "Historical manifest differs from verified copy"
+    },
+    {
+      "kind": "png",
+      "file": "OUTPUT/2026-09-20-r18/BANNER DESK/1920x1125/byd_dolphin-mini-5l-gs_1920x1125.png",
+      "reason": "Historical manifest differs from verified copy"
+    },
+    {
+      "kind": "png",
+      "file": "OUTPUT/2026-09-20-r18/ESTATICOS/1080x1080/byd_dolphin-mini-5l-gs_1080x1080.png",
+      "reason": "Historical manifest differs from verified copy"
+    },
+    {
+      "kind": "png",
+      "file": "OUTPUT/2026-09-20-r18/ESTATICOS/1080x1920/byd_dolphin-mini-5l-gs_1080x1920.png",
+      "reason": "Historical manifest differs from verified copy"
+    },
+    {
+      "kind": "png",
+      "file": "OUTPUT/2026-09-20-r18/BANNER MOBILE/1109x1973/byd_dolphin-mini-5l-gs_1109x1973.png",
+      "reason": "Historical manifest differs from verified copy"
+    }
+  ],
+  "method": "Compare already byte-verified source-copy hashes to historical R18 manifests. No new Photoshop run or visual approval."
+}

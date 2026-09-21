@@ -1,0 +1,425 @@
+{
+  "reviewer": "Astra head",
+  "rows": [
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_atto-2_1109x1973.png",
+      "offer_id": "atto-2",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1548509,
+      "sha256": "9da672d50132d1e68ee3bce379c5644b59a3727b12221a9e1bd12e6aa77907a9",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_atto-8_1109x1973.png",
+      "offer_id": "atto-8",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1505557,
+      "sha256": "6df0f409339e38b613a435eedc74caeece30d6842a280be4d8f4a01f5490f278",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-gs_1109x1973.png",
+      "offer_id": "dolphin-gs",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1512539,
+      "sha256": "09c3b299c23f99921223f57293c294e1ce4d74b330f1a4c3ba5a482e1bec7be2",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-mini-5l-gs_1109x1973.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1602480,
+      "sha256": "184900e6194e08262d6a1fb9ca80546bc38ef4e76a38c3dac0bb9789d75a6625",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "REVISE",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Entrelinha excessiva e peso tipografico reduzido."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_dolphin-se_1109x1973.png",
+      "offer_id": "dolphin-se",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1474126,
+      "sha256": "6b43ee464cb539167a1acf96d6d79b5be5908c450924e1eab6bfe329c9a019a9",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_king-gs_1109x1973.png",
+      "offer_id": "king-gs",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1503079,
+      "sha256": "c275e2e1e1524e8eacab1613129eb3ecbf75abe7b92f20aca0ef425eaf4690d8",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_seal-26-27_1109x1973.png",
+      "offer_id": "seal-26-27",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1495543,
+      "sha256": "49c8a214b9ac218879110dd7d652ecdbff576501bf0177b4356378bcf4cf05e8",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_sealion-26-27_1109x1973.png",
+      "offer_id": "sealion-26-27",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1520973,
+      "sha256": "938e27e89bd89205d63ed208ae62b23504d911ac41d20aeed3b52d51be4103f3",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-plus_1109x1973.png",
+      "offer_id": "song-plus",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1527890,
+      "sha256": "58ee41534ac5759e1dbcd1e5fc1bfbba1c8e40b5992e513c1fb7d1bd79085376",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-premium_1109x1973.png",
+      "offer_id": "song-premium",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1502483,
+      "sha256": "69a3abe086abce2e2e21467a1dab69efae0fc3a55bf5eca17d00e21304c142f7",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-pro-flex_1109x1973.png",
+      "offer_id": "song-pro-flex",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1458717,
+      "sha256": "f87a7a684c7328267d483e0087582a430a25220c7a3f823b57a4e8887bb75569",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_song-pro_1109x1973.png",
+      "offer_id": "song-pro",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1511973,
+      "sha256": "09998f471383d4d04f6640e1f4389e1ba942cc30a7cb827bbf3571d55686baa0",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-atto-2_1109x1973.png",
+      "offer_id": "vd-atto-2",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1571452,
+      "sha256": "ea2086795eabf22349b56b6df98a33efcd39b7c5c4e15d36c1f709bd73bc3a2a",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-dolphin-mini_1109x1973.png",
+      "offer_id": "vd-dolphin-mini",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1486455,
+      "sha256": "133ac429c97597c23ec5b5be90905c274d097a453b7eabdb9210a44e92b37951",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-king-gl_1109x1973.png",
+      "offer_id": "vd-king-gl",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1490235,
+      "sha256": "d95e5d457fc799fcb073212965fbb51c69d3b44baa69e335eb0acf2511b932c3",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-shark_1109x1973.png",
+      "offer_id": "vd-shark",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1489532,
+      "sha256": "c9af73ab9211c71b91fa8e1afbc1962236300ed50d099325e5b8276dbf761a45",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro-flex_1109x1973.png",
+      "offer_id": "vd-song-pro-flex",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1458926,
+      "sha256": "190ad4182a2c6515a5da37cd86d9bfb2f7cd20d99e4c6d5475a2788119e7c9be",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "REVISE",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Residuos amarelos da cena original abaixo do carro."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_vd-song-pro_1109x1973.png",
+      "offer_id": "vd-song-pro",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1501711,
+      "sha256": "ddaa43b428cae952ed85ec6c27cc2b216629c57c26e56ebbe85031d8036d7e07",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-plus-awd-26-27_1109x1973.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1504700,
+      "sha256": "23e84d30d38551c8018fda0397db3b1b3e77d8de1ed9880167aeac62e3a8f9ac",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "PASS",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Revisao visual em prancha duas artes: modelo/preco/condicoes/carro/selos e legal separados e visiveis."
+    },
+    {
+      "file": "WORK/03_STAGING/2026-09-20-r10/byd_yuan-pro_1109x1973.png",
+      "offer_id": "yuan-pro",
+      "format": "1109x1973",
+      "width": 1109,
+      "height": 1973,
+      "mode": "RGB",
+      "profile": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 1466605,
+      "sha256": "32f2a4a0308591806363d95d5f718d4ba5ae012ec17382368f69c5c9d2a8620c",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "srgb": true,
+        "8bit": true
+      },
+      "technical_pass": true,
+      "visual_status": "REVISE",
+      "template": "WORK/01_TEMPLATES/2026-09-20-r10/BYD_TPL_1109x1973.psd",
+      "head_note": "Frente do carro esfumada/cortada pela mascara."
+    }
+  ]
+}

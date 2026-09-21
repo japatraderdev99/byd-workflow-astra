@@ -1,0 +1,18 @@
+{
+  "at": "2026-09-20T00:50:34.264504-03:00",
+  "reviewer": "Astra head",
+  "overrides": [
+    {
+      "offer_id": "yuan-pro",
+      "format": "1920x1080",
+      "visual_status": "REVISE",
+      "reason": "Revisao ampliada nativa apos achado no portrait confirmou frente do carro esfumada/cortada pela mascara; anchor oculto nao representa toda a cena visivel."
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1920x1125",
+      "visual_status": "REVISE",
+      "reason": "Revisao ampliada nativa apos achado no portrait confirmou frente do carro esfumada/cortada pela mascara; anchor oculto nao representa toda a cena visivel."
+    }
+  ]
+}

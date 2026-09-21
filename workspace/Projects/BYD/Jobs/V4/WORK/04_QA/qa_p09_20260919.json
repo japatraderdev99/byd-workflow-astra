@@ -1,0 +1,102 @@
+{
+  "at": "2026-09-19T16:17:38.952465+00:00",
+  "elapsed_seconds": 21.232,
+  "revision": "p09",
+  "png_count": 3,
+  "png_pass": 3,
+  "psd_count": 1,
+  "pngs": [
+    {
+      "file": "WORK/02_PILOTOS/p09_byd_dolphin-mini-5l-gs_1920x276.png",
+      "offer_id": "dolphin-mini-5l-gs",
+      "size": [
+        1920,
+        276
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 486137,
+      "sha256": "712d072aa729b5663c9e36d6ea8d573fc2a94d232eaa651eab7402e08ba7cc7d",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/p09_byd_vd-atto-2_1920x276.png",
+      "offer_id": "vd-atto-2",
+      "size": [
+        1920,
+        276
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 473632,
+      "sha256": "235885f8e9c5822c47cc445b016aff75fb0f3487bd0c4316f47c54fb710cb495",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    },
+    {
+      "file": "WORK/02_PILOTOS/p09_byd_yuan-plus-awd-26-27_1920x276.png",
+      "offer_id": "yuan-plus-awd-26-27",
+      "size": [
+        1920,
+        276
+      ],
+      "mode": "RGB",
+      "bits": 8,
+      "icc": "IEC 61966-2.1 Default RGB colour space - sRGB",
+      "bytes": 452414,
+      "sha256": "47de9b9d35b14590fff98351323a55e043f139658c905170f6c3ab8a37f8d64a",
+      "checks": {
+        "dimensions": true,
+        "rgb": true,
+        "eight_bit": true,
+        "opaque": true,
+        "srgb": true
+      },
+      "technical_pass": true,
+      "visual_status": "NOT_APPROVED_BY_THIS_SCRIPT"
+    }
+  ],
+  "psds": [
+    {
+      "file": "WORK/01_TEMPLATES/P09_TRIAL_1920x276.psd",
+      "size": [
+        1920,
+        276
+      ],
+      "sha256": "90b8e726b5c10fdaba80b6108cb987b19c7531ea7b864e95578347f8211145bc",
+      "bytes": 737290646,
+      "top_groups": [
+        "Plano de Fundo",
+        "BG",
+        "VEICULO",
+        "LEGAL",
+        "CONDICIONAIS",
+        "OFERTA",
+        "FIXO",
+        "#GUIAS"
+      ],
+      "required_groups_present": true,
+      "text_layers": 25,
+      "smart_objects": 23,
+      "status": "DRAFT_3_STATES_NOT_CANONICAL"
+    }
+  ],
+  "approval": false
+}

@@ -1,0 +1,17 @@
+{
+  "revision": "r18",
+  "output_folder": "WORK/03_STAGING/reuse_validation_r18/",
+  "log_file": "WORK/06_LOGS/render_reuse_r18.log",
+  "validation_output": "WORK/04_QA/reuse_validation_r18.json",
+  "templates": [
+    {
+      "format": "1920x1080",
+      "path": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x1080.psd"
+    }
+  ],
+  "offer_ids": [
+    "dolphin-mini-5l-gs",
+    "vd-song-pro-flex",
+    "yuan-pro"
+  ]
+}

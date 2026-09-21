@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-09-19T12:49:08.610315-03:00",
+  "source_script": "Projects/BYD/Jobs/V4/WORK/05_SCRIPTS/build_p01.jsx",
+  "source_sha256": "d87502801485136903059d72499d9c88f2045e5291209a9d0004bf7048534ea1",
+  "script": "Projects/BYD/Jobs/V4/WORK/05_SCRIPTS/build_p02.jsx",
+  "script_sha256": "61d18d685a3a0803c217a8f1786843b840b7818a4d409e1baf103c6c1d2a04f8",
+  "purpose": "Diagnostic pilot revision; no scale or canonical approval",
+  "inputs": [
+    "WORK/00_MATRIZ/pilot_spec_p02.json"
+  ],
+  "outputs": [
+    "WORK/01_TEMPLATES/P02_TRIAL_1920x276.psd",
+    "WORK/02_PILOTOS/p02_byd_*_1920x276.png"
+  ]
+}

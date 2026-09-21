@@ -1,0 +1,29 @@
+{
+  "schema": "byd-v4-layer-comp-recapture-r19/v1",
+  "prepared_at": "2026-09-20",
+  "status": "PREPARED_COLD_NOT_EXECUTED",
+  "script": "WORK/05_SCRIPTS/recapture_templates_r19.jsx",
+  "script_sha256": "c3ba87c94b32d2bbda235928af0ab7e188aad361e70b8716845039df1ea27e10",
+  "static_check": "OK",
+  "continuation": {
+    "output_folder": "WORK/01_TEMPLATES/2026-09-20-r17/",
+    "completed_by_r17": "BYD_TPL_1920x276.psd",
+    "r17_apply_tests": 40,
+    "r19_remaining_templates": 6,
+    "r19_apply_tests": 240
+  },
+  "optimization": {
+    "native_collection_scans": "once per document open",
+    "cached_state_references": 100,
+    "steady_state_activation_writes": 10,
+    "verification_reads_per_test": 100,
+    "action_manager": false,
+    "tests_reduced": false
+  },
+  "preservation": {
+    "png_exports": 0,
+    "approved_pngs_mutated": false,
+    "geometry_or_text_mutation": false,
+    "source_templates_overwritten": false
+  }
+}

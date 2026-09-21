@@ -1,0 +1,6 @@
+{
+  "source": "patch_p14.jsx",
+  "source_psds": "P12",
+  "sha256": "4e7f5ab704f2f885601c085b2d18bbb8141e10df1c61b413f5baaff2faeff67a",
+  "fix": "snapshot visibility before rename and restore leaf-to-root; remove redundant hidden contrast copies; micro first"
+}

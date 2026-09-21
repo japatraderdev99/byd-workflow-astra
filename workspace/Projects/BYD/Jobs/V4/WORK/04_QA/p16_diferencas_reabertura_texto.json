@@ -1,0 +1,257 @@
+{
+  "note": "N\u00e3o houve identidade pixel a pixel. Diferen\u00e7as pequenas localizadas nas regi\u00f5es de texto; hip\u00f3tese de recomposi\u00e7\u00e3o do texto ao reabrir, n\u00e3o comprovada. Nenhuma alega\u00e7\u00e3o de HASHES_IDENTICAL.",
+  "files": [
+    {
+      "file": "p16_byd_dolphin-mini-5l-gs_1080x1080.png",
+      "changed_bbox": [
+        230,
+        141,
+        850,
+        355
+      ],
+      "mean_channel_difference": [
+        0.07824159807956105,
+        0.06061728395061729,
+        0.026166838134430728
+      ],
+      "max_channel_difference": [
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          0,
+          22
+        ]
+      ]
+    },
+    {
+      "file": "p16_byd_dolphin-mini-5l-gs_1080x1920.png",
+      "changed_bbox": [
+        150,
+        243,
+        930,
+        546
+      ],
+      "mean_channel_difference": [
+        0.11863859953703704,
+        0.07591579861111111,
+        0.030890239197530863
+      ],
+      "max_channel_difference": [
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          0,
+          22
+        ]
+      ]
+    },
+    {
+      "file": "p16_byd_dolphin-mini-5l-gs_1109x1973.png",
+      "changed_bbox": [
+        155,
+        253,
+        954,
+        564
+      ],
+      "mean_channel_difference": [
+        0.11992192159527837,
+        0.07562005925805407,
+        0.030356156169606185
+      ],
+      "max_channel_difference": [
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          0,
+          22
+        ]
+      ]
+    },
+    {
+      "file": "p16_byd_vd-atto-2_1080x1080.png",
+      "changed_bbox": [
+        337,
+        141,
+        718,
+        360
+      ],
+      "mean_channel_difference": [
+        0.07686385459533608,
+        0.05929783950617284,
+        0.028174725651577505
+      ],
+      "max_channel_difference": [
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          0,
+          22
+        ]
+      ]
+    },
+    {
+      "file": "p16_byd_vd-atto-2_1080x1920.png",
+      "changed_bbox": [
+        262,
+        243,
+        796,
+        570
+      ],
+      "mean_channel_difference": [
+        0.10527440200617284,
+        0.06943913966049382,
+        0.030699266975308642
+      ],
+      "max_channel_difference": [
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          0,
+          22
+        ]
+      ]
+    },
+    {
+      "file": "p16_byd_vd-atto-2_1109x1973.png",
+      "changed_bbox": [
+        277,
+        253,
+        814,
+        587
+      ],
+      "mean_channel_difference": [
+        0.107116039481604,
+        0.06922351657200887,
+        0.02985114190352445
+      ],
+      "max_channel_difference": [
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          0,
+          22
+        ]
+      ]
+    },
+    {
+      "file": "p16_byd_yuan-plus-awd-26-27_1080x1080.png",
+      "changed_bbox": [
+        250,
+        141,
+        830,
+        360
+      ],
+      "mean_channel_difference": [
+        0.09612740054869684,
+        0.06916152263374485,
+        0.027140775034293553
+      ],
+      "max_channel_difference": [
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          0,
+          22
+        ]
+      ]
+    },
+    {
+      "file": "p16_byd_yuan-plus-awd-26-27_1080x1920.png",
+      "changed_bbox": [
+        150,
+        243,
+        930,
+        561
+      ],
+      "mean_channel_difference": [
+        0.13553530092592592,
+        0.08417148919753087,
+        0.03084104938271605
+      ],
+      "max_channel_difference": [
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          0,
+          22
+        ]
+      ]
+    },
+    {
+      "file": "p16_byd_yuan-plus-awd-26-27_1109x1973.png",
+      "changed_bbox": [
+        155,
+        253,
+        954,
+        579
+      ],
+      "mean_channel_difference": [
+        0.1372724750772032,
+        0.08409515839852436,
+        0.030291715435201184
+      ],
+      "max_channel_difference": [
+        [
+          0,
+          39
+        ],
+        [
+          0,
+          40
+        ],
+        [
+          0,
+          22
+        ]
+      ]
+    }
+  ]
+}

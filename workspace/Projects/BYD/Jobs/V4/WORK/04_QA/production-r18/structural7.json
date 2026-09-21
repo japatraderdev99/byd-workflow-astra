@@ -1,0 +1,607 @@
+{
+  "schema": "byd-v4-structural-summary-r18/v1",
+  "revision": "r18",
+  "generated_at": "2026-09-20T05:17:26.161427+00:00",
+  "write_guard": "REFUSE_OVERWRITE",
+  "method": "Strict summary of psd-tools structural QA, current template SHA-256, template manifest, and 280 native Photoshop Layer Comp apply tests.",
+  "source_structural_qa": "WORK/04_QA/qa_templates_r18_v2.json",
+  "status": "PASS",
+  "pass": 7,
+  "fail": 0,
+  "rows": [
+    {
+      "format": "1920x276",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x276.psd",
+      "sha256": "d1520784489124ee45cc761cb0aba2df00040901a42285f092298acd965bc8d6",
+      "checks": {
+        "global_scope": true,
+        "roots_7": true,
+        "five_state_roots_20_each": true,
+        "dimensions": true,
+        "editable_texts_and_source_comparison": true,
+        "anchors_20": true,
+        "embedded_tags": true,
+        "bg_uuid_reuse_20": true,
+        "layer_comps_native_and_decoder": true,
+        "manifest_path_match": true,
+        "manifest_hash_match": true,
+        "manifest_bytes_match": true
+      },
+      "details": {
+        "text": {
+          "checks": {
+            "editable_type_layers_present": true,
+            "layer_count_covers_text": true,
+            "comparison_offer_scope": true,
+            "all_required_texts_match": true
+          },
+          "failures": []
+        },
+        "anchor_failures": [],
+        "tags": {
+          "source_tag_scope": true,
+          "source_new_scope": true,
+          "new_tags_in_conditionals": true,
+          "song_pro_words_in_conditionals": true,
+          "no_vehicle_tag_leaks": true,
+          "qa_status_pass": true
+        },
+        "bg_uuids": {
+          "qa_status_pass": true,
+          "one_unique_uuid": true,
+          "twenty_bg_smart_objects": true,
+          "all_records_decoded": true,
+          "records_share_uuid": true
+        },
+        "layer_comps": {
+          "decoder_status": "UNAVAILABLE",
+          "checks": {
+            "native_40_tests_for_format": true,
+            "decoder_pass_20_or_unavailable": true,
+            "decoder_not_fail": true
+          }
+        },
+        "native_layer_comp_evidence": {
+          "format": "1920x276",
+          "before_save_count": 20,
+          "after_reopen_count": 20,
+          "checks": {
+            "before_save_20_exact_offers": true,
+            "after_reopen_20_exact_offers": true,
+            "output_saved_once": true,
+            "format_ok_once": true
+          },
+          "status": "PASS"
+        }
+      },
+      "structural_pass": true
+    },
+    {
+      "format": "1920x1080",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x1080.psd",
+      "sha256": "110f79457ad2e6f1978147e942f56f9308c265ecabd1efdd89b6679a5b78b87e",
+      "checks": {
+        "global_scope": true,
+        "roots_7": true,
+        "five_state_roots_20_each": true,
+        "dimensions": true,
+        "editable_texts_and_source_comparison": true,
+        "anchors_20": true,
+        "embedded_tags": true,
+        "bg_uuid_reuse_20": true,
+        "layer_comps_native_and_decoder": true,
+        "manifest_path_match": true,
+        "manifest_hash_match": true,
+        "manifest_bytes_match": true
+      },
+      "details": {
+        "text": {
+          "checks": {
+            "editable_type_layers_present": true,
+            "layer_count_covers_text": true,
+            "comparison_offer_scope": true,
+            "all_required_texts_match": true
+          },
+          "failures": []
+        },
+        "anchor_failures": [],
+        "tags": {
+          "source_tag_scope": true,
+          "source_new_scope": true,
+          "new_tags_in_conditionals": true,
+          "song_pro_words_in_conditionals": true,
+          "no_vehicle_tag_leaks": true,
+          "qa_status_pass": true
+        },
+        "bg_uuids": {
+          "qa_status_pass": true,
+          "one_unique_uuid": true,
+          "twenty_bg_smart_objects": true,
+          "all_records_decoded": true,
+          "records_share_uuid": true
+        },
+        "layer_comps": {
+          "decoder_status": "UNAVAILABLE",
+          "checks": {
+            "native_40_tests_for_format": true,
+            "decoder_pass_20_or_unavailable": true,
+            "decoder_not_fail": true
+          }
+        },
+        "native_layer_comp_evidence": {
+          "format": "1920x1080",
+          "before_save_count": 20,
+          "after_reopen_count": 20,
+          "checks": {
+            "before_save_20_exact_offers": true,
+            "after_reopen_20_exact_offers": true,
+            "output_saved_once": true,
+            "format_ok_once": true
+          },
+          "status": "PASS"
+        }
+      },
+      "structural_pass": true
+    },
+    {
+      "format": "1920x1125",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1920x1125.psd",
+      "sha256": "ceb46943bb1e635442214efa18c9476257c7b75938a6574dbd4cfcfbed95c3ae",
+      "checks": {
+        "global_scope": true,
+        "roots_7": true,
+        "five_state_roots_20_each": true,
+        "dimensions": true,
+        "editable_texts_and_source_comparison": true,
+        "anchors_20": true,
+        "embedded_tags": true,
+        "bg_uuid_reuse_20": true,
+        "layer_comps_native_and_decoder": true,
+        "manifest_path_match": true,
+        "manifest_hash_match": true,
+        "manifest_bytes_match": true
+      },
+      "details": {
+        "text": {
+          "checks": {
+            "editable_type_layers_present": true,
+            "layer_count_covers_text": true,
+            "comparison_offer_scope": true,
+            "all_required_texts_match": true
+          },
+          "failures": []
+        },
+        "anchor_failures": [],
+        "tags": {
+          "source_tag_scope": true,
+          "source_new_scope": true,
+          "new_tags_in_conditionals": true,
+          "song_pro_words_in_conditionals": true,
+          "no_vehicle_tag_leaks": true,
+          "qa_status_pass": true
+        },
+        "bg_uuids": {
+          "qa_status_pass": true,
+          "one_unique_uuid": true,
+          "twenty_bg_smart_objects": true,
+          "all_records_decoded": true,
+          "records_share_uuid": true
+        },
+        "layer_comps": {
+          "decoder_status": "UNAVAILABLE",
+          "checks": {
+            "native_40_tests_for_format": true,
+            "decoder_pass_20_or_unavailable": true,
+            "decoder_not_fail": true
+          }
+        },
+        "native_layer_comp_evidence": {
+          "format": "1920x1125",
+          "before_save_count": 20,
+          "after_reopen_count": 20,
+          "checks": {
+            "before_save_20_exact_offers": true,
+            "after_reopen_20_exact_offers": true,
+            "output_saved_once": true,
+            "format_ok_once": true
+          },
+          "status": "PASS"
+        }
+      },
+      "structural_pass": true
+    },
+    {
+      "format": "1080x1080",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1080x1080.psd",
+      "sha256": "9c60890e1fb9024e460ce3ffd0483831d6891ce387fff689f49c6c3b72fb5da9",
+      "checks": {
+        "global_scope": true,
+        "roots_7": true,
+        "five_state_roots_20_each": true,
+        "dimensions": true,
+        "editable_texts_and_source_comparison": true,
+        "anchors_20": true,
+        "embedded_tags": true,
+        "bg_uuid_reuse_20": true,
+        "layer_comps_native_and_decoder": true,
+        "manifest_path_match": true,
+        "manifest_hash_match": true,
+        "manifest_bytes_match": true
+      },
+      "details": {
+        "text": {
+          "checks": {
+            "editable_type_layers_present": true,
+            "layer_count_covers_text": true,
+            "comparison_offer_scope": true,
+            "all_required_texts_match": true
+          },
+          "failures": []
+        },
+        "anchor_failures": [],
+        "tags": {
+          "source_tag_scope": true,
+          "source_new_scope": true,
+          "new_tags_in_conditionals": true,
+          "song_pro_words_in_conditionals": true,
+          "no_vehicle_tag_leaks": true,
+          "qa_status_pass": true
+        },
+        "bg_uuids": {
+          "qa_status_pass": true,
+          "one_unique_uuid": true,
+          "twenty_bg_smart_objects": true,
+          "all_records_decoded": true,
+          "records_share_uuid": true
+        },
+        "layer_comps": {
+          "decoder_status": "UNAVAILABLE",
+          "checks": {
+            "native_40_tests_for_format": true,
+            "decoder_pass_20_or_unavailable": true,
+            "decoder_not_fail": true
+          }
+        },
+        "native_layer_comp_evidence": {
+          "format": "1080x1080",
+          "before_save_count": 20,
+          "after_reopen_count": 20,
+          "checks": {
+            "before_save_20_exact_offers": true,
+            "after_reopen_20_exact_offers": true,
+            "output_saved_once": true,
+            "format_ok_once": true
+          },
+          "status": "PASS"
+        }
+      },
+      "structural_pass": true
+    },
+    {
+      "format": "1080x1920",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1080x1920.psd",
+      "sha256": "a3e403d05e608134159ba378b898370a0ed72247970917c448fe7d8562f1cfff",
+      "checks": {
+        "global_scope": true,
+        "roots_7": true,
+        "five_state_roots_20_each": true,
+        "dimensions": true,
+        "editable_texts_and_source_comparison": true,
+        "anchors_20": true,
+        "embedded_tags": true,
+        "bg_uuid_reuse_20": true,
+        "layer_comps_native_and_decoder": true,
+        "manifest_path_match": true,
+        "manifest_hash_match": true,
+        "manifest_bytes_match": true
+      },
+      "details": {
+        "text": {
+          "checks": {
+            "editable_type_layers_present": true,
+            "layer_count_covers_text": true,
+            "comparison_offer_scope": true,
+            "all_required_texts_match": true
+          },
+          "failures": []
+        },
+        "anchor_failures": [],
+        "tags": {
+          "source_tag_scope": true,
+          "source_new_scope": true,
+          "new_tags_in_conditionals": true,
+          "song_pro_words_in_conditionals": true,
+          "no_vehicle_tag_leaks": true,
+          "qa_status_pass": true
+        },
+        "bg_uuids": {
+          "qa_status_pass": true,
+          "one_unique_uuid": true,
+          "twenty_bg_smart_objects": true,
+          "all_records_decoded": true,
+          "records_share_uuid": true
+        },
+        "layer_comps": {
+          "decoder_status": "UNAVAILABLE",
+          "checks": {
+            "native_40_tests_for_format": true,
+            "decoder_pass_20_or_unavailable": true,
+            "decoder_not_fail": true
+          }
+        },
+        "native_layer_comp_evidence": {
+          "format": "1080x1920",
+          "before_save_count": 20,
+          "after_reopen_count": 20,
+          "checks": {
+            "before_save_20_exact_offers": true,
+            "after_reopen_20_exact_offers": true,
+            "output_saved_once": true,
+            "format_ok_once": true
+          },
+          "status": "PASS"
+        }
+      },
+      "structural_pass": true
+    },
+    {
+      "format": "1109x1973",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_1109x1973.psd",
+      "sha256": "897a60ed65d86dab9a04926bb3b554ed639e0f3ab537eda5768648a181a1b324",
+      "checks": {
+        "global_scope": true,
+        "roots_7": true,
+        "five_state_roots_20_each": true,
+        "dimensions": true,
+        "editable_texts_and_source_comparison": true,
+        "anchors_20": true,
+        "embedded_tags": true,
+        "bg_uuid_reuse_20": true,
+        "layer_comps_native_and_decoder": true,
+        "manifest_path_match": true,
+        "manifest_hash_match": true,
+        "manifest_bytes_match": true
+      },
+      "details": {
+        "text": {
+          "checks": {
+            "editable_type_layers_present": true,
+            "layer_count_covers_text": true,
+            "comparison_offer_scope": true,
+            "all_required_texts_match": true
+          },
+          "failures": []
+        },
+        "anchor_failures": [],
+        "tags": {
+          "source_tag_scope": true,
+          "source_new_scope": true,
+          "new_tags_in_conditionals": true,
+          "song_pro_words_in_conditionals": true,
+          "no_vehicle_tag_leaks": true,
+          "qa_status_pass": true
+        },
+        "bg_uuids": {
+          "qa_status_pass": true,
+          "one_unique_uuid": true,
+          "twenty_bg_smart_objects": true,
+          "all_records_decoded": true,
+          "records_share_uuid": true
+        },
+        "layer_comps": {
+          "decoder_status": "UNAVAILABLE",
+          "checks": {
+            "native_40_tests_for_format": true,
+            "decoder_pass_20_or_unavailable": true,
+            "decoder_not_fail": true
+          }
+        },
+        "native_layer_comp_evidence": {
+          "format": "1109x1973",
+          "before_save_count": 20,
+          "after_reopen_count": 20,
+          "checks": {
+            "before_save_20_exact_offers": true,
+            "after_reopen_20_exact_offers": true,
+            "output_saved_once": true,
+            "format_ok_once": true
+          },
+          "status": "PASS"
+        }
+      },
+      "structural_pass": true
+    },
+    {
+      "format": "360x80",
+      "file": "WORK/01_TEMPLATES/2026-09-20-r17/BYD_TPL_360x80.psd",
+      "sha256": "d8e6fc55a0fa71c20fa77d21e3f51e3e7bbcce90cf48a403d09e8c05d8e19e1b",
+      "checks": {
+        "global_scope": true,
+        "roots_7": true,
+        "five_state_roots_20_each": true,
+        "dimensions": true,
+        "editable_texts_and_source_comparison": true,
+        "anchors_20": true,
+        "embedded_tags": true,
+        "bg_uuid_reuse_20": true,
+        "layer_comps_native_and_decoder": true,
+        "manifest_path_match": true,
+        "manifest_hash_match": true,
+        "manifest_bytes_match": true
+      },
+      "details": {
+        "text": {
+          "checks": {
+            "editable_type_layers_present": true,
+            "layer_count_covers_text": true,
+            "comparison_offer_scope": true,
+            "all_required_texts_match": true
+          },
+          "failures": []
+        },
+        "anchor_failures": [],
+        "tags": {
+          "source_tag_scope": true,
+          "source_new_scope": true,
+          "new_tags_in_conditionals": true,
+          "song_pro_words_in_conditionals": true,
+          "no_vehicle_tag_leaks": true,
+          "qa_status_pass": true
+        },
+        "bg_uuids": {
+          "qa_status_pass": true,
+          "one_unique_uuid": true,
+          "twenty_bg_smart_objects": true,
+          "all_records_decoded": true,
+          "records_share_uuid": true
+        },
+        "layer_comps": {
+          "decoder_status": "UNAVAILABLE",
+          "checks": {
+            "native_40_tests_for_format": true,
+            "decoder_pass_20_or_unavailable": true,
+            "decoder_not_fail": true
+          }
+        },
+        "native_layer_comp_evidence": {
+          "format": "360x80",
+          "before_save_count": 20,
+          "after_reopen_count": 20,
+          "checks": {
+            "before_save_20_exact_offers": true,
+            "after_reopen_20_exact_offers": true,
+            "output_saved_once": true,
+            "format_ok_once": true
+          },
+          "status": "PASS"
+        }
+      },
+      "structural_pass": true
+    }
+  ],
+  "global_checks": {
+    "spec_revision_r18": true,
+    "spec_native_checks_closed": true,
+    "spec_template_directory_r17": true,
+    "qa_schema": true,
+    "qa_revision_r18": true,
+    "qa_expected_templates_7": true,
+    "qa_rows_7_unique": true,
+    "qa_format_scope": true,
+    "qa_expected_dimensions": true,
+    "qa_observed_dimensions_once_each": true,
+    "qa_source_spec_r18": true,
+    "qa_source_inventory": true,
+    "manifest_scope": true,
+    "native_layer_comp_tests_280": true
+  },
+  "manifest_checks": {
+    "revision_r18": true,
+    "declared_count_7": true,
+    "rows_7": true,
+    "unique_format_rows": true
+  },
+  "native_layer_comps": {
+    "status": "PASS",
+    "tests": 280,
+    "checks": {
+      "r17_strip_completed_before_later_interruption": true,
+      "r20_clean_terminal": true,
+      "exact_format_scope": true,
+      "all_formats_native_pass": true,
+      "native_apply_tests_280": true
+    },
+    "formats": {
+      "1920x276": {
+        "format": "1920x276",
+        "before_save_count": 20,
+        "after_reopen_count": 20,
+        "checks": {
+          "before_save_20_exact_offers": true,
+          "after_reopen_20_exact_offers": true,
+          "output_saved_once": true,
+          "format_ok_once": true
+        },
+        "status": "PASS"
+      },
+      "1080x1080": {
+        "format": "1080x1080",
+        "before_save_count": 20,
+        "after_reopen_count": 20,
+        "checks": {
+          "before_save_20_exact_offers": true,
+          "after_reopen_20_exact_offers": true,
+          "output_saved_once": true,
+          "format_ok_once": true
+        },
+        "status": "PASS"
+      },
+      "1080x1920": {
+        "format": "1080x1920",
+        "before_save_count": 20,
+        "after_reopen_count": 20,
+        "checks": {
+          "before_save_20_exact_offers": true,
+          "after_reopen_20_exact_offers": true,
+          "output_saved_once": true,
+          "format_ok_once": true
+        },
+        "status": "PASS"
+      },
+      "1109x1973": {
+        "format": "1109x1973",
+        "before_save_count": 20,
+        "after_reopen_count": 20,
+        "checks": {
+          "before_save_20_exact_offers": true,
+          "after_reopen_20_exact_offers": true,
+          "output_saved_once": true,
+          "format_ok_once": true
+        },
+        "status": "PASS"
+      },
+      "1920x1080": {
+        "format": "1920x1080",
+        "before_save_count": 20,
+        "after_reopen_count": 20,
+        "checks": {
+          "before_save_20_exact_offers": true,
+          "after_reopen_20_exact_offers": true,
+          "output_saved_once": true,
+          "format_ok_once": true
+        },
+        "status": "PASS"
+      },
+      "1920x1125": {
+        "format": "1920x1125",
+        "before_save_count": 20,
+        "after_reopen_count": 20,
+        "checks": {
+          "before_save_20_exact_offers": true,
+          "after_reopen_20_exact_offers": true,
+          "output_saved_once": true,
+          "format_ok_once": true
+        },
+        "status": "PASS"
+      },
+      "360x80": {
+        "format": "360x80",
+        "before_save_count": 20,
+        "after_reopen_count": 20,
+        "checks": {
+          "before_save_20_exact_offers": true,
+          "after_reopen_20_exact_offers": true,
+          "output_saved_once": true,
+          "format_ok_once": true
+        },
+        "status": "PASS"
+      }
+    },
+    "logs": [
+      "WORK/06_LOGS/recapture_templates_r17.log",
+      "WORK/06_LOGS/recapture_templates_r20.log"
+    ]
+  },
+  "layer_comp_decoder_policy": "PASS with count 20, or UNAVAILABLE only when the format has 40 successful native apply tests. FAIL is never accepted.",
+  "human_approval": "NOT_ASSERTED"
+}

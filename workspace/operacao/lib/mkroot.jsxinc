@@ -1,0 +1,33 @@
+/* mkroot.jsxinc — resolução de raiz para ExtendScript.
+
+   Uso, no topo do script:
+     #include "../../lib/mkroot.jsxinc"
+     var ROOT = MK.root();
+
+   Sobe a partir de $.fileName até achar o marcador .mkroot. Não usa
+   caminho absoluto, portanto sobrevive a qualquer migração de disco.
+*/
+var MK = (function () {
+  function root() {
+    var here = new File($.fileName);
+    if (!here.exists) throw Error('MKROOT_NO_SCRIPT_PATH');
+    var dir = here.parent;
+    while (dir) {
+      if (new File(dir.fsName + '/.mkroot').exists) return dir.fsName;
+      if (dir.parent && dir.parent.fsName === dir.fsName) break;
+      dir = dir.parent;
+    }
+    throw Error('MKROOT_NOT_FOUND a partir de ' + here.fsName);
+  }
+  /* Exige que o Photoshop esteja limpo antes de qualquer execução.
+     Documento aberto ou sujo aborta: o cânone proíbe escrever por cima
+     de trabalho não salvo do operador. */
+  function preflight() {
+    if (app.documents.length !== 0) {
+      throw Error('PREFLIGHT_DOCS_ABERTOS=' + app.documents.length +
+                  ' — salve e feche antes de executar.');
+    }
+    return true;
+  }
+  return { root: root, preflight: preflight };
+}());

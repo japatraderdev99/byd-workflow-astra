@@ -1,0 +1,125 @@
+{
+  "scope": "V4 filesystem inventory at handoff; excludes Finder and Python caches; logical bytes, not physical APFS allocation or production elapsed time",
+  "groups": {
+    "Documentos_raiz": {
+      "files": 6,
+      "bytes": 51643
+    },
+    "WORK/REUSO_TEMPLATES.md": {
+      "files": 1,
+      "bytes": 3698
+    },
+    "WORK/RELATORIO_PILOTOS_P16.md": {
+      "files": 1,
+      "bytes": 6042
+    },
+    "WORK/PLANO_EXECUTAVEL_20260919.md": {
+      "files": 1,
+      "bytes": 9061
+    },
+    "WORK/RELATORIO_FINAL.md": {
+      "files": 1,
+      "bytes": 10383
+    },
+    "WORK/FLUXO_ORQUESTRADO.md": {
+      "files": 1,
+      "bytes": 5210
+    },
+    "WORK/README.md": {
+      "files": 1,
+      "bytes": 605
+    },
+    "INPUT": {
+      "files": 48,
+      "bytes": 1245050593
+    },
+    "OUTPUT": {
+      "files": 140,
+      "bytes": 143221655
+    },
+    "WORK/00_MATRIZ": {
+      "files": 54,
+      "bytes": 35578337
+    },
+    "WORK/06_LOGS": {
+      "files": 72,
+      "bytes": 710817
+    },
+    "WORK/05_SCRIPTS": {
+      "files": 89,
+      "bytes": 810284
+    },
+    "WORK/02_PILOTOS": {
+      "files": 115,
+      "bytes": 122515036
+    },
+    "WORK/01_TEMPLATES": {
+      "files": 132,
+      "bytes": 67950301317
+    },
+    "WORK/04_QA": {
+      "files": 186,
+      "bytes": 75073276
+    },
+    "WORK/03_STAGING": {
+      "files": 305,
+      "bytes": 311408688
+    }
+  },
+  "extensions": {
+    ".md": {
+      "files": 82,
+      "bytes": 297486
+    },
+    ".pdf": {
+      "files": 2,
+      "bytes": 612559
+    },
+    ".psd": {
+      "files": 67,
+      "bytes": 69142773982
+    },
+    ".png": {
+      "files": 613,
+      "bytes": 661963137
+    },
+    ".otf": {
+      "files": 25,
+      "bytes": 2028424
+    },
+    ".json": {
+      "files": 123,
+      "bytes": 3880137
+    },
+    ".tsv": {
+      "files": 3,
+      "bytes": 96845
+    },
+    ".jpg": {
+      "files": 94,
+      "bytes": 71509164
+    },
+    ".log": {
+      "files": 48,
+      "bytes": 636446
+    },
+    ".jsonl": {
+      "files": 2,
+      "bytes": 2444
+    },
+    ".py": {
+      "files": 46,
+      "bytes": 262917
+    },
+    ".jsx": {
+      "files": 43,
+      "bytes": 547367
+    },
+    ".html": {
+      "files": 5,
+      "bytes": 145737
+    }
+  },
+  "total_files": 1153,
+  "total_bytes": 69884756645
+}

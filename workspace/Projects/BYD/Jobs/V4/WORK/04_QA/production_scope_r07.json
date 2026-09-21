@@ -1,0 +1,488 @@
+{
+  "count": 120,
+  "retained_format": "1920x276 from R03, Dolphin correction R08 pending",
+  "spec_sha256": "cf2495197c590e4c9f2f13f60a010c4751cd1719f65a1828e2ce7f3dbcf8b3c8",
+  "scope": [
+    {
+      "offer_id": "atto-2",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1920x1080"
+    },
+    {
+      "offer_id": "atto-2",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1920x1125"
+    },
+    {
+      "offer_id": "atto-2",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1080x1080"
+    },
+    {
+      "offer_id": "atto-2",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1080x1920"
+    },
+    {
+      "offer_id": "atto-2",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "1109x1973"
+    },
+    {
+      "offer_id": "atto-2",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "atto-8",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "dolphin-gs",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "dolphin-mini-5l-gs",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "dolphin-se",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "king-gs",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "seal-26-27",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "sealion-26-27",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "song-plus",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "song-premium",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "song-pro-flex",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "song-pro",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "vd-atto-2",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "vd-dolphin-mini",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "vd-king-gl",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "vd-shark",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "vd-song-pro-flex",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "vd-song-pro",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "yuan-plus-awd-26-27",
+      "format": "360x80"
+    },
+    {
+      "offer_id": "yuan-pro",
+      "format": "360x80"
+    }
+  ],
+  "authorization": "User siga 2026-09-20; prior explicit scale authorization"
+}

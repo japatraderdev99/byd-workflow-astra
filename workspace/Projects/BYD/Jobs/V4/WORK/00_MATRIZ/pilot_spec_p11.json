@@ -1,0 +1,350 @@
+{
+  "source": "INPUT/02_PSD_oficial todas as artes em feed/26.08.07 VAREJO BYD FEED 1080x1350.psd",
+  "logo": "WORK/00_MATRIZ/logo_oficial_branco.pdf",
+  "revision": "p11",
+  "formats": [
+    {
+      "w": 1920,
+      "h": 1080,
+      "id": "1920x1080",
+      "zones": {
+        "logo": [
+          95,
+          80,
+          520,
+          75
+        ],
+        "tagline": [
+          95,
+          195,
+          610,
+          45
+        ],
+        "title": [
+          95,
+          300,
+          780,
+          45
+        ],
+        "price": [
+          95,
+          390,
+          770,
+          145
+        ],
+        "benefit": [
+          95,
+          630,
+          760,
+          45
+        ],
+        "headline": [
+          95,
+          720,
+          760,
+          100
+        ],
+        "car": [
+          950,
+          280,
+          900,
+          490
+        ],
+        "legal": [
+          95,
+          960,
+          1730,
+          65
+        ],
+        "footer": [
+          1100,
+          880,
+          700,
+          45
+        ],
+        "badges": [
+          1605,
+          790,
+          230,
+          65
+        ],
+        "instal": [
+          95,
+          555,
+          650,
+          40
+        ],
+        "detail": [
+          1100,
+          790,
+          450,
+          65
+        ]
+      },
+      "legal_font": 14,
+      "headline_wrap": 32,
+      "bg_horizon": 440,
+      "family": "landscape",
+      "align": "left"
+    },
+    {
+      "w": 1080,
+      "h": 1080,
+      "id": "1080x1080",
+      "zones": {
+        "logo": [
+          345,
+          45,
+          390,
+          60
+        ],
+        "tagline": [
+          270,
+          135,
+          540,
+          35
+        ],
+        "title": [
+          110,
+          210,
+          860,
+          36
+        ],
+        "price": [
+          230,
+          270,
+          620,
+          90
+        ],
+        "benefit": [
+          140,
+          775,
+          800,
+          35
+        ],
+        "headline": [
+          140,
+          830,
+          800,
+          42
+        ],
+        "car": [
+          170,
+          420,
+          740,
+          340
+        ],
+        "legal": [
+          60,
+          955,
+          960,
+          60
+        ],
+        "footer": [
+          90,
+          1030,
+          900,
+          30
+        ],
+        "badges": [
+          670,
+          890,
+          280,
+          40
+        ],
+        "instal": [
+          300,
+          380,
+          480,
+          27
+        ],
+        "detail": [
+          100,
+          875,
+          530,
+          70
+        ]
+      },
+      "legal_font": 10,
+      "headline_wrap": 45,
+      "bg_horizon": 500,
+      "family": "square",
+      "align": "center"
+    },
+    {
+      "w": 1080,
+      "h": 1920,
+      "id": "1080x1920",
+      "zones": {
+        "logo": [
+          330,
+          115,
+          420,
+          70
+        ],
+        "tagline": [
+          230,
+          235,
+          620,
+          48
+        ],
+        "title": [
+          120,
+          350,
+          840,
+          52
+        ],
+        "price": [
+          150,
+          440,
+          780,
+          130
+        ],
+        "benefit": [
+          95,
+          1330,
+          890,
+          50
+        ],
+        "headline": [
+          95,
+          1410,
+          890,
+          70
+        ],
+        "car": [
+          95,
+          710,
+          890,
+          480
+        ],
+        "legal": [
+          85,
+          1660,
+          910,
+          115
+        ],
+        "footer": [
+          90,
+          1810,
+          900,
+          60
+        ],
+        "badges": [
+          720,
+          1240,
+          280,
+          65
+        ],
+        "instal": [
+          200,
+          605,
+          680,
+          35
+        ],
+        "detail": [
+          120,
+          1520,
+          650,
+          100
+        ]
+      },
+      "legal_font": 15,
+      "headline_wrap": 34,
+      "bg_horizon": 840,
+      "family": "portrait",
+      "align": "center"
+    }
+  ],
+  "offers": [
+    {
+      "id": "yuan-plus-awd-26-27",
+      "title": 220,
+      "price": 224,
+      "legal": 227,
+      "car": 233,
+      "car_bounds": [
+        186,
+        462,
+        895,
+        842
+      ],
+      "benefit": 1167,
+      "headline": 229,
+      "extra": [],
+      "extras": [],
+      "anchor_id": 231,
+      "anchor_name": "Layer 8"
+    },
+    {
+      "id": "dolphin-mini-5l-gs",
+      "title": 56,
+      "price": 59,
+      "legal": 63,
+      "car": 21,
+      "car_bounds": [
+        185,
+        492,
+        873,
+        840
+      ],
+      "benefit": 1166,
+      "headline": 2940,
+      "extra": [
+        61,
+        67,
+        32
+      ],
+      "anchor_id": 9,
+      "anchor_name": "Layer 2",
+      "extras": [
+        {
+          "id": 61,
+          "role": "instal"
+        },
+        {
+          "id": 67,
+          "role": "badges"
+        },
+        {
+          "id": 32,
+          "role": "detail",
+          "crop": [
+            0,
+            1150,
+            1080,
+            1350
+          ],
+          "anchor_id": 23,
+          "anchor_name": "It\u2019s not a car, it\u2019s a BYD"
+        }
+      ]
+    },
+    {
+      "id": "vd-atto-2",
+      "title": 2956,
+      "price": 2960,
+      "legal": 2963,
+      "car": 2954,
+      "car_bounds": [
+        154,
+        482,
+        902,
+        863
+      ],
+      "benefit": 2966,
+      "headline": 2965,
+      "extra": [],
+      "extras": [],
+      "anchor_id": 2952,
+      "anchor_name": "04.ATTO 2 DMi_LHD_Midnight Blue_High-end Wheels_Left 45\u00b0_download_PSB_RGB"
+    }
+  ],
+  "fixed": {
+    "tagline": 84,
+    "footer": 98,
+    "background": 78
+  },
+  "output_templates": "WORK/01_TEMPLATES/2026-09-19-p11/",
+  "output_pilots": "WORK/02_PILOTOS/2026-09-19-p11/"
+}
